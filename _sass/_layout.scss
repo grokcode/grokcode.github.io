@@ -1,5 +1,5 @@
 /**
- * Site header
+ * Main layout
  */
 
 
@@ -29,3 +29,25 @@ body {
     clear: both;
     margin: 0 0 30px 0;
 }
+
+#header, #footer {
+    font-size: $small-font-size;
+    color: $alt-text-color;
+    line-height: 1.7em;
+    h3 {
+	text-transform: uppercase;
+	font-weight: normal;
+	color: #333333;
+    }
+}
+
+
+/**
+ * Header
+*/
+
+#logo img {
+    max-width: 141px;
+}
+
+
