@@ -7,12 +7,20 @@ body {
     border-top: 5px solid $accent-color;
 }
 
+#container {
+    max-width: 50em;
+    margin: 0 auto;
+}
+
 #header {
-    width: 220px;
+    width: 21%;
     position: fixed;
     float: left;
     margin-left: 20px;
     padding-top: $spacing-unit;
+    #logo img {
+	max-width: 141px;
+    }
 }
 
 #main {
@@ -30,7 +38,7 @@ body {
     margin: 0 0 30px 0;
 }
 
-#header, #footer {
+#header, #footer, #content .post-meta {
     font-size: $small-font-size;
     color: $alt-text-color;
     line-height: 1.7em;
@@ -42,12 +50,61 @@ body {
 }
 
 
-/**
- * Header
-*/
 
-#logo img {
-    max-width: 141px;
+@media #{$on-tablet} {
+    #header, #main, #footer {
+	width: 94%;
+    }
+    #header {
+	float: none;
+	position: relative;
+	margin: 0 auto 10px auto;
+	padding: 20px 0;
+	#logo {
+	    margin: 0;
+	    display: inline-block;
+	    width: 100px;
+	    img {
+		max-width: 100%;
+		height: auto;
+	    }
+	}
+	#mainNav {
+	    right: 20px;
+	    position: absolute;
+	    top: 50%;
+	    height: 20px;
+	    margin-top: -10px;
+	    li {
+		margin: 0 0 0 1.5em;
+		display: inline-block;
+		padding: 0;
+	    }
+	}
+	#side_widgets {
+	    display: none;
+	}
+    }
+    #main {
+	margin: 0 auto 30px auto;
+	padding-top: 0;
+	float: none;
+    }
 }
 
-
+@media #{$on-phone} {
+    #header #logo {
+	float: none;
+	width: 60px;
+	margin: 0 auto 20px auto;
+    }
+    #mainNav {
+	position: relative;
+	margin-top: 0;
+	top: 0;
+	right: 0;
+	width: 100%;
+	margin: 0 0 5px 0;
+	display: block;
+    }
+}
