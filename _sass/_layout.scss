@@ -49,6 +49,9 @@ body {
     }
 }
 
+.top-meta {
+    margin-top: -12px;
+}
 
 
 @media #{$on-tablet} {
@@ -93,18 +96,27 @@ body {
 }
 
 @media #{$on-phone} {
-    #header #logo {
-	float: none;
-	width: 60px;
-	margin: 0 auto 20px auto;
-    }
-    #mainNav {
+    #header {
+	text-align: center;
+	width: 99%;
+	margin: 0 auto;
 	position: relative;
-	margin-top: 0;
-	top: 0;
-	right: 0;
-	width: 100%;
-	margin: 0 0 5px 0;
-	display: block;
+	#logo {
+	    float: none;
+	    width: 60px;
+	    margin: 0 auto 20px auto;
+	    h1 {
+		margin: 0;
+	    }
+	}
+	#mainNav {
+	    position: relative;
+	    margin-top: 0;
+	    top: 0;
+	    right: 0;
+	    width: 100%;
+	    margin: 0 0 5px 0;
+	    display: block;
+	}
     }
 }
