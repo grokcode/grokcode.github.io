@@ -17,7 +17,7 @@ Hi, I&#8217;m Jess Johnson. I am a [developer](#developer), a [writer](#writer),
 
 You can find me on [Twitter](https://twitter.com/grokcode) for occasional side channel banter, on [Github](https://github.com/grokcode) for open source, and on [Google+](https://plus.google.com/104959372961388172986?rel=author) for completeness. You can also email me at <jess@grokcode.com>.
 
-## Developer {#developer}
+## <a name="developer"></a> Developer
 
 ### A brief history
 
@@ -27,7 +27,7 @@ I was ambitious enough to set my sights on a Computer Science degree from one of
 
 After graduation, I took a consulting position with a Costa Rican company. I moved to Costa Rica for what was originally supposed to be 6 months, and ended up staying for nearly 10 years. During that time I had the opportunity to consult in a wide variety of industries, bootstrap a [service for book lovers](http://authoralcove.com), and use a bunch of different tech stacks. A few of the highlights are listed in [my portfolio](http://grokcode.com/programmer-portfolio/).
 
-As of July 2014, I&#8217;m back in the United States and working full-time building web and mobile apps in the health and quantified-self space.
+As of 2014, I&#8217;m back in the United States and working full-time building web and mobile apps in the health and quantified-self space.
 
 ### Tools
 
@@ -41,7 +41,7 @@ As far as programming languages, I have had a lot of opportunity to experiment &
 
 There is a long list of languages and tech that I want to explore further. At the top is Ruby, Node, Python&#8217;s data science tools, and some of the JavaScript frameworks like Angular, Ember, and Backbone.
 
-## Writer {#writer}
+## <a name="writer"></a> Writer
 
 I have been writing longform articles about programming, development tips and guides, and reviews of books and tools for developers here on GrokCode since 2007. GrokCode was started as a way to connect with other developers despite the dearth of programmers in the small Costa Rican town where I lived. Writing has become an invaluable way for me to focus and explore my thoughts.
 
@@ -88,7 +88,7 @@ Here are the all time most popular articles ranked by pageviews:
 
 GrokCode has been featured on Slashdot, Mashable, Daring Fireball, The Code Project, Pycoder&#8217;s Weekly and various other publications around the interwebs. Jeff Atwood and Zed Shaw have tweeted links to GrokCode, which isn&#8217;t by any means a reliable measure of the writing quality, but was still really awesome.
 
-## World Citizen {#expat}
+## <a name="expat"></a> World Citizen
 
 Aside from being a programmer and a writer, I am a world citizen. Living in two different cultures and traveling in unfamiliar places has changed my perspective on what it means to be a person and a caretaker of the Earth.
 
