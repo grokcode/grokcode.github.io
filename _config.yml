@@ -15,4 +15,4 @@ github_username:  grokcode
 gplus_id: 104959372961388172986
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
