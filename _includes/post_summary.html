@@ -1,0 +1,10 @@
+<li class="post {% for cat in post.categories %}category-{{ cat }} {% endfor %}{% for tag in post.tags %}tag={{ tag }} {% endfor %}">
+  <div class="inside">
+    <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+    <div class="post-meta clearfix">
+      <i>by</i> <a href="{{ site.baseurl }}/about/">{{ post.author }}</a>
+      in {% include category_link.html category=post.categories.first %}
+    </div>
+    {{ post.excerpt }}
+  </div>
+</li>

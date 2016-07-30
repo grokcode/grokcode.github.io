@@ -14,5 +14,15 @@ twitter_username: grokcode
 github_username:  grokcode
 gplus_id: 104959372961388172986
 
+category_slugs:
+  Books &amp; Tools: books-tools
+  Tips &amp; Tutorials: tips-tutorials
+  Programming Languages: programming-languages
+  Career: career
+  Extras: extras
+  Sweet Hacks: sweet-hacks
+  Fun Projects: fun-projects
+
+
 # Build settings
 markdown: kramdown
