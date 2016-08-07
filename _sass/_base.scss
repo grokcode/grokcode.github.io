@@ -32,6 +32,7 @@ body {
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
+input,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
 }
@@ -97,6 +98,7 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
+
 /**
  * Links
  */
@@ -146,6 +148,8 @@ pre {
         border: 0;
         padding-right: 0;
         padding-left: 0;
+        display: block;
+        line-height: 1.5em;
     }
 }
 
@@ -168,6 +172,46 @@ pre {
     }
 }
 
+
+/**
+ * Inputs
+*/
+input:focus {
+  outline: none;
+}
+
+input[type="text"] {
+  background-color: #fafafa;
+  font-family: $alt-font-family;
+  border-radius: 6px;
+  color: #6a6a6a;
+  border: 1px solid #dddddd;
+  padding: 10px;
+  width: 100%;
+}
+
+input[type="submit"] {
+  display: inline-block;
+  background-color: $brand-color;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 7px 15px;
+  border-radius: 3px;
+  border: none;
+  &:hover {
+    background-color: $accent-color;
+    cursor: pointer;
+  }
+}
+
 .clearfix {
     zoom: 1;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
 }
