@@ -21,9 +21,7 @@ Sometimes it is handy to allow users to change part of their profile without hav
 The workflow we want to handle looks like this:
   
 1. User clicks an unsubscribe link.
-  
 2. We verify the security token on the unsubscribe link.
-  
 3. The user gets a message saying they have been unsubscribed.
 
 This workflow is pretty easy to set up using Django&#8217;s signing functions. 
@@ -32,24 +30,25 @@ This workflow is pretty easy to set up using Django&#8217;s signing functions.
 
 Let&#8217;s use Djanogo&#8217;s built in signing functions to create an unsubscribe link with a security token, and then create a way to verify the token. You can tuck the following code into the user profile.
 
-<pre><code class="language-python">from django.core.signing import TimestampSigner, BadSignature, SignatureExpired
+```python
+from django.core.signing import TimestampSigner, BadSignature, SignatureExpired
 
-    def create_unsubscribe_link(self):
-        username, token = self.make_token().split(":", 1)
-        return reverse('user_signups.views.unsubscribe',
-                       kwargs={'username': username, 'token': token,})
+def create_unsubscribe_link(self):
+    username, token = self.make_token().split(":", 1)
+    return reverse('user_signups.views.unsubscribe',
+                   kwargs={'username': username, 'token': token,})
 
-    def make_token(self):
-        return TimestampSigner().sign(self.user.username)
+def make_token(self):
+    return TimestampSigner().sign(self.user.username)
 
-    def check_token(self, token):
-        try:
-            key = '%s:%s' % (self.user.username, token)
-            TimestampSigner().unsign(key, max_age=60 * 60 * 48) # Valid for 2 days
-        except (BadSignature, SignatureExpired):
-            return False
-        return True</code></pre>
-
+def check_token(self, token):
+    try:
+        key = '%s:%s' % (self.user.username, token)
+        TimestampSigner().unsign(key, max_age=60 * 60 * 48) # Valid for 2 days
+    except (BadSignature, SignatureExpired):
+        return False
+    return True
+```
 As long as the `SECRET_KEY` from `django.conf.settings` is kept private, it isn&#8217;t feasible for someone malicious to craft signed links. 
 
 While verifying the token in the unsubscribe link, we want to strike a good balance with user friendliness and security. In the common case, a user shouldn&#8217;t have to login to unsubscribe. But we also want to prevent users from being accidentally unsubscribed by others if they forward the email or otherwise make it public. Adding an expiry date to the token somewhat mitigates this risk. Above we use a 2 day expiry date.
@@ -58,12 +57,15 @@ While verifying the token in the unsubscribe link, we want to strike a good bala
 
 Now hooking up the url pattern which accepts the special characters that may appear in the token:
 
-<pre><code class="language-python">url(r'^unsubscribe/(?P&lt;username&gt;[\w.@+-]+)/(?P&lt;token&gt;[\w.:\-_=]+)/$',
-     'user_signups.views.unsubscribe'),</code></pre>
+```python
+url(r'^unsubscribe/(?P<username>[\w.@+-]+)/(?P<token>[\w.:\-_=]+)/$',
+     'user_signups.views.unsubscribe'),
+```
 
 ## The view
 
-<pre><code class="language-python">def unsubscribe(request, username, token):
+```python
+def unsubscribe(request, username, token):
     """ 
     User is immediately unsubscribed if they are logged in as username, or
     if they came from an unexpired unsubscribe link. Otherwise, they are
@@ -84,7 +86,8 @@ Now hooking up the url pattern which accepts the special characters that may app
     # Otherwise redirect to login page
     next_url = reverse('user_signups.views.unsubscribe', 
                        kwargs={'username': username, 'token': token,})
-    return HttpResponseRedirect('%s?next=%s' % (reverse('login'), next_url))</code></pre>
+    return HttpResponseRedirect('%s?next=%s' % (reverse('login'), next_url))
+```
 
 ## The templates
 
