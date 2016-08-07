@@ -1,175 +1,175 @@
 /**
  * Reset some basic elements
- */
+*/
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 
 
 /**
  * Basic styling
- */
+*/
 body {
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    line-height: $base-line-height;
-    letter-spaceing: $base-letter-spacing;
-    font-weight: 300;
-    color: $text-color;
-    background-color: $background-color;
-    -webkit-text-size-adjust: 100%;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  letter-spaceing: $base-letter-spacing;
+  font-weight: 300;
+  color: $text-color;
+  background-color: $background-color;
+  -webkit-text-size-adjust: 100%;
 }
 
 
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
- */
+*/
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 input,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 2;
 }
 
 
 
 /**
  * Images
- */
+*/
 img {
-    max-width: 100%;
-    vertical-align: middle;
-    height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+  height: auto;
 }
 #content img {
-    border: 1px solid #dddddd;
+  border: 1px solid #dddddd;
 }
 
 
 
 /**
  * Figures
- */
+*/
 figure > img {
-    display: block;
+  display: block;
 }
 
 figcaption {
-    font-size: $small-font-size;
+  font-size: $small-font-size;
 }
 
 
 
 /**
  * Lists
- */
+*/
 ul, ol {
-    list-style: none;
+  list-style: none;
 }
 
 li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
+  > ul,
+  > ol {
+    margin-bottom: 0;
+  }
 }
 
 
 
 /**
  * Headings
- */
+*/
 h1, h2, h3, h4, h5, h6 {
-    font-family: $alt-font-family;
+  font-family: $alt-font-family;
 }
 #content .post {
-    h1 {
-	text-align: center;
-    }
-    .post-meta.top {
-	text-align: center;
-    }
+  h1 {
+    text-align: center;
+  }
+  .post-meta.top {
+    text-align: center;
+  }
 
 }
 
 
 /**
  * Links
- */
+*/
 a {
-    color: $brand-color;
-    text-decoration: none;
+  color: $brand-color;
+  text-decoration: none;
 
-    &:hover {
-	color: lighten($brand-color, 10%);
-    }
+  &:hover {
+    color: lighten($brand-color, 10%);
+  }
 }
 
 
 
 /**
  * Blockquotes
- */
+*/
 blockquote {
-    border-left: 5px solid $accent-color;
-    background: #f5f5f5 url('../assets/img/open-quote.png') no-repeat scroll 0 0;
-    padding: $spacing-unit / 2 $spacing-unit / 2 1px $spacing-unit / 2;
+  border-left: 5px solid $accent-color;
+  background: #f5f5f5 url('../assets/img/open-quote.png') no-repeat scroll 0 0;
+  padding: $spacing-unit / 2 $spacing-unit / 2 1px $spacing-unit / 2;
 }
 
 
 
 /**
  * Code formatting
- */
+*/
 pre,
 code {
-    font-family: Consolas,Monaco,'Andale Mono',monospace;
-    border-radius: 6px;
-    background-color: rgb(39, 40, 34);
-    color: #f8f8f2;
+  font-family: Consolas,Monaco,'Andale Mono',monospace;
+  border-radius: 6px;
+  background-color: rgb(39, 40, 34);
+  color: #f8f8f2;
 }
 
 code {
-    padding: 1px 5px;
-    font-size: .9em;
+  padding: 1px 5px;
+  font-size: .9em;
 }
 
 pre {
-    padding: 8px 12px;
-    overflow-x: scroll;
+  padding: 8px 12px;
+  overflow-x: scroll;
 
-    > code {
-        border: 0;
-        padding-right: 0;
-        padding-left: 0;
-        display: block;
-        line-height: 1.5em;
-    }
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+    display: block;
+    line-height: 1.5em;
+  }
 }
 
 
 
 /**
  * Icons
- */
+*/
 .icon {
 
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
+  > svg {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
 
-        path {
-            fill: $grey-color;
-        }
+    path {
+      fill: $grey-color;
     }
+  }
 }
 
 
@@ -205,7 +205,7 @@ input[type="submit"] {
 }
 
 .clearfix {
-    zoom: 1;
+  zoom: 1;
 }
 
 .right {
