@@ -4,6 +4,7 @@
     <div class="post-meta clearfix">
       <i>by</i> <a href="{{ site.baseurl }}/about/">{{ post.author }}</a>
       in {% include category_link.html category=post.categories.first %}
+      on {{ post.date | date: "%B %-d, %Y" }}
     </div>
     {{ post.excerpt }}
   </div>

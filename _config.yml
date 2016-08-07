@@ -1,10 +1,13 @@
 # Site settings
 title: GrokCode
+
 email: jess@grokcode.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >
+  Hi, I’m Jess, a developer building delightfully awesome things. You can find
+  out more [about me](http://grokcode.com/about/), have a look at some [things
+  I’ve built](http://grokcode.com/programmer-portfolio/), scroll down for my
+  latest writing on software development, or browse the [article
+  archives](http://grokcode.com/category/archives/).
 about: > # Sidebar about section
   Hi, I'm Jess. I use Python to craft web apps and sift data. I'm
   honing my full-stack development chops on [Author Alcove](http://authoralcove.com)
@@ -23,6 +26,14 @@ category_slugs:
   Sweet Hacks: sweet-hacks
   Fun Projects: fun-projects
 
+exclude:
+  - README.md
+  - Gemfile.lock
+  - Gemfile
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

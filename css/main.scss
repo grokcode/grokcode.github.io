@@ -25,7 +25,9 @@ $accent-color:     #005447;
 $grey-color:       #e3e2de;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
+$sep-color:  #e4e4e4;
 
+$on-desktop:       "only screen and (max-width : 1024px)";
 $on-tablet:        "only screen and (max-width : 768px)";
 $on-phone:         "only screen and (max-width : 600px)";
 
@@ -49,5 +51,6 @@ $on-phone:         "only screen and (max-width : 600px)";
 @import
         "base",
         "layout",
+        "elements",
         "syntax-highlighting"
 ;
