@@ -62,6 +62,7 @@ body {
     width: 29.5%;
   }
   .secondary {
+    padding-top: $spacing-unit / 2;
     clear: both;
   }
 }
@@ -149,7 +150,11 @@ body {
     }
     #footer {
       .footer-box {
-        width: 94%;
+        width: 100%;
+        &:first-child {
+          border-bottom: 1px solid $sep-color !important;
+          margin-bottom: 30px;
+        }
       }
     }
 }
