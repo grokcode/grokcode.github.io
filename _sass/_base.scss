@@ -211,7 +211,13 @@ input[type="submit"] {
 .right {
   float: right;
 }
+img.right {
+  margin: 5px 0 5px 15px;
+}
 
 .left {
   float: left;
+}
+img.left {
+  margin: 5px 15px 5px 0;
 }

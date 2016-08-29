@@ -20,10 +20,7 @@ guid: http://grok-code.com/grokcode-dev/
     JQuery
   </li>
   <li>
-    Celery
-  </li>
-  <li>
-    RabbitMQ
+    RQ
   </li>
   <li>
     Solr

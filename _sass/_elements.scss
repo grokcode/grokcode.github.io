@@ -10,7 +10,7 @@
 
 #homeMessage {
   p {
-    font-size: 1.2em;
+    font-size: 1.5em;
     line-height: 1.5em;
   }
 }
@@ -25,5 +25,19 @@
 .flare-follow {
   img {
     padding: 2px;
+  }
+}
+
+#content .skillList {
+
+  li {
+    font-size: .75em;
+    line-height: 1em;
+    background: $grey-color-darker;
+    display: inline-block;
+    color: $white-color;
+    padding: 6px;
+    border-radius: 3px;
+    margin: 0 5px 5px 0;
   }
 }
