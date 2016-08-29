@@ -1,41 +1,43 @@
 <footer id="footer" class="site-footer">
 
-  <div class="main clearfix">
+  {% if page.layout !=  'page' %}
+    <div class="main clearfix">
 
-    <div class="footer-box two-thirds-box">
-      <h3 class="accent-header">Further Reading</h3>
-      <ul class="with-images">
-	<li>
-	  <a href="http://grokcode.com/11/the-top-9-in-a-hackers-bookshelf/">
-            <img src="{{ site.baseurl }}/assets/img/hackers-bookshelf.jpg">
-	  </a>
-	  <a href="http://grokcode.com/11/the-top-9-in-a-hackers-bookshelf/">
-	    A Hacker's Bookshelf
-	  </a>
-	</li>
-	<li>
-	  <a href="http://grokcode.com/655/how-to-increase-productivity-by-reordering-your-office/">
-            <img src="{{ site.baseurl }}/assets/img/bamboo-plant21.jpg">
-	  </a>
-	  <a href="http://grokcode.com/655/how-to-increase-productivity-by-reordering-your-office/">
-	    Scientifically Proven Tips For A More Productive Office
-	  </a>
-	</li>
-      </ul>
-      <p><a href="{{ site.baseurl }}/category/archives/">Browse the article archives</a></p>
-    </div>
+      <div class="footer-box two-thirds-box">
+        <h3 class="accent-header">Further Reading</h3>
+        <ul class="with-images">
+          <li>
+            <a href="http://grokcode.com/11/the-top-9-in-a-hackers-bookshelf/">
+              <img src="{{ site.baseurl }}/assets/img/hackers-bookshelf.jpg">
+            </a>
+            <a href="http://grokcode.com/11/the-top-9-in-a-hackers-bookshelf/">
+              A Hacker's Bookshelf
+            </a>
+          </li>
+          <li>
+            <a href="http://grokcode.com/655/how-to-increase-productivity-by-reordering-your-office/">
+              <img src="{{ site.baseurl }}/assets/img/bamboo-plant21.jpg">
+            </a>
+            <a href="http://grokcode.com/655/how-to-increase-productivity-by-reordering-your-office/">
+              Scientifically Proven Tips For A More Productive Office
+            </a>
+          </li>
+        </ul>
+        <p><a href="{{ site.baseurl }}/category/archives/">Browse the article archives</a></p>
+      </div>
 
-    <div class="footer-box one-thirds-box">
-      <h3 class="accent-header">More articles like this</h3>
-      <form id="feedburner_email_widget_sbef" action="http://feedburner.google.com/fb/a/mailverify" method="post" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=GrokCode', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true;" target="popupwindow">
-        <label><p>You can have new articles delivered to your inbox.</p></label>
-        <input id="feedburner_email_widget_sbef_email" name="email" type="text" />
-        <input type="hidden" value="GrokCode" name="uri"/>
-        <input type="hidden" value="en_US" name="loc"/>
-        <input id="feedburner_email_widget_sbef_submit" type="submit" value="Go" />
-      </form>
+      <div class="footer-box one-thirds-box">
+        <h3 class="accent-header">More articles like this</h3>
+        <form id="feedburner_email_widget_sbef" action="http://feedburner.google.com/fb/a/mailverify" method="post" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=GrokCode', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true;" target="popupwindow">
+          <label><p>You can have new articles delivered to your inbox.</p></label>
+          <input id="feedburner_email_widget_sbef_email" name="email" type="text" />
+          <input type="hidden" value="GrokCode" name="uri"/>
+          <input type="hidden" value="en_US" name="loc"/>
+          <input id="feedburner_email_widget_sbef_submit" type="submit" value="Go" />
+        </form>
+      </div>
     </div>
-  </div>
+  {% endif %}
 
   <div class="secondary clearfix">
     <div class="right">
