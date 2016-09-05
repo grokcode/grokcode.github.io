@@ -9,13 +9,13 @@
     </div>
     <nav id="mainNav" class="clearfix">
       <ul>
-	<li class="menu-item"><a href="{{ site.baseurl }}/">Home</a></li>
-	{% for page in site.pages %}
-	  {% if page.menu_title %}
-	    <li class="menu-item"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.menu_title }}</a></li>
+        <li class="menu-item {% if page.url == '/' %}current{% endif %}"><a href="{{ site.baseurl }}/">Home</a></li>
+        {% for p in site.pages %}
+          {% if p.menu_title %}
+            <li class="menu-item {% if page.url == p.url %}current{% endif %}"><a href="{{ p.url | prepend: site.baseurl }}">{{ p.menu_title }}</a></li>
 	  {% endif %}
 	{% endfor %}
-	<li class="menu-item"><a href="{{ site.baseurl }}/category/archives/">Archives</a></li>
+        <li class="menu-item {% if page.url == '/category/archives/' %}current{% endif %}"><a href="{{ site.baseurl }}/category/archives/">Archives</a></li>
       </ul>
     </nav>
     <div id="side_widgets">
