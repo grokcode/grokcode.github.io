@@ -209,7 +209,7 @@ The accompanying website uses Stripe for payments.
   <img src="http://grokcode.com/wordpress/wp-content/uploads/grokcode-screenshot.png" alt="GrokCode Screenshot" width="362" height="211" class="left" />
 </div>
 
-**When:** 2007-2014
+**When:** 2007-{{ 'now' | date: "%Y" }}
 
 **Contribution:** Writer
 
