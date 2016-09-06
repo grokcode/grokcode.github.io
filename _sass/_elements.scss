@@ -75,6 +75,16 @@
   }
 }
 
+#content .post {
+  h2 {
+    padding: 10px 0;
+  }
+  ul {
+    margin: 0 0 25px 20px;
+    list-style-type: disc;
+  }
+}
+
 .post-portfolio {
   h2 {
     margin-top: 60px;
