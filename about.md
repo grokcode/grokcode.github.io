@@ -4,14 +4,10 @@ title: About
 menu_title: About
 date: 2007-12-01T14:28:13+00:00
 author: Jess Johnson
+description: >
+  Hi, I'm Jess, a full stack developer specializing in Python. I write about building things on the internet and software development here on GrokCode.
+keywords: jess johnson, about, grokcode, grok, code, computer science, developement, code, hacking
 layout: page
-guid: http://grok-code.com/wordpress/?page_id=117
-wp_jd_bitly:
-  - http://bit.ly/a4cfBa
-wp_jd_target:
-  - http://grok-code.com/grokcode-dev/about-2/
-jd_tweet_this:
-  - 
 ---
 Hi, I&#8217;m Jess Johnson. I am a [developer](#developer), a [writer](#writer), and a [world citizen](#expat).
 

@@ -1,11 +1,13 @@
 ---
 layout: default
+description: >
+  Grok some code. Programming tutorials, long form articles, and opinion pieces about building things on the internet.
 ---
 
 <div class="home">
 
   <div id="pageHead">
-    <div id="homeMessage" class="clearfix page">{{ site.description | markdownify }}</div>
+    <div id="homeMessage" class="clearfix page">{{ site.intro | markdownify }}</div>
   </div>
 
   <div id="recent" class="extraBox">

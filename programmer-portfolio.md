@@ -1,11 +1,13 @@
 ---
 id: 478
-title: 'Jess Johnson&#8217;s Programming Portfolio'
+title: "Jess Johnson's Programming Portfolio"
 menu_title: Portfolio
 date: 2010-08-28T12:19:00+00:00
 author: Jess Johnson
 layout: page
-guid: http://grok-code.com/grokcode-dev/
+description: >
+  Science-backed apps for changing your life, Data-crunching SaaS products, open source Django apps, Stripe payment integration, Joke Generation... Built with love and Python.
+keywords: portfolio, programming, developer, grokcode, python, django, full stack engineer, senior python developer
 ---
 ## Author Alcove {#author-alcove}
 

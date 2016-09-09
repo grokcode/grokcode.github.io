@@ -4,8 +4,19 @@
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{{ site.description }}">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+
+  {% capture description  %}
+    {% if page.description %}
+      {{ page.description }}
+    {% elsif page.excerpt %}
+      {{ page.excerpt | strip_html }}
+    {% else %}
+      {{ site.description }}
+    {% endif %}
+  {% endcapture %}
+  <meta name="description" content="{{ description | strip }}">
+
   <meta name="robots" content="noindex">
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">

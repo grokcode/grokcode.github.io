@@ -3,14 +3,17 @@ title: GrokCode
 
 email: jess@grokcode.com
 description: >
+  Grok some code. Programming tutorials, long form articles, and opinion
+  pieces about building things on the internet.
+about: > # Sidebar about section
+  Hi, I'm Jess. I use Python to craft web apps and sift data. I'm
+  honing my full-stack development chops on [Author Alcove](http://authoralcove.com)
+intro: > # Main page top text
   Hi, I’m Jess, a developer building delightfully awesome things. You can find
   out more [about me](http://grokcode.com/about/), have a look at some [things
   I’ve built](http://grokcode.com/programmer-portfolio/), scroll down for my
   latest writing on software development, or browse the [article
   archives](http://grokcode.com/category/archives/).
-about: > # Sidebar about section
-  Hi, I'm Jess. I use Python to craft web apps and sift data. I'm
-  honing my full-stack development chops on [Author Alcove](http://authoralcove.com)
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://grokcode.com" # the base hostname & protocol for your site
 twitter_username: grokcode
