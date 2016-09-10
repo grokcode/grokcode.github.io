@@ -35,8 +35,17 @@ exclude:
   - Gemfile
 
 # Build settings
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
+
 markdown: kramdown
 
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+
+feed:
+  path: feed/
+
+
