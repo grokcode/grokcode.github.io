@@ -4,14 +4,9 @@ title: Famous Programmers From Adleman to Zimmermann
 date: 2008-06-29T18:42:47+00:00
 author: Jess Johnson
 layout: post
-guid: http://grok-code.com/37/famous-programmers-from-adleman-to-zimmermann/
+description: >
+  An analysis of 222 famous programmers who are revered in the hacker culture as respected innovators, superstar coders, and the heroes of the computer revolution
 permalink: /37/famous-programmers-from-adleman-to-zimmermann/
-wp_jd_bitly:
-  - http://bit.ly/aAnPW3
-wp_jd_target:
-  - http://grok-code.com/grokcode-dev/37/famous-programmers-from-adleman-to-zimmermann/
-jd_tweet_this:
-  - 
 categories:
   - Extras
 tags:

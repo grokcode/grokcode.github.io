@@ -4,14 +4,9 @@ title: 'T-Shirts: Display Your Inner Geek'
 date: 2008-11-08T18:41:00+00:00
 author: Jess Johnson
 layout: post
-guid: http://grok-code.com/68/t-shirts-display-your-inner-geek/
+description: >
+  Show off your inner geek with these t-shirts. Great geeky gift ideas for programmers, gamers, systems administrators, and all around geeks.
 permalink: /68/t-shirts-display-your-inner-geek/
-wp_jd_bitly:
-  - http://bit.ly/9j0KDv
-wp_jd_target:
-  - http://grok-code.com/grokcode-dev/68/t-shirts-display-your-inner-geek/
-jd_tweet_this:
-  - 
 categories:
   - Extras
 tags:

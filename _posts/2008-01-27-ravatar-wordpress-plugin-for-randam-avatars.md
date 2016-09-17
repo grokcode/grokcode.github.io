@@ -4,14 +4,9 @@ title: Ravatar WordPress Plugin for Random Avatars
 date: 2008-01-27T21:57:00+00:00
 author: Jess Johnson
 layout: post
-guid: http://grok-code.com/7/ravatar-wordpress-plugin-for-randam-avatars/
+description: >
+  Information about the Ravatar Wordpress plugin. Ravatar will generate random, custom avatars for commenters on a Wordpress blog.
 permalink: /7/ravatar-wordpress-plugin-for-randam-avatars/
-wp_jd_bitly:
-  - http://bit.ly/bYaydh
-wp_jd_target:
-  - http://grok-code.com/grokcode-dev/7/ravatar-wordpress-plugin-for-randam-avatars/
-jd_tweet_this:
-  - 
 categories:
   - Fun Projects
 tags:

@@ -4,14 +4,9 @@ title: How to Write Original Jokes (Or Have A Computer Do It For You)
 date: 2008-03-01T22:30:16+00:00
 author: Jess Johnson
 layout: post
-guid: http://grok-code.com/12/how-to-write-original-jokes-or-have-a-computer-do-it-for-you/
+description: >
+  Generate your own jokes with a Common Lisp joke generator. Includes code walkthrough.
 permalink: /12/how-to-write-original-jokes-or-have-a-computer-do-it-for-you/
-wp_jd_bitly:
-  - http://bit.ly/aDGnxb
-wp_jd_target:
-  - http://grok-code.com/grokcode-dev/12/how-to-write-original-jokes-or-have-a-computer-do-it-for-you/
-jd_tweet_this:
-  - 
 categories:
   - Fun Projects
 tags:

@@ -4,14 +4,9 @@ title: The Top 9½ In a Hacker’s Bookshelf
 date: 2008-04-04T12:50:36+00:00
 author: Jess Johnson
 layout: post
-guid: http://grok-code.com/11/the-top-9-in-a-hackers-bookshelf/
+description: >
+  Every hacker should have a good solid dead tree library, and this list has a bit of everything. It is a list of hackers' classics.
 permalink: /11/the-top-9-in-a-hackers-bookshelf/
-wp_jd_bitly:
-  - http://bit.ly/9ZdfuU
-wp_jd_target:
-  - http://grok-code.com/grokcode-dev/11/the-top-9-in-a-hackers-bookshelf/
-jd_tweet_this:
-  - 
 categories:
   - 'Books &amp; Tools'
 tags:

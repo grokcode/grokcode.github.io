@@ -4,14 +4,9 @@ title: Programming Syntax Brain Teasers
 date: 2008-10-05T16:23:29+00:00
 author: Jess Johnson
 layout: post
-guid: http://grok-code.com/80/programming-syntax-brain-teasers/
+description: >
+  A collection of 4 programming brain teasers in C and Java. The problems range from easy to damn near impossible.
 permalink: /80/programming-syntax-brain-teasers/
-wp_jd_bitly:
-  - http://bit.ly/aXDdQZ
-wp_jd_target:
-  - http://grok-code.com/grokcode-dev/80/programming-syntax-brain-teasers/
-jd_tweet_this:
-  - 
 categories:
   - Programming Languages
 tags:

@@ -4,14 +4,9 @@ title: Learning Scala With Project Euler
 date: 2008-09-15T23:10:28+00:00
 author: Jess Johnson
 layout: post
-guid: http://grok-code.com/75/learning-scala-with-project-euler/
+description: >
+  A quick introduction to Scala and a review of the Scala documentation, community, and developer tools from the perspective of a Scala newbie.
 permalink: /75/learning-scala-with-project-euler/
-wp_jd_bitly:
-  - http://bit.ly/8Z91V9
-wp_jd_target:
-  - 
-jd_tweet_this:
-  - 
 categories:
   - Programming Languages
 tags:

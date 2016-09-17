@@ -4,14 +4,9 @@ title: Using Axis to Generate Java Files From WSDLs
 date: 2007-12-29T21:43:41+00:00
 author: Jess Johnson
 layout: post
-guid: http://grok-code.com/?p=5
+description: >
+  How to use Apache Axis to generate Java stub files from WSDLs. An example with Yahoo EWS.
 permalink: /5/using-axis-to-generate-java-files-from-wsdls/
-wp_jd_bitly:
-  - http://bit.ly/cctYwg
-wp_jd_target:
-  - http://grok-code.com/grokcode-dev/5/using-axis-to-generate-java-files-from-wsdls/
-jd_tweet_this:
-  - 
 categories:
   - 'Tips &amp; Tutorials'
 tags:
@@ -29,7 +24,8 @@ First, download and Apache Axis 1.2. A list of mirrors can be found here: [http:
 
 The Axis WSDL2Java command will generate the Java files from the EWS WSDLs. Here is a simple shell script that shows how to do it.
 
-<pre><code class="language-bash">#!/usr/bin/bash
+```bash
+#!/usr/bin/bash
 version=3   # Yahoo API version number
 clpath="SET THIS TO AXIS'S CLASSPATH"
 
@@ -48,14 +44,14 @@ done
 # Compile the files and create javadoc
 javac -classpath ${clpath} com/yahoo/sm/ws/client/*.java
 javadoc -quiet -classpath $clpath -d ./doc/ com.yahoo.sm.ws.client
-jar -cf yahoo-api.jar com/yahoo/sm/ws/client/*.class</code></pre>
+jar -cf yahoo-api.jar com/yahoo/sm/ws/client/*.class
+```
 
 The first thing we do is create a list of all the WSDLs in EWS. Then we use the Axis&#8217;s WSDL2Java tools to generate a java file for each of the WSDLs. The &#8211;NStoPkg flag maps the namespace http://marketing.ews.yahooapis.com/V${version} to the package com.yahoo.sm.ws.client. The -T flag specifies the SOAP type mapping version. 1.3 is the value recommended by Yahoo, so we stick with that.
 
-Now that we have the java stub files, we compile them, generate the javadocs, and jar up the class files for use in our application. If you would rather just download the jar file than go through the process yourself, you can get it here [yahoo-api.jar](http://grokcode.com/downloads/yahoo-api.jar).
+Now that we have the java stub files, we compile them, generate the javadocs, and jar up the class files for use in our application. If you would rather just download the jar file than go through the process yourself, you can get it here [yahoo-api.jar](http://grokcode.com/assets/downloads/yahoo-api.jar).
 
 References:
-  
-[Axis Userguide](http://ws.apache.org/axis/java/user-guide.html "Axis Userguide")
-  
-[Yahoo EWS Documentation](http://searchmarketing.yahoo.com/developer/docs/index.php "Yahoo EWS Documentation")
+
+* [Axis Userguide](http://ws.apache.org/axis/java/user-guide.html "Axis Userguide")
+* [Yahoo EWS Documentation](http://searchmarketing.yahoo.com/developer/docs/index.php "Yahoo EWS Documentation")

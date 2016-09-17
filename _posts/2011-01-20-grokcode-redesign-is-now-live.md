@@ -4,7 +4,8 @@ title: 'Meta: The Anatomy of the GrokCode Redesign'
 date: 2011-01-20T16:57:00+00:00
 author: Jess Johnson
 layout: post
-guid: http://grokcode.com/dev/?p=667
+description: >
+  GrokCode is built on WordPress, and is valid HTML5 and CSS3. Here is a quick overview of what's new, what's changed, and what's still broken.
 permalink: /667/grokcode-redesign-is-now-live/
 categories:
   - Extras

@@ -3,9 +3,9 @@ id: 538
 title: 'Java Build Systems: A Sad State of Affairs'
 date: 2010-10-04T05:00:53+00:00
 author: Jess Johnson
-excerpt: The evolution from Make, to Ant, and then to Maven has done precious little to advance the state of Java build tools. Developers are still stuck with poorly thought-out tools that force us to violate DRY and write XML tag soup. Your team may be better served using a less popular alternative.
 layout: post
-guid: http://grok-code.com/?p=538
+description: >
+  The evolution from Make, to Ant, and then to Maven has done little to improve Java build tools. Your team is better served using a less popular alternative.
 permalink: /538/java-build-systems-a-sad-state-of-affairs/
 categories:
   - 'Books &amp; Tools'

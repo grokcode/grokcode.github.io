@@ -4,14 +4,9 @@ title: Sweet Hacks Vol II
 date: 2008-06-02T22:19:30+00:00
 author: Jess Johnson
 layout: post
-guid: http://grok-code.com/19/sweet-hacks-vol-ii-now-with-the-naked-game/
+description: >
+  This is Volume II of the sweet hacks series. This edition covers Star Wars, Twitter, Rubik's cubes, Webcams, Pong, Legos, and more.
 permalink: /19/sweet-hacks-vol-ii-now-with-the-naked-game/
-wp_jd_bitly:
-  - http://bit.ly/9nmxji
-wp_jd_target:
-  - http://grok-code.com/grokcode-dev/19/sweet-hacks-vol-ii-now-with-the-naked-game/
-jd_tweet_this:
-  - 
 categories:
   - Sweet Hacks
 tags:

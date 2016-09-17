@@ -4,7 +4,8 @@ title: Snakefooding Python Code For Complexity Visualization
 date: 2014-08-26T13:51:03+00:00
 author: Jess Johnson
 layout: post
-guid: http://grokcode.com/?p=864
+description: >
+  The snakefood tool can create beautiful visualizations of Python codebases. Here are graphs for some notable open source projects written in Python.
 permalink: /864/snakefooding-python-code-for-complexity-visualization/
 categories:
   - 'Books &amp; Tools'

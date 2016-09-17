@@ -3,16 +3,10 @@ id: 367
 title: Learning Clojure with Project Euler
 date: 2009-09-20T08:42:08+00:00
 author: Jess Johnson
-excerpt: A quick introduction to the Clojure language by way of discussing solutions to Project Euler problems. Also my first impressions of the language, the install and setup process, and the state of support for Clojure within different development tools.
 layout: post
-guid: http://grok-code.com/?p=367
+description: >
+  An introduction to the Clojure language by discussing Clojure solutions to Project Euler problems. First impressions from a programmer new to Clojure.
 permalink: /367/learning-clojure-with-project-euler/
-wp_jd_bitly:
-  - http://bit.ly/cLbbFc
-wp_jd_target:
-  - http://grok-code.com/grokcode-dev/367/learning-clojure-with-project-euler/
-jd_tweet_this:
-  - 
 categories:
   - Programming Languages
 tags:

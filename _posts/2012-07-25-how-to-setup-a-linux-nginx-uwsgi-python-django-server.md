@@ -4,7 +4,8 @@ title: How to Setup a Linux, Nginx, uWSGI, Python, Django Server
 date: 2012-07-25T21:45:12+00:00
 author: Jess Johnson
 layout: post
-guid: http://grokcode.com/?p=784
+description: >
+  Tutorial to set up a web application and database server to run Django apps.
 permalink: /784/how-to-setup-a-linux-nginx-uwsgi-python-django-server/
 categories:
   - 'Tips &amp; Tutorials'

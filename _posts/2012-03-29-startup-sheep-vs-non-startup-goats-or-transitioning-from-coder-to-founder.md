@@ -4,7 +4,8 @@ title: Startup Sheep Vs. Non-Startup Goats (Or Transitioning From Coder to Found
 date: 2012-03-29T12:23:32+00:00
 author: Jess Johnson
 layout: post
-guid: http://grokcode.com/?p=741
+description: >
+  Turning a weekend project into a product isn't easy. A story of sheep, goats, launch paralysis, failure, and successes.
 permalink: /741/startup-sheep-vs-non-startup-goats-or-transitioning-from-coder-to-founder/
 categories:
   - Career

@@ -4,7 +4,8 @@ title: How To Use Source Control Effectively
 date: 2011-06-30T13:58:29+00:00
 author: Jess Johnson
 layout: post
-guid: http://grokcode.com/?p=717
+description: >
+  No matter which source control system you decide to use, there are a number of universal principles that will help you to get the most out of version control.
 permalink: /717/how-to-use-source-control-effectively/
 categories:
   - 'Tips &amp; Tutorials'

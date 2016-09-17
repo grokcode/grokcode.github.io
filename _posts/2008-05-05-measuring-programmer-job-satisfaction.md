@@ -4,14 +4,9 @@ title: Measuring Programmer Job Satisfaction
 date: 2008-05-05T17:11:34+00:00
 author: Jess Johnson
 layout: post
-guid: http://grok-code.com/20/measuring-programmer-job-satisfaction/
+description: >
+  Are you satisfied with your job? These are important questions. But what factors influence programmer job satisfaction? How can hackers become more satisfied?
 permalink: /20/measuring-programmer-job-satisfaction/
-wp_jd_bitly:
-  - http://bit.ly/dezLPR
-wp_jd_target:
-  - http://grok-code.com/grokcode-dev/20/measuring-programmer-job-satisfaction/
-jd_tweet_this:
-  - 
 categories:
   - Career
 tags:

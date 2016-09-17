@@ -3,16 +3,10 @@ id: 207
 title: 51 Insanely Useful Emacs Shortcuts
 date: 2009-04-08T19:27:32+00:00
 author: Jess Johnson
-excerpt: This shortcut reference card covers mostly intermediate and advanced shortcuts for GNU emacs (most of them will work with Xemacs as well.) Become a more productive and competent developer on emacs by learning these shortcuts.
 layout: post
-guid: http://grok-code.com/?p=207
+description: >
+  A reference card of intermediate and advanced GNU emacs and xemacs shortcuts. Become a more productive developer by learning these shortcuts.
 permalink: /207/51-insanely-useful-emacs-shortcuts/
-wp_jd_bitly:
-  - http://bit.ly/8WYKdd
-wp_jd_target:
-  - http://grok-code.com/grokcode-dev/207/51-insanely-useful-emacs-shortcuts/
-jd_tweet_this:
-  - 
 categories:
   - 'Books &amp; Tools'
 tags:

@@ -3,16 +3,10 @@ id: 214
 title: 'Practice Your Code-Fu: Programming Contests and Puzzles Online'
 date: 2009-02-26T14:46:04+00:00
 author: Jess Johnson
-excerpt: 'This is a list of the best sites on the net for practicing your coding chops, showing off your programming skills, and competing for fame and fortune.  Exercise your brain by untangling obfuscation, applying algorithms knowledge, growing your inner math geek, or playing a bit of code golf.'
 layout: post
-guid: http://grok-code.com/?p=214
+description: >
+  This is a list of the best sites on the net for practicing your coding chops, showing off your programming skills, and competing for fame and fortune.
 permalink: /214/practice-your-code-fu-programming-contests-and-puzzles-online/
-wp_jd_bitly:
-  - http://bit.ly/aPwPjA
-wp_jd_target:
-  - http://grok-code.com/grokcode-dev/214/practice-your-code-fu-programming-contests-and-puzzles-online/
-jd_tweet_this:
-  - 
 categories:
   - Fun Projects
 tags:

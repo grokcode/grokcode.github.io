@@ -4,14 +4,9 @@ title: 5½ More Books In a Hacker’s Bookshelf
 date: 2008-08-04T17:32:13+00:00
 author: Jess Johnson
 layout: post
-guid: http://grok-code.com/60/5%c2%bd-more-books-in-a-hacker%e2%80%99s-bookshelf/
+description: >
+  This list of recommended programming books is based on reader suggestions. It contains a mix of computer science texts, developer references, and industry books.
 permalink: /60/5%c2%bd-more-books-in-a-hacker%e2%80%99s-bookshelf/
-wp_jd_bitly:
-  - http://bit.ly/9rVbML
-wp_jd_target:
-  - http://grok-code.com/grokcode-dev/60/5½-more-books-in-a-hacker’s-bookshelf/
-jd_tweet_this:
-  - 
 categories:
   - 'Books &amp; Tools'
 tags:

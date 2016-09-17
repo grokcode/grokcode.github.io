@@ -4,14 +4,9 @@ title: 6 Easy Ways To Get Started Programming Open Source
 date: 2008-10-31T00:06:13+00:00
 author: Jess Johnson
 layout: post
-guid: http://grok-code.com/108/6-easy-ways-to-get-started-programming-open-source/
+description: >
+  A lot of people have trouble making that first step into the open source world because they don't know where to start. Here are 6 easy tips to remedy that.
 permalink: /108/6-easy-ways-to-get-started-programming-open-source/
-wp_jd_bitly:
-  - http://bit.ly/bEeR1p
-wp_jd_target:
-  - http://grok-code.com/grokcode-dev/108/6-easy-ways-to-get-started-programming-open-source/
-jd_tweet_this:
-  - 
 categories:
   - Fun Projects
 tags:

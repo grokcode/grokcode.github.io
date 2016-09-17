@@ -4,7 +4,8 @@ title: The Ergonomic Keyboard Productivity Myth
 date: 2011-04-15T15:45:56+00:00
 author: Jess Johnson
 layout: post
-guid: http://grokcode.com/?p=701
+description: >
+  Keyboard manufacturers claim that ergonomic keyboards increase productivity, reduce injuries, and increase typing speed, but the real benefits are murky.
 permalink: /701/the-ergonomic-keyboard-productivity-myth/
 categories:
   - 'Books &amp; Tools'

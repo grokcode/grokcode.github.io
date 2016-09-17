@@ -4,7 +4,8 @@ title: Be a Paranoid Pessimistic Programmer
 date: 2011-11-22T06:04:34+00:00
 author: Jess Johnson
 layout: post
-guid: http://grokcode.com/?p=722
+description: >
+  Cultivating a healthy paranoia and a heavily pessimistic attitude is the path to becoming a better programmer, because those traits prevent bugs.
 permalink: /722/be-a-paranoid-pessimistic-programmer/
 categories:
   - Career
