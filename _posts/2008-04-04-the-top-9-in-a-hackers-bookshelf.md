@@ -16,7 +16,7 @@ tags:
 ---
 Every hacker should have a good solid dead tree library to draw ideas from and use as reference material. This list has a bit of everything &#8211; textbooks you will encounter at top tier computer science universities, books giving insight into the industry, and references you shouldn&#8217;t be caught without. It is a list of hackers&#8217; classics. <!--more-->
 
-[<img src="http://grokcode.com/images/21VRW2Wy03L._AA_SL160_.jpg" alt="Buy The Mythical Man Month" class="alignleft" />](http://www.amazon.com/gp/product/0201835959?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201835959 "Buy The Mythical Man Month")<span class="h2"><a href="http://www.amazon.com/gp/product/0201835959?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201835959">The Mythical Man Month: Essays on Software Engineering &#8211; Anniversary Edition</a></span> 
+[<img src="{{ site.baseimgurl }}21VRW2Wy03L._AA_SL160_.jpg" alt="Buy The Mythical Man Month" class="alignleft" />](http://www.amazon.com/gp/product/0201835959?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201835959 "Buy The Mythical Man Month")<span class="h2"><a href="http://www.amazon.com/gp/product/0201835959?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201835959">The Mythical Man Month: Essays on Software Engineering &#8211; Anniversary Edition</a></span> 
 
 by Fredrick P. Brooks
 
@@ -28,7 +28,7 @@ No silver bullet: There is not a single strategy, technique, or trick that can e
 
 I recommend this book not only for programmers, but for anyone managing a software project. Project managers and programmers alike will appreciate Brooks&#8217; clear, well-thought out points.
 
-[<img src="http://grokcode.com/images/21PAWH8TXBL._AA_SL160_.jpg" alt="Buy The C Programming Language" class="alignleft" />](http://www.amazon.com/gp/product/0131103628?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0131103628 "Buy the C Programming Language")
+[<img src="{{ site.baseimgurl }}21PAWH8TXBL._AA_SL160_.jpg" alt="Buy The C Programming Language" class="alignleft" />](http://www.amazon.com/gp/product/0131103628?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0131103628 "Buy the C Programming Language")
 
 <span class="h2"><a href="http://www.amazon.com/gp/product/0131103628?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0131103628">The C Programming Language (2nd Edition)</a></span>
 
@@ -40,7 +40,7 @@ This book is recommended for anyone learning C, and for anyone looking for a C r
 
 If you have never programmed before, K&R might not be the best place to start out, but still doable if you are motivated. Beginners might also consider getting a copy of &#8220;The C Answer Book,&#8221; which gives detailed explanations of solutions to the K&R exercises.
 
-[<img src="http://grokcode.com/images/21QYSJQCXDL._AA_SL160_.jpg" alt="Buy Structure and Interpretation of Computer Programs" class="alignleft" />](http://www.amazon.com/gp/product/0262011530?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0262011530 "Buy Structure and Interpretation of Computer Programs")
+[<img src="{{ site.baseimgurl }}21QYSJQCXDL._AA_SL160_.jpg" alt="Buy Structure and Interpretation of Computer Programs" class="alignleft" />](http://www.amazon.com/gp/product/0262011530?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0262011530 "Buy Structure and Interpretation of Computer Programs")
 
 <span class="h2"><a title="Structure and Interpretation of Computer Programs" href="http://www.amazon.com/gp/product/0262011530?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0262011530">Structure and Interpretation of Computer Programs (2nd Edition)</a></span>
 
@@ -50,7 +50,7 @@ SICP is used in entry level computer science classes at many top tier universiti
 
 I found this book incredibly dense when I first read it for an introductory CS class, and there was still much to learn from a reread several years later after I had a better grasp of the ideas presented here. If you didn&#8217;t have the opportunity to use this book in the classroom, I would recommend picking it up to see what you missed, especially if you haven&#8217;t used any of the Lisp dialects extensively.
 
-[<img src="http://grokcode.com/images/210VQZNQ83L._AA_SL160_.jpg" alt="Buy Code Complete" class="alignleft" />](http://www.amazon.com/gp/product/0735619670?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0735619670 "Buy Code Complete 2")
+[<img src="{{ site.baseimgurl }}210VQZNQ83L._AA_SL160_.jpg" alt="Buy Code Complete" class="alignleft" />](http://www.amazon.com/gp/product/0735619670?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0735619670 "Buy Code Complete 2")
 
 <span class="h2"><a title="Code Complete" href="http://www.amazon.com/gp/product/0735619670?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0735619670">Code Complete 2: A Practical Handbook of Software Construction</a></span>
 
@@ -72,7 +72,7 @@ Even though practically speaking most programmers shouldn&#8217;t be writing the
 
 &#8220;Introduction to Algorithms,&#8221; is recommended as a reference for any developer looking to brush up on their algorithm skills. It is also recommended if you are interested in topics like NP-Completeness, randomized algorithms, or Fast Fourier Transformation. Good math skills are essential if you want to grok all parts of this book.
 
-[<img src="http://grokcode.com/images/21TEHG8K4WL._AA_SL160_.jpg" alt="Buy Design Patterns: Elements of Reusable Object-Oriented Software" class="alignleft" />](http://www.amazon.com/gp/product/0201633612?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201633612 "Buy Design Patterns: Elements of Reusable Object-Oriented Software")
+[<img src="{{ site.baseimgurl }}21TEHG8K4WL._AA_SL160_.jpg" alt="Buy Design Patterns: Elements of Reusable Object-Oriented Software" class="alignleft" />](http://www.amazon.com/gp/product/0201633612?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201633612 "Buy Design Patterns: Elements of Reusable Object-Oriented Software")
 
 <span class="h2"><a title="Design Patterns: Elements of Reusable Object-Oriented Software" href="http://www.amazon.com/gp/product/0201633612?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201633612">Design Patterns: Elements of Reusable Object-Oriented Software</a></span>
 
@@ -82,7 +82,7 @@ This is a catalog of different object-oriented design patterns. For each of the 
 
 This book is a must read for intermediate or advanced developers working on object-oriented code. Coders that are new to object-oriented design would be best served by mastering the basics of an object-oriented language and digging in to non-trivial project before attempting to learn all of the patterns presented here, otherwise the patterns aren&#8217;t likely to &#8220;stick.&#8221; 
 
-[<img src="http://grokcode.com/images/11JSET5JS2L._AA_SL160_.jpg" alt="Programming Pearls" class="alignleft" />](http://www.amazon.com/gp/product/0201657880?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201657880 "Buy Programming Pearls")
+[<img src="{{ site.baseimgurl }}11JSET5JS2L._AA_SL160_.jpg" alt="Programming Pearls" class="alignleft" />](http://www.amazon.com/gp/product/0201657880?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201657880 "Buy Programming Pearls")
 
 <span class="h2"><a title="Programming Pearls" href="http://www.amazon.com/gp/product/0201657880?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201657880">Programming Pearls (2nd Edition)<br /> </a></span>
 
@@ -104,7 +104,7 @@ by Alfred V. Aho, Ravi Sethi, and Jeffrey D. Ullman
 
 I particularly enjoyed parts of the dragon book that get down and dirty into the mathematical notation and theory &#8211; and this is _large_ theme throughout the book. If you find regular expressions and state machines fascinating you will really enjoy the book. On the other hand, if you are looking for a text that will introduce modern, practical compiler implementation details <del>you may find the dragon book a bit lacking. In those respects the dragon book is starting to show its age (this version was copyrighted in 1986).</del>the 2nd edition of this book includes new sections covering modern techniques.
 
-[<img src="http://grokcode.com/images/31QaIhYqF8L._AA_SL160_.jpg" alt="Buy Unix Power Tools" class="alignleft" />](http://www.amazon.com/gp/product/0596003307?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596003307 "Buy Unix Power Tools")
+[<img src="{{ site.baseimgurl }}31QaIhYqF8L._AA_SL160_.jpg" alt="Buy Unix Power Tools" class="alignleft" />](http://www.amazon.com/gp/product/0596003307?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596003307 "Buy Unix Power Tools")
 
 <span class="h2"><a title="Unix Power Tools" href="http://www.amazon.com/gp/product/0596003307?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596003307">Unix Power Tools, Third Edition</a></span>
 
@@ -118,7 +118,7 @@ Much of the information contained within this book can be found more quickly wit
 
 This is one of the few books that is valuable for beginners and experts alike. Everyone from a complete Unix newbie to a seasoned Systems Administrator has something to gain from &#8220;Unix Power Tools.&#8221;
 
-[<img src="http://grokcode.com/images/21KTA5XXZ8L._AA_SL160_.jpg" alt="The Ultimate Hitchhiker's Guide" class="alignleft" />](http://www.amazon.com/gp/product/0517226952?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0517226952 "Buy The Ultimate Hitchhiker's Guide")
+[<img src="{{ site.baseimgurl }}21KTA5XXZ8L._AA_SL160_.jpg" alt="The Ultimate Hitchhiker's Guide" class="alignleft" />](http://www.amazon.com/gp/product/0517226952?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0517226952 "Buy The Ultimate Hitchhiker's Guide")
 
 <span class="h2"><a title="The Ultimate Hitchhiker's Guide" href="http://www.amazon.com/gp/product/0517226952?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0517226952">The Ultimate Hitchhiker&#8217;s Guide: Five Complete Novels and One Story</a></span>
 

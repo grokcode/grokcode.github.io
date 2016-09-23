@@ -21,7 +21,7 @@ tags:
 ---
 Optimizing J2EE applications is hard. Even if all of your algorithms have been analyzed in big-O notation and finely tuned, you can have abysmal performance due to a poorly configured environment. J2EE applications depend on many lower layers which all must be properly optimized in order to give good overall performance. This page gives a checklist of optimization tips organized by layer. It includes optimizations for the HTTP Server, Application Server, Java frameworks, database, and the application itself. This page isn&#8217;t intended to be a comprehensive optimization guide; it is a checklist of the most effective optimizations I have found that can be applied in most situations. This checklist is a good place to start before more focused optimizations &#8211; and you may even find that nothing more is required.<!--more-->
 
-<img src="http://grokcode.com/images/tech-stack.jpg" alt="Java Tech Stack" class="alignright" />
+<img src="{{ site.baseimgurl }}tech-stack.jpg" alt="Java Tech Stack" class="alignright" />
 
 Before starting to optimize, you should have a specific goal. This could be something like &#8220;50% speedup across all pages,&#8221; or &#8220;less than 2 second load time for all pages with 50 concurrent users.&#8221; Also define the context in which you will measure your results: What connection speed will you test on? How will you model typical user actions in your tests?
 

@@ -23,7 +23,7 @@ tags:
 ---
 The [Eternity 2 (E2) puzzle](http://www.amazon.com/gp/product/B000WUFRQU?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000WUFRQU "Buy Eternity 2") has attracted the attention of puzzle fanatics, computer programmers, and mathematicians for many reasons, not the least of which is the $2 million prize for being the first to solve it. E2 is an edge-matching puzzle with 256 pieces. The general class of edge-matching puzzles is known to be NP-Complete, but it is unknown if there are aspects of E2 that can be exploited to make it tractable. In the spirit of cooperation, a few people have made their automated solvers available online, and I have provided an overview and back-of-the-napkin analysis of two of them.<!--more-->
 
-[<img src="http://grokcode.com/images/eternity2.jpg" alt="Eternity 2" width="160" height="160" class="alignleft" />](http://www.amazon.com/gp/product/B000WUFRQU?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000WUFRQU "Buy Eternity 2")
+[<img src="{{ site.baseimgurl }}eternity2.jpg" alt="Eternity 2" width="160" height="160" class="alignleft" />](http://www.amazon.com/gp/product/B000WUFRQU?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000WUFRQU "Buy Eternity 2")
 
 ## Background
 
@@ -31,9 +31,9 @@ E2 has 256 square pieces that must be placed on a 16&#215;16 grid. Each puzzle p
 
 The animation below shows a methodical approach to solving a 4&#215;4 puzzle with no hint piece. Pieces are taken from the right side and placed on the board on the left. When a dead end is found and no more pieces can be placed on the board, pieces are removed up until the last decision point and a new piece is tried at that spot. The algorithm you are seeing in action is a backtracker.
 
-<img src="http://grokcode.com/images/e2-final.gif" alt="E2 backtracker" width="470" height="230" />
+<img src="{{ site.baseimgurl }}e2-final.gif" alt="E2 backtracker" width="470" height="230" />
 
-[<img src="http://grokcode.com/images/eternity2-clue1.jpg" alt="Enternity 2 Clue Puzzle 1" class="alignleft" />](http://www.amazon.com/gp/product/B000XQPREU?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000XQPREU "Buy Eternity 2 Clue Puzzle 1")
+[<img src="{{ site.baseimgurl }}eternity2-clue1.jpg" alt="Enternity 2 Clue Puzzle 1" class="alignleft" />](http://www.amazon.com/gp/product/B000XQPREU?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000XQPREU "Buy Eternity 2 Clue Puzzle 1")
 
 ## Clues & Rules
 
@@ -43,7 +43,7 @@ In order to win the $2 million prize, submit the solution to the Eternity 2 adju
 
 Sounds easy right? Well&#8230;
 
-[<img src="http://grokcode.com/images/eternity2-clue2.jpg" alt="Eternity 2 Clue Puzzle 2" width="130"  height="130" class="alignleft" />](http://www.amazon.com/gp/product/B000XQNQNO?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000XQNQNO "Buy Eternity 2 Clue Puzzle 2")
+[<img src="{{ site.baseimgurl }}eternity2-clue2.jpg" alt="Eternity 2 Clue Puzzle 2" width="130"  height="130" class="alignleft" />](http://www.amazon.com/gp/product/B000XQNQNO?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000XQNQNO "Buy Eternity 2 Clue Puzzle 2")
 
 ## Solver Implementations
 
@@ -55,7 +55,7 @@ Next I looked Joel&#8217;s solver which is a Java port of the C++ backtrack solv
 
 The E2 Discussion Group is very active and contains a lot of information on different solving strategies, so if you are interested in more advanced algorithms, have a look there.
 
-## [<img src="http://grokcode.com/images/eternity2-clue3.jpg" alt="Buy E2 Clue Puzzle 3" width="130" height="130" class="alignleft" />](http://www.amazon.co.uk/Tomy-Eternity-II-Clue-Puzzle/dp/B000Y16ESM/ref=sr_1_4?ie=UTF8&s=kids&qid=1208240417&sr=1-4 "Buy E2 Clue Puzzle 3")Benchmark Results
+## [<img src="{{ site.baseimgurl }}eternity2-clue3.jpg" alt="Buy E2 Clue Puzzle 3" width="130" height="130" class="alignleft" />](http://www.amazon.co.uk/Tomy-Eternity-II-Clue-Puzzle/dp/B000Y16ESM/ref=sr_1_4?ie=UTF8&s=kids&qid=1208240417&sr=1-4 "Buy E2 Clue Puzzle 3")Benchmark Results
 
 I ran benchmarks on both solvers to compare their performance. The benchmarks are puzzles similar in design to E2, but of a smaller size. I ran benchmarks on [6&#215;6 with 1 hint](http://grokcode.com/downloads/A6x6With1Hint.txt), [8&#215;8 with 2 hints](http://grokcode.com/downloads/B8x8With2Hints.txt "8x8 benchmark"), and [10&#215;10 with 3 hints](http://grokcode.com/downloads/C10x10With3Hints.txt) puzzles to get an idea of what kind of complexity we can expect from E2. All of the benchmarks were run on a dual core 2.00Ghz Intel with 1 GB of RAM. No compiler optimization flags were used for any of the test runs.
 
@@ -120,7 +120,7 @@ One mildly surprising result is that the Java solver outperforms the C++ solver.
 
 So will you get rich solving E2? Well, somebody will. If this type of challenge interests you, its definitely worth a shot.
 
-## [<img src="http://grokcode.com/images/eternity2-clue4.jpg" alt="Buy E2 Clue Puzzle 4" width="130" height="130" class="alignleft" />](http://www.amazon.co.uk/Tomy-Eternity-II-Clue-Puzzle/dp/B000Y124RW/ref=pd_bxgy_k_h_b_cs_text_b?ie=UTF8&qid=1208240417&sr=1-4 "Buy Eternity 2 Clue Puzzle 4")Resources:
+## [<img src="{{ site.baseimgurl }}eternity2-clue4.jpg" alt="Buy E2 Clue Puzzle 4" width="130" height="130" class="alignleft" />](http://www.amazon.co.uk/Tomy-Eternity-II-Clue-Puzzle/dp/B000Y124RW/ref=pd_bxgy_k_h_b_cs_text_b?ie=UTF8&qid=1208240417&sr=1-4 "Buy Eternity 2 Clue Puzzle 4")Resources:
 
   * [Purchase E2](http://www.amazon.com/gp/product/B000WUFRQU?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000WUFRQU "Purchase E2") from Amazon
   * [Joel’s Java solver]({{ site.baseimgurl }}eternityii.java "Joel’s Java solver")
