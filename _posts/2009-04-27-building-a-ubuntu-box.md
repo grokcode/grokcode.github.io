@@ -23,7 +23,7 @@ tags:
 ---
 I&#8217;ve been in need of new workstation for a while, and finally plunked down the cash for it. I built a mid range workstation and installed the latest long term release of Ubuntu (Hardy Heron) 64 bit. The install was remarkably painless, and all of the hardware was auto-magically detected and works great in Ubuntu. Hardware support is much improved in the recent Ubuntu releases, but if you are looking for a rock solid build that just works with Ubuntu, give these specs a try.<!--more-->
 
-<img class="size-full wp-image-322" title="ubuntu-screenshot" src="http://grokcode.com/wordpress/wp-content/uploads/ubuntu-screenshot.png" alt="Ubuntu Desktop" width="600" height="375" />
+<img class="size-full wp-image-322" title="ubuntu-screenshot" src="{{ site.baseimgurl }}ubuntu-screenshot.png" alt="Ubuntu Desktop" width="600" height="375" />
 
 Specs:
 

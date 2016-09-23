@@ -15,6 +15,7 @@ intro: > # Main page top text
   latest writing on software development, or browse the [article
   archives](http://grokcode.com/category/archives/).
 baseurl: "" # the subpath of your site, e.g. /blog/
+baseimgurl: "/assets/img/"
 url: "http://grokcode.com" # the base hostname & protocol for your site
 twitter_username: grokcode
 github_username:  grokcode

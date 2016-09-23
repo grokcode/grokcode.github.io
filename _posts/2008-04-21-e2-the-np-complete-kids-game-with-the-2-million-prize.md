@@ -123,8 +123,8 @@ So will you get rich solving E2? Well, somebody will. If this type of challenge 
 ## [<img src="http://grokcode.com/images/eternity2-clue4.jpg" alt="Buy E2 Clue Puzzle 4" width="130" height="130" class="alignleft" />](http://www.amazon.co.uk/Tomy-Eternity-II-Clue-Puzzle/dp/B000Y124RW/ref=pd_bxgy_k_h_b_cs_text_b?ie=UTF8&qid=1208240417&sr=1-4 "Buy Eternity 2 Clue Puzzle 4")Resources:
 
   * [Purchase E2](http://www.amazon.com/gp/product/B000WUFRQU?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000WUFRQU "Purchase E2") from Amazon
-  * [Joel’s Java solver](http://grokcode.com/wordpress/wp-content/uploads/eternityii.java "Joel’s Java solver")
-  * [Doc Smith’s C++ solver](http://grokcode.com/wordpress/wp-content/uploads/2008/04/eternityiihi06b.zip "Doc Smith’s C++ solver")
+  * [Joel’s Java solver]({{ site.baseimgurl }}eternityii.java "Joel’s Java solver")
+  * [Doc Smith’s C++ solver]({{ site.baseimgurl }}2008/04/eternityiihi06b.zip "Doc Smith’s C++ solver")
   * [E2 discussion group](http://games.groups.yahoo.com/group/eternity_two/ "E2 Discussion")
 
 <small>[Disclaimer: Links to amazon.com are affiliate links.]</small>

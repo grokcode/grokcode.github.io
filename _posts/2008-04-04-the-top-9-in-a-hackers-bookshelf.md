@@ -60,7 +60,7 @@ by Steve McConnell
 
 This book is recommended for anyone who wants to write good solid code. It will save beginners time when learning good coding practices, and is a great refresher for programmers with years of experience who may find that over time they have developed habits that are holding them back.
 
-[<img src="http://grokcode.com/wordpress/wp-content/uploads/introductiontoalgorithms.jpg" alt="Introduction to Algorithms" class="alignleft" />](http://www.amazon.com/gp/product/0262033844?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0262033844 "Buy Introduction to Algorithms")
+[<img src="{{ site.baseimgurl }}introductiontoalgorithms.jpg" alt="Introduction to Algorithms" class="alignleft" />](http://www.amazon.com/gp/product/0262033844?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0262033844 "Buy Introduction to Algorithms")
 
 <span class="h2"><a title="Introduction to Algorithms, Third Edition" href="http://www.amazon.com/gp/product/0262033844?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0262033844">Introduction to Algorithms, Third Edition</a></span>
 
@@ -94,7 +94,7 @@ This is a great book for learning how to approach problems. Each of the 15 chapt
 
 I recommend this book to anyone who enjoys working though programming brain teasers.
 
-[<img src="http://grokcode.com/wordpress/wp-content/uploads/compilers.jpg" alt="Buy Compilers: Principles, Techniques, and Tools" class="alignleft" />](http://www.amazon.com/gp/product/0321547985?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321547985 "Buy Compilers: Principles, Techniques, and Tools ")
+[<img src="{{ site.baseimgurl }}compilers.jpg" alt="Buy Compilers: Principles, Techniques, and Tools" class="alignleft" />](http://www.amazon.com/gp/product/0321547985?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321547985 "Buy Compilers: Principles, Techniques, and Tools ")
 
 <span class="h2"><a title="Compilers: Principles, Techniques, and Tools, 2nd Edition" href="http://www.amazon.com/gp/product/0321547985?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321547985">Compilers: Principles, Techniques, and Tools, 2nd Edition</a></span>
 

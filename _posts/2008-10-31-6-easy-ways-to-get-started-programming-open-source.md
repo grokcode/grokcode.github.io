@@ -17,7 +17,7 @@ tags:
 ---
 Open source projects can be a good way to geek out and do what you love, and having a side project can help [improve overall job satisfaction](http://grokcode.com/22/become-a-more-satisfied-programmer-today/ "improve job satisfaction"), keep you at the top of your hacking game, and can often lead to other opportunities. The problem is a lot of people have trouble making that first step because they don&#8217;t really know where to start. Here are 6 easy tips for getting started with F/OSS.<!--more-->
 
-## <img src="http://grokcode.com/wordpress/wp-content/uploads/2008/10/all-logos1.png" alt="FOSS Logos" class="alignleft" />1. Get Involved With the Projects You Use
+## <img src="{{ site.baseimgurl }}2008/10/all-logos1.png" alt="FOSS Logos" class="alignleft" />1. Get Involved With the Projects You Use
 
 This may seem obvious, but don&#8217;t try to jump into a project that you don&#8217;t use and don&#8217;t know anything about. Make a short list of open source software projects you might like to contribute to based on the software you are already using. Don&#8217;t forget about the potential for contributing to libraries and modules &#8211; there are advantages to developing on a project used by other developers. Do you use a framework, file converter, graphing library, or build tool that is open source and in need of bug squashing, optimization, or new features? These are prime candidates for a first F/OSS project.
 

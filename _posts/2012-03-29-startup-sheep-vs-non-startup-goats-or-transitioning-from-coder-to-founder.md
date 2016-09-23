@@ -44,7 +44,7 @@ This launch paralysis is a problem for startups on down to micro-startups and co
 
 My idea was to launch a weekend project, and use the experience to identify problems and iron out glitches in my workflow before tackling something bigger. I uncovered more than just glitches. Everything took drastically longer than expected, and some things I didn&#8217;t plan for at all. 
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/time-to-launch-actual-vs-estimated.png" alt="Time to Launch: Planned vs. Actual" width="615" height="375" class="aligncenter size-full wp-image-743" />
+<img src="{{ site.baseimgurl }}time-to-launch-actual-vs-estimated.png" alt="Time to Launch: Planned vs. Actual" width="615" height="375" class="aligncenter size-full wp-image-743" />
 
 The graph above is data from a tiny project that makes some head-smackingly simple changes to Amazon links so that WordPress blogs earn worldwide commissions instead of just US commissions. I assumed it would be easy to sell since the purchase is so easy to justify &#8211; once a blog has a certain threshold of earnings from amazon.com, the plugin is pretty much guaranteed to pay for itself. If you are interested, <del datetime="2014-07-31T16:34:08+00:00">click here to see how the plugin increases earnings</del>. Now defunct.
 

@@ -24,7 +24,7 @@ tags:
 ---
 This is the first interview in an ongoing series of mini-interviews with famous developers and programming authors. Rebecca Heineman has kindly agreed to be the first interviewee. She has been a games programmer for almost 30 years &#8211; she has written and designed many titles over the course of her career including a Bards Tale III: Thief of Fate, Battle Chess, Wasteland, and Tass Times in Tonetown. Rebecca was also a founding member of Interplay, Logicware, and Contraband Entertainment.<!--more-->
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/2008/10/bards-tale3.jpg" alt="Bards Tale III" class="alignleft" />Regular readers will remember her name from the [analysis of famous developers](http://grokcode.com/37/famous-programmers-from-adleman-to-zimmermann/ "analysis of famous developers") on GrokCode a while back.
+<img src="{{ site.baseimgurl }}2008/10/bards-tale3.jpg" alt="Bards Tale III" class="alignleft" />Regular readers will remember her name from the [analysis of famous developers](http://grokcode.com/37/famous-programmers-from-adleman-to-zimmermann/ "analysis of famous developers") on GrokCode a while back.
 
 Lets get to the interview!
 

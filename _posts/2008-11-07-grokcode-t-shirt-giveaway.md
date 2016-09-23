@@ -24,7 +24,7 @@ tags:
 ---
 GrokCode is giving away some free schwag to thank our readers this month. Up for grabs is a free T-shirt, golf shirt, or tanktop that will announce to the world that you [grok](http://grokcode.com/95/definition-and-origin-of-grok/ "grok") code. Entering is as easy as subscribing to GrokCode via email or RSS feed, then confirming that you are an active subscriber.<!--more-->
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/2008/10/3shirts-small.png" alt="GrokCode T-Shirts" class="alignleft" />
+<img src="{{ site.baseimgurl }}2008/10/3shirts-small.png" alt="GrokCode T-Shirts" class="alignleft" />
 
 ## The Schwag
 

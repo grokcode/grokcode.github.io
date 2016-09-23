@@ -23,7 +23,7 @@ Portfolios have been used for years by architects, artists, and designers, but w
 ## Stand out from the crowd.
 
 <div>
-  <img src="http://grokcode.com/wordpress/wp-content/uploads/2008/07/1567072848_5bcaa8bfa7.jpg" alt="Portfolio Briefcase" class="alignleft" />
+  <img src="{{ site.baseimgurl }}2008/07/1567072848_5bcaa8bfa7.jpg" alt="Portfolio Briefcase" class="alignleft" />
 </div>
 
 Very few programmers have portfolios. Judging by the candidates I have interviewed, I would guess less than 5% take the time to put together a portfolio of their work. So just having a portfolio in the first place can put you ahead of a large number of potential candidates when looking for a job.

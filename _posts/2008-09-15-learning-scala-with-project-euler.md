@@ -16,7 +16,7 @@ tags:
 ---
 This article is a quick journey through the mind of a Scala newbie while learning the language. I work through a few Project Euler problems, refining solutions along the way so they use more idiomatic Scala. In the end I give some general impressions of the language, the install and setup process, the Scala community, and support for Scala within different development tools.<!--more-->
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/2008/09/euler.jpg" alt="Euler" class="alignleft" />
+<img src="{{ site.baseimgurl }}2008/09/euler.jpg" alt="Euler" class="alignleft" />
 
 Picking up a new language is a good way to keep your skills up-to-date, feed your inner geek, add a new language to the [programming toolbox](http://grokcode.com/25/the-essential-programming-language-toolbox/ "essential programming toolbox"), and can help to [improve job satisfaction](http://grokcode.com/22/become-a-more-satisfied-programmer-today/ "improve job satisfaction"). There is some discussion about how often you should learn a new language, but I generally try to do it every few years. I&#8217;ve been debating about which of Scala, Ruby, Erlang, or Haskell to learn, but decided to jump in and at least get my feet wet with Scala.
 
@@ -111,7 +111,7 @@ The next line forces the lazy evaluation for the first 10 factors of `primes`, a
 ## First Impressions of Scala
 
 <div>
-  <img src="http://grokcode.com/wordpress/wp-content/uploads/2008/09/euler-stamp.jpg" alt="Euler stamp" class="alignleft" />
+  <img src="{{ site.baseimgurl }}2008/09/euler-stamp.jpg" alt="Euler stamp" class="alignleft" />
 </div>
 
 A few hours of dabbling isn&#8217;t really enough to get a good feel for the syntax, so I won&#8217;t comment on that too much, besides to say I was a bit disconcerted that terminating a statement with a semicolon is optional. That just feels strange.

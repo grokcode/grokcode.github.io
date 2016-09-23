@@ -19,7 +19,7 @@ The grokcode.com redesign is now live. GrokCode is built on WordPress, and uses 
 
 This is the third design since GrokCode went live in 2007. Unfortunately I don&#8217;t have a screenshot of the first design, but it was ugly enough that perhaps it is better off forgotten.
 
-<img class="alignleft wp-image-682" src="http://grokcode.com/wordpress/wp-content/uploads/grokcode1.png" alt="GrokCode before" width="340px" height="180px" /><img class="wp-image-681" src="http://grokcode.com/wordpress/wp-content/uploads/grokcode2.png" alt="GrokCode after" width="340px" height="180px" />
+<img class="alignleft wp-image-682" src="{{ site.baseimgurl }}grokcode1.png" alt="GrokCode before" width="340px" height="180px" /><img class="wp-image-681" src="{{ site.baseimgurl }}grokcode2.png" alt="GrokCode after" width="340px" height="180px" />
 
 ## What&#8217;s different?
 
@@ -55,7 +55,7 @@ The only lingering issue that I have on my list to fix is that the feeds aren&#8
 
 A few of the details are &#8220;broken by design,&#8221; which is to say that some of the nice extras degrade gracefully on older browsers and some browsers don&#8217;t properly render valid HTML5. Since this is a personal site, I have the luxury of saying that I don&#8217;t care too much if things are a little wonky on browsers that don&#8217;t comply with standards.
 
-<img class="alignleft size-full wp-image-686" title="firefox" src="http://grokcode.com/wordpress/wp-content/uploads/firefox.png" alt="" width="180" height="139" /><img class="alignleft size-full wp-image-689" title="ie" src="http://grokcode.com/wordpress/wp-content/uploads/ie.png" alt="" width="180" height="139" />If you are one of the 17% of GrokCode visitors using an outdated or non-standards compliant browser (\*cough\* IE) things just won&#8217;t look as nice. Have a look at Firefox 3.5 vs. IE 8.
+<img class="alignleft size-full wp-image-686" title="firefox" src="{{ site.baseimgurl }}firefox.png" alt="" width="180" height="139" /><img class="alignleft size-full wp-image-689" title="ie" src="{{ site.baseimgurl }}ie.png" alt="" width="180" height="139" />If you are one of the 17% of GrokCode visitors using an outdated or non-standards compliant browser (\*cough\* IE) things just won&#8217;t look as nice. Have a look at Firefox 3.5 vs. IE 8.
 
 The retro style is a bit spoiled by the boxy links, and the some of the finer details like rounded corners and transparency are lost.
 
@@ -63,7 +63,7 @@ The retro style is a bit spoiled by the boxy links, and the some of the finer de
 
 Again, the fonts aren&#8217;t exactly broken, but some people will have a better experience than others.
 
-<img class="alignleft size-full wp-image-687" title="font-ubuntu" src="http://grokcode.com/wordpress/wp-content/uploads/font-ubuntu.png" alt="" width="180" height="280" /><img class="alignleft size-full wp-image-688" title="font-windowsxp" src="http://grokcode.com/wordpress/wp-content/uploads/font-windowsxp.png" alt="" width="180" height="280" />If you are one of the 32% of GrokCode readers on Windows XP, the fonts will be rendered poorly. This isn&#8217;t just a problem with GrokCode or web pages in general &#8211; Windows XP is just bad at fonts. I had no idea that the problem was this bad until doing cross-browser testing, and I used to use XP quite often. I had to modify the original design so that it would be readable on XP (I believe Vista and 7 are better).
+<img class="alignleft size-full wp-image-687" title="font-ubuntu" src="{{ site.baseimgurl }}font-ubuntu.png" alt="" width="180" height="280" /><img class="alignleft size-full wp-image-688" title="font-windowsxp" src="{{ site.baseimgurl }}font-windowsxp.png" alt="" width="180" height="280" />If you are one of the 32% of GrokCode readers on Windows XP, the fonts will be rendered poorly. This isn&#8217;t just a problem with GrokCode or web pages in general &#8211; Windows XP is just bad at fonts. I had no idea that the problem was this bad until doing cross-browser testing, and I used to use XP quite often. I had to modify the original design so that it would be readable on XP (I believe Vista and 7 are better).
 
 Have a look at the side by side of Ubuntu and Windows XP. You are looking at the difference between aliased and anti-aliased text.
 

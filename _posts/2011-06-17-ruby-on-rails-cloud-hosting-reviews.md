@@ -27,7 +27,7 @@ The hosting platforms covered below provide a Rails environment right out of the
 
 ## [Engine Yard](http://www.engineyard.com/)
 
-[<img src="http://grokcode.com/wordpress/wp-content/uploads/engineyard-ruby-hosting.png" alt="Engine Yard Ruby on Rails Hosting" class="left size-full wp-image-711" />](http://www.engineyard.com/)
+[<img src="{{ site.baseimgurl }}engineyard-ruby-hosting.png" alt="Engine Yard Ruby on Rails Hosting" class="left size-full wp-image-711" />](http://www.engineyard.com/)
 
 _Setup and deploy process:_ After creating an Engine Yard account, setup and deploy is as simple as `gem install engineyard` then `ey deploy` from within the app directory.
 
@@ -41,7 +41,7 @@ _Conclusion:_ Engine Yard&#8217;s pricing structure is geared towards projects t
 
 ## [Heroku](http://www.heroku.com/)
 
-[<img src="http://grokcode.com/wordpress/wp-content/uploads/heroku-ruby-hosting.png" alt="Heroku Ruby on Rails Hosting" class="left size-full wp-image-710" />](http://www.heroku.com/)
+[<img src="{{ site.baseimgurl }}heroku-ruby-hosting.png" alt="Heroku Ruby on Rails Hosting" class="left size-full wp-image-710" />](http://www.heroku.com/)
 
 _Setup and deploy process:_ Simple git based workflow. `sudo gem install heroku` then `heroku create sushi` will create an app called sushi. Deploying is as easy as `git push heroku master`.
 
@@ -55,7 +55,7 @@ _Conclusion:_ Heroku&#8217;s free starter plan makes it an ideal choice for boot
 
 ## [Winnie Cloud](http://www.winniecloud.com/)
 
-[<img src="http://grokcode.com/wordpress/wp-content/uploads/winnie-cloud-ruby-hosting.png" alt="Winnie Cloud Ruby Hosting" class="left size-full wp-image-712" />](http://www.winniecloud.com/)
+[<img src="{{ site.baseimgurl }}winnie-cloud-ruby-hosting.png" alt="Winnie Cloud Ruby Hosting" class="left size-full wp-image-712" />](http://www.winniecloud.com/)
 
 _Setup and deploy process:_ Push to a Git repo managed by Winne Cloud. 
 
@@ -69,7 +69,7 @@ _Conclusion:_ It appears that Winnie Cloud started as an internal product of Rai
 
 ## [DotCloud](http://www.dotcloud.com/)
 
-[<img src="http://grokcode.com/wordpress/wp-content/uploads/dotcloud-ruby-hosting.png" alt="Dotcloud Ruby Hosting"  class="left size-full wp-image-712" />](http://www.dotcloud.com/)
+[<img src="{{ site.baseimgurl }}dotcloud-ruby-hosting.png" alt="Dotcloud Ruby Hosting"  class="left size-full wp-image-712" />](http://www.dotcloud.com/)
 
 _Setup and deploy process:_ After creating a DotCloud account, setup and deploy operations are done via the DotCloud command line interface. The CLI handles setting up the stack, deploy, rollback, and a number of other operations. The CLI integrates with Git and Murcurial. 
 

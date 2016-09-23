@@ -27,7 +27,7 @@ If you plan on storing the repository on the development machine (normally only 
 
 This tutorial was tested with the repository installed on Windows Server 2003, and the SVN client on Windows XP, although the process is pretty much the same on any version of Windows.
 
-## <img class="alignleft" src="http://grokcode.com/wordpress/wp-content/uploads/2009/01/cywin-install.png" alt="Cygwin Install Screenshot" />Install Cygwin
+## <img class="alignleft" src="{{ site.baseimgurl }}2009/01/cywin-install.png" alt="Cygwin Install Screenshot" />Install Cygwin
 
 Cygwin is linux-like environment for Windows. It gives you a terminal much like you would find on any *nix based system, and is one of my [favorite development tools](http://grokcode.com/6/top-7-development-tools/ "My Favorite Development Tools").
 
@@ -53,11 +53,11 @@ chmod +rw /etc/passwd</code></pre>
 
 Once `ssh-host-config` finishes with the info message &#8216;Have fun!&#8217; the ssh daemon is configured.
 
-![SSH Host Config Screenshot](http://grokcode.com/wordpress/wp-content/uploads/2009/01/ssh-host-config1.png)
+![SSH Host Config Screenshot]({{ site.baseimgurl }}2009/01/ssh-host-config1.png)
 
 Depending on your system, you may run into something like this instead:
 
-![SSH Host Config Screenshot 2](http://grokcode.com/wordpress/wp-content/uploads/2009/01/ssh-host-config2.png)
+![SSH Host Config Screenshot 2]({{ site.baseimgurl }}2009/01/ssh-host-config2.png)
 
 The daemon was successfully configured, but for some reason privilege separation failed. If you are happy with a slightly less secure system, you can go ahead and use it this way. _And if anyone knows how to fix this issue, please let me know._
 

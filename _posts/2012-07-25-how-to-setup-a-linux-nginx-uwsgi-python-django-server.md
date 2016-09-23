@@ -73,7 +73,7 @@ Then install Nginx with:
 
 <pre><code class="language-bash">sudo apt-get install nginx</code></pre>
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/Screenshot-Welcome-to-nginx-Chromium1.png" alt="Welcome to Nginx screen" width="400" height="391" class="size-full wp-image-791" />
+<img src="{{ site.baseimgurl }}Screenshot-Welcome-to-nginx-Chromium1.png" alt="Welcome to Nginx screen" width="400" height="391" class="size-full wp-image-791" />
 
 Nginx is already running. To verify, open your server&#8217;s ip address in a browser, and you should see a &#8216;Welcome to nginx!&#8217; screen.
 
@@ -145,7 +145,7 @@ OK let&#8217;s start things up:
 <pre><code class="language-bash">sudo service uwsgi restart
 sudo service nginx restart</code></pre>
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/Screenshot-The-page-is-temporarily-unavailable-Chromium-1.png" alt="uWSGI error screen" width="400" height="391" class="size-full wp-image-790" />
+<img src="{{ site.baseimgurl }}Screenshot-The-page-is-temporarily-unavailable-Chromium-1.png" alt="uWSGI error screen" width="400" height="391" class="size-full wp-image-790" />
 
 If everything has be setup properly so far, navigating to the IP address should now show a uWSGI error.
 
@@ -186,7 +186,7 @@ deactivate</code></pre>
 
 OK so now that the Django code files are on the server and the dependencies are satisfied, navigating to the IP address in your browser should show your app. Static files aren&#8217;t being served yet and the database isn&#8217;t installed, but we can see some progress.
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/Screenshot-Search-for-Author-Alcove-Chromium.png" alt="Application screenshot without static files or database connection." class="size-full wp-image-787" />
+<img src="{{ site.baseimgurl }}Screenshot-Search-for-Author-Alcove-Chromium.png" alt="Application screenshot without static files or database connection." class="size-full wp-image-787" />
 
 If you haven&#8217;t got this far, the log files for upstart, nginx, and uwsgi are a good place to start troubleshooting. 
 

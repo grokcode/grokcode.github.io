@@ -19,7 +19,7 @@ tags:
 ---
 Well this is the third edition of the [sweet hacks series](http://grokcode.com/category/archives/sweet-hacks/ "sweet hacks"). In each edition I highlight clever code, cool uses of technology, and do it yourself projects that I find on the net. Anyone is welcome to submit their own sweet hacks by sending an email to jess@grokcode.com. Hacks are accepted for the series based on my whim.<!--more-->
 
-## <img src="http://grokcode.com/wordpress/wp-content/uploads/2008/08/steampunk-monitor.png" alt="Steampunk monitor" width="130" height="130" class="alignleft" />[Steampunk Flat Panel Monitor](http://steampunkworkshop.com/lcd.shtml "Steampunk monitor")
+## <img src="{{ site.baseimgurl }}2008/08/steampunk-monitor.png" alt="Steampunk monitor" width="130" height="130" class="alignleft" />[Steampunk Flat Panel Monitor](http://steampunkworkshop.com/lcd.shtml "Steampunk monitor")
 
 by Jake von Slatt
 
@@ -27,7 +27,7 @@ The Steampunk Monitor is a mod of a flat panel LCD. Jake gives the monitor a gre
 
 * * *
 
-## <img src="http://grokcode.com/wordpress/wp-content/uploads/2008/09/train.gif" alt="Vinyl Games" width="130" height="130" class="alignleft" />[Computer Games In Vinyl](http://www.kempa.com/blog/archives/000053.html "Computer Games in the Vinyl")
+## <img src="{{ site.baseimgurl }}2008/09/train.gif" alt="Vinyl Games" width="130" height="130" class="alignleft" />[Computer Games In Vinyl](http://www.kempa.com/blog/archives/000053.html "Computer Games in the Vinyl")
 
 by kempa.com
 
@@ -35,7 +35,7 @@ Kempa describes various computer games, messages, and art hidden by embedding da
 
 * * *
 
-## <img src="http://grokcode.com/wordpress/wp-content/uploads/2008/09/quine21.png" alt="Quine" width="130" height="108" class="alignleft" />[The Quine Page](http://www.nyx.net/~gthompso/quine.htm "The Quine Page")
+## <img src="{{ site.baseimgurl }}2008/09/quine21.png" alt="Quine" width="130" height="108" class="alignleft" />[The Quine Page](http://www.nyx.net/~gthompso/quine.htm "The Quine Page")
 
 by Gary P. Thompson II
 
@@ -43,7 +43,7 @@ A quine is a program that generates a copy of its own source text as its complet
 
 * * *
 
-## <img src="http://grokcode.com/wordpress/wp-content/uploads/2008/09/cat.jpg" alt="Twitter cat" width="130" height="127" class="alignleft" />[Cats Tweet Videos When Eating](http://www.fsckin.com/2008/04/10/my-cat-bubba-posts-videos-and-twitters-using-an-eeepc-and-ubuntu/)
+## <img src="{{ site.baseimgurl }}2008/09/cat.jpg" alt="Twitter cat" width="130" height="127" class="alignleft" />[Cats Tweet Videos When Eating](http://www.fsckin.com/2008/04/10/my-cat-bubba-posts-videos-and-twitters-using-an-eeepc-and-ubuntu/)
 
 by Wayne
 

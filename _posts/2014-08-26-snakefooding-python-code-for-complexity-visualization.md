@@ -34,7 +34,7 @@ The different development philosophies of Bottle, Django, Flask, and Pyramid are
 
 Bottle is a fast and simple micro framework for Python web applications.
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/bottle.png" alt="bottle" width="756" height="584" class="alignleft size-full wp-image-866" />
+<img src="{{ site.baseimgurl }}bottle.png" alt="bottle" width="756" height="584" class="alignleft size-full wp-image-866" />
 
 <small><a href="https://github.com/defnull/bottle">Bottle</a> release 0.12.7</small>
 
@@ -42,7 +42,7 @@ Bottle is a fast and simple micro framework for Python web applications.
 
 Django is a batteries-included web framework for perfectionists with deadlines.
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/django.png" alt="django" width="756" height="584" class="alignleft size-f
+<img src="{{ site.baseimgurl }}django.png" alt="django" width="756" height="584" class="alignleft size-f
 ull wp-image-865" />
   
 <small><a href="https://github.com/django/django">Django</a> release 1.7c3</small> 
@@ -51,7 +51,7 @@ ull wp-image-865" />
 
 Flask is a microframework for Python.
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/flask.png" alt="flask" width="756" height="584" class="alignleft size-full wp-image-869" />
+<img src="{{ site.baseimgurl }}flask.png" alt="flask" width="756" height="584" class="alignleft size-full wp-image-869" />
 
 <small><a href="https://github.com/mitsuhiko/flask">Flask</a> release 0.10.1</small> 
 
@@ -59,7 +59,7 @@ Flask is a microframework for Python.
 
 Pyramid is a small, fast, down-to-earth, open source Python web framework. It makes real-world web application development and deployment more fun, more predictable, and more productive.
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/pyramid.png" alt="pyramid" width="756" height="584" class="alignleft size-full wp-image-872" />
+<img src="{{ site.baseimgurl }}pyramid.png" alt="pyramid" width="756" height="584" class="alignleft size-full wp-image-872" />
 
 <small><a href="https://github.com/Pylons/pyramid">Pyramid</a> release 1.5.1</small>
 
@@ -71,7 +71,7 @@ Hat tip to Sylvain Zimmer for this deck on [switching from Celery to RQ](http://
 
 Celery is a complex feature-rich distributed queueing implementation. 
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/celery.png" alt="celery" width="756" height="584" class="alignleft size-full wp-image-867" />
+<img src="{{ site.baseimgurl }}celery.png" alt="celery" width="756" height="584" class="alignleft size-full wp-image-867" />
 
 <small><a href="https://github.com/celery/celery">Celery</a> release 3.0.20</small>
 
@@ -79,7 +79,7 @@ Celery is a complex feature-rich distributed queueing implementation.
 
 RQ is a simple Python library for queueing jobs and processing them in the background with workers.
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/rq.png" alt="rq" width="756" height="584" class="alignleft size-full wp-image-874" />
+<img src="{{ site.baseimgurl }}rq.png" alt="rq" width="756" height="584" class="alignleft size-full wp-image-874" />
 
 <small><a href="https://github.com/nvie/rq">RQ</a> release 0.4.6</small> 
 
@@ -91,7 +91,7 @@ For curiosity&#8217;s sake I ran snakefood on a few other notable Python codebas
 
 Twisted is an event-based framework for internet applications.
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/twisted.png" alt="twisted" width="756" height="584" class="alignleft size-full wp-image-875" />
+<img src="{{ site.baseimgurl }}twisted.png" alt="twisted" width="756" height="584" class="alignleft size-full wp-image-875" />
 
 <small><a href="https://github.com/twisted/twisted">Twisted</a> release 14.0.0</small> 
 
@@ -99,7 +99,7 @@ Twisted is an event-based framework for internet applications.
 
 Mercurial is a distributed source control management tool.
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/mercurial.png" alt="mercurial" width="756" height="584" class="alignleft size-full wp-image-871" />
+<img src="{{ site.baseimgurl }}mercurial.png" alt="mercurial" width="756" height="584" class="alignleft size-full wp-image-871" />
 
 <small><a href="http://mercurial.selenic.com/">Mercurial</a> release 3.1</small>
 
@@ -107,7 +107,7 @@ Mercurial is a distributed source control management tool.
 
 Requests is HTTP requests for humans. It is frequently mentioned as an example of an elegant, Pythonic codebase.
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/requests.png" alt="requests" width="756" height="584" class="alignleft size-full wp-image-873" />
+<img src="{{ site.baseimgurl }}requests.png" alt="requests" width="756" height="584" class="alignleft size-full wp-image-873" />
 
 <small><a href="https://github.com/kennethreitz/requests">Requests</a> release 2.3.0</small>
 
@@ -115,7 +115,7 @@ Requests is HTTP requests for humans. It is frequently mentioned as an example o
 
 IPython is an alternative to the standard Python shell. If you aren&#8217;t using IPython, you should be. [Here&#8217;s why IPython is awesome](http://grokcode.com/811/you-should-change-your-python-shell/).
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/ipython.png" alt="ipython" width="756" height="584" class="alignleft size-full wp-image-870" /><small><a href="https://github.com/ipython/ipython">IPython</a> release 2.2.0</small>
+<img src="{{ site.baseimgurl }}ipython.png" alt="ipython" width="756" height="584" class="alignleft size-full wp-image-870" /><small><a href="https://github.com/ipython/ipython">IPython</a> release 2.2.0</small>
 
 ## What does this mean?
 

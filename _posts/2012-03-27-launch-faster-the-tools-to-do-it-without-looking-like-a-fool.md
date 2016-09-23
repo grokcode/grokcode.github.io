@@ -26,7 +26,7 @@ Assuming you already have a working side project or product (no small feat in it
 
 Researching this stuff is a _huge_ time suck. Here are the tools I recommend for getting a professional site done quickly. This setup has no monthly fees and low per transaction fees, but does require some glue code to get working. 
 
-[<img src="http://grokcode.com/wordpress/wp-content/uploads/themeforest.jpg" alt="themeforest screenshot" width="360" height="209" class="alignleft size-full" />](http://themeforest.net?ref=grokcode)[ThemeForest](http://themeforest.net?ref=grokcode) is an online marketplace for site templates and themes.
+[<img src="{{ site.baseimgurl }}themeforest.jpg" alt="themeforest screenshot" width="360" height="209" class="alignleft size-full" />](http://themeforest.net?ref=grokcode)[ThemeForest](http://themeforest.net?ref=grokcode) is an online marketplace for site templates and themes.
 
 Even if you plan on moving to a custom design later, using a pre-built theme at first will save time and let you launch sooner. Plus the initial feedback from customers who bought the product on the themed site will help to guide the custom design.
 
@@ -38,7 +38,7 @@ A stock theme will still need some customization. For custom graphics, try [Fivv
 
 I add a few extra pages to the theme to handle checkout: a payment page, a verify purchase page, and a thank-you or payment received page. These pages contain a bit of custom glue code to use my preferred payment processor, digital delivery method, and affiliate program tracker. The other benefit of handling these pages myself, instead of passing control off to an external cart or payment processor, is that it allows more control over the checkout process. This is valuable for gathering data about cart abandonment rates, providing opportunities for upselling, and optimizing these pages for conversion. 
 
-[<img src="http://grokcode.com/wordpress/wp-content/uploads/stripe.jpg" alt="stripe screenshot" width="360" height="209" class="alignleft size-full" />](https://stripe.com/)Previously, writing or hosting those pages yourself would be a huge security risk and a PCI compliance nightmare, but with [Stripe](http://stripe.com) to do the heavy lifting it&#8217;s a secure option.
+[<img src="{{ site.baseimgurl }}stripe.jpg" alt="stripe screenshot" width="360" height="209" class="alignleft size-full" />](https://stripe.com/)Previously, writing or hosting those pages yourself would be a huge security risk and a PCI compliance nightmare, but with [Stripe](http://stripe.com) to do the heavy lifting it&#8217;s a secure option.
 
 Stripe makes it easy to accept credit cards on the web.
 
@@ -50,7 +50,7 @@ Cost is 2.9% plus $0.30 per successful charge. There are no hidden fees. Earning
 
 Unlike most forms of accepting online payments, the sign up process is painless, and you can start with the test API right away. [Sign up for Stripe.](https://stripe.com/)
 
-[<img src="http://grokcode.com/wordpress/wp-content/uploads/fetch.jpg" alt="fetch screenshot" width="360" height="209" class="alignleft size-full" />](http://fetchapp.com/)Once payment has been processed, [FetchApp](http://fetchapp.com/) provides secure delivery of digital files.
+[<img src="{{ site.baseimgurl }}fetch.jpg" alt="fetch screenshot" width="360" height="209" class="alignleft size-full" />](http://fetchapp.com/)Once payment has been processed, [FetchApp](http://fetchapp.com/) provides secure delivery of digital files.
 
 Each purchase triggers the creation of a unique download link. You can configure the length of time the link is valid and the number of times it can be used.
 
@@ -64,7 +64,7 @@ The above services mixed with some good marketing copy will get you up and runni
 
 [Google analytics](http://www.google.com/analytics/) is the standard choice for analytics &#8211; it is easy to setup and provides tons of useful information.
 
-[<img src="http://grokcode.com/wordpress/wp-content/uploads/google-website-optimizer.jpg" alt="google website optimizer screenshot" width="360" height="209" class="alignleft size-full" />](http://www.google.com/websiteoptimizer)[Google Website Optimizer](http://www.google.com/websiteoptimizer) provides A/B and Multivariate Testing.
+[<img src="{{ site.baseimgurl }}google-website-optimizer.jpg" alt="google website optimizer screenshot" width="360" height="209" class="alignleft size-full" />](http://www.google.com/websiteoptimizer)[Google Website Optimizer](http://www.google.com/websiteoptimizer) provides A/B and Multivariate Testing.
 
 There are a number of different options for this type of testing. I prefer GWO because it is easy to setup and the reports are simple to understand.
 
@@ -76,7 +76,7 @@ A self-hosted affiliate program will avoid those problems &#8211; you can custom
 
 I have yet to find a good affiliate solution, self-hosted or otherwise. Anyone have recommendations?
 
-[<img src="http://grokcode.com/wordpress/wp-content/uploads/freshbooks.jpg" alt="freshbooks screenshot" width="360" height="209" class="alignleft size-full" />](http://www.freshbooks.com/)Bonus recommendation: if you intend to support a fledgling startup with contract work on the side, or if charging for support is part of your revenue model, [Freshbooks](http://www.freshbooks.com/) is the best option I&#8217;ve seen for creating professional invoices.
+[<img src="{{ site.baseimgurl }}freshbooks.jpg" alt="freshbooks screenshot" width="360" height="209" class="alignleft size-full" />](http://www.freshbooks.com/)Bonus recommendation: if you intend to support a fledgling startup with contract work on the side, or if charging for support is part of your revenue model, [Freshbooks](http://www.freshbooks.com/) is the best option I&#8217;ve seen for creating professional invoices.
 
 The Freshbooks web app is an absolute pleasure to work with.
 

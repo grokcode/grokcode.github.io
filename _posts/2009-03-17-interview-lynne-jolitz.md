@@ -22,7 +22,7 @@ tags:
 ---
 This is the second interview in an ongoing series of interviews with [famous programmers](http://grokcode.com/37/famous-programmers-from-adleman-to-zimmermann/ "famous programmers") and authors of books that should be [required reading for any serious developer](http://grokcode.com/11/the-top-9-in-a-hackers-bookshelf/ "Required reading for developers"). Lynne Jolitz is an accomplished author, 386BSD hacker, Silicon Valley entrepreneur, and all-around geek. She has long been a figure in the tech community. Regular readers will remember that she was included in the analysis of famous programmers. Lets get to the interview! <!--more-->
 
-[<img class="alignleft size-full wp-image-262" title="source_code_secrets" src="http://grokcode.com/wordpress/wp-content/uploads/source_code_secrets1.jpg" alt="The Basic Kernel Source Code Secrets" width="184" height="240" />](http://www.amazon.com/gp/product/1573980269?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1573980269 "Source Code Secrets")
+[<img class="alignleft size-full wp-image-262" title="source_code_secrets" src="{{ site.baseimgurl }}source_code_secrets1.jpg" alt="The Basic Kernel Source Code Secrets" width="184" height="240" />](http://www.amazon.com/gp/product/1573980269?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1573980269 "Source Code Secrets")
 
 ## 1. How did you first get involved with programming?
 

@@ -14,7 +14,7 @@ tags:
 ---
 Welcome to Volume II of the sweet hacks series. A sweet hack can be a clever piece of code, an innovative way of solving a technical problem, or pretty much whatever strikes me as cool. This edition includes Star Wars, Twitter, Rubik&#8217;s cubes, Webcams, Pong, Legos, and The Naked Game &#8211; with such a high concentration of geekiness mixed in with a little naked code you really can&#8217;t go wrong. Read on to get the full scoop and nominate your own sweet hack for the next edition.<!--more-->
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/2008/05/wikipedia.png" alt="wikipedia.png" width="130" height="130" class="alignleft" /><span class="h2"><a href="http://www.chrisharrison.net/projects/wikiviz/index.html">WikiViz Graph Renderer</a></span>
+<img src="{{ site.baseimgurl }}2008/05/wikipedia.png" alt="wikipedia.png" width="130" height="130" class="alignleft" /><span class="h2"><a href="http://www.chrisharrison.net/projects/wikiviz/index.html">WikiViz Graph Renderer</a></span>
 
 by Chris Harrison
 
@@ -22,7 +22,7 @@ WikiViz is a Java program that renders graphical representations of graphs conta
 
 * * *
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/2008/06/twitter2.png" alt="twitter" width="130" height="130" class="alignleft" /><span class="h2"><a href="http://tech.shantanugoel.com/2008/05/14/keep-tab-on-home-security-with-a-webcam-and-twitter.html" title="Home security via twitter and a webcam">Home Security Via Twitter and a Webcam</a></span>
+<img src="{{ site.baseimgurl }}2008/06/twitter2.png" alt="twitter" width="130" height="130" class="alignleft" /><span class="h2"><a href="http://tech.shantanugoel.com/2008/05/14/keep-tab-on-home-security-with-a-webcam-and-twitter.html" title="Home security via twitter and a webcam">Home Security Via Twitter and a Webcam</a></span>
 
 by Shantanu Goel
 
@@ -30,7 +30,7 @@ Shantanu walks through an installation of Motion, a FOSS software motion detecto
 
 * * *
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/2008/05/star-wars.png" alt="star-wars.png" width="130" height="130" class="alignleft" /><span class="h2">Star Wars on the Command Line</span>
+<img src="{{ site.baseimgurl }}2008/05/star-wars.png" alt="star-wars.png" width="130" height="130" class="alignleft" /><span class="h2">Star Wars on the Command Line</span>
 
 by [Simon Jansen](http://www.asciimation.co.nz/) (ASCII Artwork) and [blinkenlights.nl](http://www.blinkenlights.nl/services.html) (Telnet availability)
 
@@ -40,7 +40,7 @@ Simon wrote the asciimation, which is an animation created by displaying frames 
 
 * * *
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/2008/05/cube.png" alt="Rubik's Cube Solver" width="130" height="130" class="alignleft" /><span class="h2"><a href="http://jpbrown.i8.com/cubesolver.html">Lego Rubik&#8217;s Cube Solver</a></span>
+<img src="{{ site.baseimgurl }}2008/05/cube.png" alt="Rubik's Cube Solver" width="130" height="130" class="alignleft" /><span class="h2"><a href="http://jpbrown.i8.com/cubesolver.html">Lego Rubik&#8217;s Cube Solver</a></span>
 
 by JP Brown
 
@@ -48,7 +48,7 @@ The solver first identifies the initial state of the cube using the camera and c
 
 * * *
 
-<img src="http://grokcode.com/wordpress/wp-content/uploads/2008/05/pong.png" alt="Pong" width="130" height="130" class="alignleft" /><span class="h2"><a href="http://www.retrodev.co.uk/MiscGames/NakedGame/TheNakedGame.html">The Naked Game</a></span>
+<img src="{{ site.baseimgurl }}2008/05/pong.png" alt="Pong" width="130" height="130" class="alignleft" /><span class="h2"><a href="http://www.retrodev.co.uk/MiscGames/NakedGame/TheNakedGame.html">The Naked Game</a></span>
 
 by RetroDev Games
 

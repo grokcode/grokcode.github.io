@@ -15,7 +15,7 @@ tags:
 ---
 View an analysis of 222 famous programmers who are revered in the hacker culture as respected innovators, superstar coders, and the heroes of the computer revolution. Graphs break down the projects that propelled them to fame, the number of projects it took to make them famous, and the relative numbers of men and women who make up this elite group of famous hackers.<!--more-->
 
-![Famous Programmers by Project](http://grokcode.com/wordpress/wp-content/uploads/2008/06/programmer-graph1.png)
+![Famous Programmers by Project]({{ site.baseimgurl }}2008/06/programmer-graph1.png)
 
 ## A note on the definition of famous
 
@@ -35,7 +35,7 @@ Interestingly, 31.49% of projects couldn&#8217;t be put into a category that had
 
 Not many. 52.36% of famous programmers are known for their work on only one project. Obviously these guys have been involved in a variety of projects over the course of their careers, but for the majority, just one project propelled them to fame. On the flip side of the coin, there are a few people who achieved fame through their work on a number of smaller undertakings. For example, Lou Montulli is credited with creating the Lynx browser, cookies, the blink tag (ugh what were you thinking!), server push and client pull, HTTP proxying, HTTP over SSL, browser integration with animated GIFs, and being a founding member of the HTML working group at W3C.
 
-![Famous Programmers by Number of Project](http://grokcode.com/wordpress/wp-content/uploads/2008/06/programmer-graph2.png)
+![Famous Programmers by Number of Project]({{ site.baseimgurl }}2008/06/programmer-graph2.png)
 
 ## What happened to the women?
 
@@ -47,7 +47,7 @@ Also of note is Roberta Williams, who was only able to credit the women&#8217;s 
 
 The 4 male to female transsexuals in the list are [Rebecca Heineman](http://grokcode.com/106/interview-rebecca-heineman/ "Interview with Rebecca Heineman"), author of Bard&#8217;s Tale III: Thief of Fate and Dragon Wars, Audrey Tang, known for the Pugs Perl 6 compiler, Sophie Wilson, designer of the instruction set for the Acorn RISC Machine, and Danielle Bunten Berry, known for the M.U.L.E. multiplayer video game written in 1983.
 
-![Famous Programmers by Gender](http://grokcode.com/wordpress/wp-content/uploads/2008/10/programmer-graph3-new3.png)
+![Famous Programmers by Gender]({{ site.baseimgurl }}2008/10/programmer-graph3-new3.png)
 
 So there it is. The most famous and revered programmers in our culture work on a variety of projects, especially compilers. They are well-known for only a small number projects, and the overwhelmingly vast majority of them are male.
 

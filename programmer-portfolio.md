@@ -48,7 +48,7 @@ keywords: portfolio, programming, developer, grokcode, python, django, full stac
 </ul>
 
 <div>
-  <img src="http://grokcode.com/wordpress/wp-content/uploads/authoralcove-screenshot1-e1376434691158.png" alt="Author Alcove" class="left" />
+  <img src="{{ site.baseimgurl }}authoralcove-screenshot1-e1376434691158.png" alt="Author Alcove" class="left" />
 </div>
 
 **When:** 2012-2014
@@ -115,7 +115,7 @@ Stats tracking, conversion analysis, and lifecycle emails have been built into t
 </ul>
 
 <div>
-  <img class="left" src="http://grokcode.com/wordpress/wp-content/uploads/ppc-reporting.png" alt="PPC Reporting System" />
+  <img class="left" src="{{ site.baseimgurl }}ppc-reporting.png" alt="PPC Reporting System" />
 </div>
 
 **When:** 2007-2010
@@ -141,7 +141,7 @@ Data is imported via SOAP APIs, parsed CSV files, and manual imports. The projec
 </ul>
 
 <div>
-  <img src="http://grokcode.com/wordpress/wp-content/uploads/2008/07/ablanding.png" alt="AB Landing Page Testing" class="left" />
+  <img src="{{ site.baseimgurl }}2008/07/ablanding.png" alt="AB Landing Page Testing" class="left" />
 </div>
 
 **When:** 2006
@@ -179,7 +179,7 @@ This SaaS application uses a multi-tiered user system so that partners can chang
 </ul>
 
 <div>
-  <img class="left" src="http://grokcode.com/wordpress/wp-content/uploads/geotargeter-checkout.png" alt="Amazon Affiliate Geotargeter WordPress Plugin" />
+  <img class="left" src="{{ site.baseimgurl }}geotargeter-checkout.png" alt="Amazon Affiliate Geotargeter WordPress Plugin" />
 </div>
 
 **When:** 2011-2013
@@ -208,7 +208,7 @@ The accompanying website uses Stripe for payments.
 </ul>
 
 <div>
-  <img src="http://grokcode.com/wordpress/wp-content/uploads/grokcode-screenshot.png" alt="GrokCode Screenshot" width="362" height="211" class="left" />
+  <img src="{{ site.baseimgurl }}grokcode-screenshot.png" alt="GrokCode Screenshot" width="362" height="211" class="left" />
 </div>
 
 **When:** 2007-{{ 'now' | date: "%Y" }}
@@ -256,7 +256,7 @@ The accompanying website uses Stripe for payments.
 </ul>
 
 <div>
-  <img class="left" src="http://grokcode.com/wordpress/wp-content/uploads/2008/07/joke-generator.png" alt="Joke Generator" />
+  <img class="left" src="{{ site.baseimgurl }}2008/07/joke-generator.png" alt="Joke Generator" />
 </div>
 
 **When:** 2004

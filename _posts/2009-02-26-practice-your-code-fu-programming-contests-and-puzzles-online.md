@@ -26,7 +26,7 @@ This is a list of the best sites on the net for practicing your coding chops, sh
 ## [Code Golf](http://codegolf.com/)
 
 <div>
-  <a href="http://codegolf.com/"><img class="left size-full wp-image-223" title="Code Golf" src="http://grokcode.com/wordpress/wp-content/uploads/code_golf1.png" alt="Code Golf" width="360" height="130" /></a>
+  <a href="http://codegolf.com/"><img class="left size-full wp-image-223" title="Code Golf" src="{{ site.baseimgurl }}code_golf1.png" alt="Code Golf" width="360" height="130" /></a>
 </div>
 
 _When:_ Ongoing, new challenges posted sporadically
@@ -40,7 +40,7 @@ _How to win:_ Submit your code, and if it passes the challenge test cases, your 
 ## [UVa](http://icpcres.ecs.baylor.edu/onlinejudge/)
 
 <div>
-  <a href="http://icpcres.ecs.baylor.edu/onlinejudge/"><img class="left size-full wp-image-221" title="UVa" src="http://grokcode.com/wordpress/wp-content/uploads/uva.png" alt="UVa" width="360" height="129" /></a>
+  <a href="http://icpcres.ecs.baylor.edu/onlinejudge/"><img class="left size-full wp-image-221" title="UVa" src="{{ site.baseimgurl }}uva.png" alt="UVa" width="360" height="129" /></a>
 </div>
 
 _When:_ New contests every month
@@ -54,7 +54,7 @@ _How to win:_ Contests are timed and usually last several hours, so have some co
 ## [Mindcipher](http://mindcipher.net/)
 
 <div>
-  <a href="http://mindcipher.net/"><img class="left img-noborder size-full wp-image-244" title="Mindcipher" src="http://grokcode.com/wordpress/wp-content/uploads/mindcipher.png" alt="Mindcipher" width="360" height="79" /></a>
+  <a href="http://mindcipher.net/"><img class="left img-noborder size-full wp-image-244" title="Mindcipher" src="{{ site.baseimgurl }}mindcipher.png" alt="Mindcipher" width="360" height="79" /></a>
 </div>
 
 _When:_ Ongoing
@@ -68,7 +68,7 @@ _How to win:_ Answers are provided for each brain teaser, so there isn&#8217;t r
 ## [Project Euler](http://projecteuler.net/)
 
 <div>
-  <a href="http://projecteuler.net/"><img class="left size-full wp-image-219" title="Project Euler" src="http://grokcode.com/wordpress/wp-content/uploads/project_euler.png" alt="Project Euler" width="360" height="140" /></a>
+  <a href="http://projecteuler.net/"><img class="left size-full wp-image-219" title="Project Euler" src="{{ site.baseimgurl }}project_euler.png" alt="Project Euler" width="360" height="140" /></a>
 </div>
 
 _When:_ Ongoing
@@ -82,7 +82,7 @@ _How to win:_ Submit correct answers to the most recent 25 problems to earn a sp
 ## [TopCoder](http://www.topcoder.com/tc)
 
 <div>
-  <a href="http://www.topcoder.com/tc"><img class="left size-full wp-image-243" title="TopCoder" src="http://grokcode.com/wordpress/wp-content/uploads/top_coder1.png" alt="TopCoder" width="360" height="105" /></a>
+  <a href="http://www.topcoder.com/tc"><img class="left size-full wp-image-243" title="TopCoder" src="{{ site.baseimgurl }}top_coder1.png" alt="TopCoder" width="360" height="105" /></a>
 </div>
 
 _When:_ Weekly rated competitions, and practice rooms that are always open
@@ -98,7 +98,7 @@ _How to win:_ For the algorithm competitions, develop, test, and submit solution
 ## [The International Obfuscated C Code Contest](http://www.de.ioccc.org/main.html)
 
 <div>
-  <a href="http://www.de.ioccc.org/main.html"><img class="left img-noborder size-full wp-image-218" title="International Obfuscated C Code Contest" src="http://grokcode.com/wordpress/wp-content/uploads/ioccc.png" alt="International Obfuscated C Code Contest" width="360" height="130" /></a>
+  <a href="http://www.de.ioccc.org/main.html"><img class="left img-noborder size-full wp-image-218" title="International Obfuscated C Code Contest" src="{{ site.baseimgurl }}ioccc.png" alt="International Obfuscated C Code Contest" width="360" height="130" /></a>
 </div>
 
 _When:_ Yearly (but currently on hiatus after 19 competitions)

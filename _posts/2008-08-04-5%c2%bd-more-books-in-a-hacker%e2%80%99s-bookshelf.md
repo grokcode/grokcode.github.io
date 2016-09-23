@@ -16,7 +16,7 @@ tags:
 This is a follow up to the list of [recommended books for a hacker&#8217;s bookshelf](http://grokcode.com/11/the-top-9-in-a-hackers-bookshelf/ "Recommended hacking books") that was posted a few months ago. Here are 5½ more essential books for a hacker&#8217;s bookshelf. This list is based on reader suggestions, and like the previous list of recommended programming books, it contains a nice mix of computer science texts, developer references, and books giving insight into the programming industry. This is another list of hackers&#8217; classics.<!--more-->
 
 <div>
-  <a href="http://www.amazon.com/gp/product/020161622X?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=020161622X" title="The Pragmatic Programmer"><img src="http://grokcode.com/wordpress/wp-content/uploads/2008/08/pragmatic-programmer.jpg" alt="The Pragmatic Programmer" class="alignleft" /></a>
+  <a href="http://www.amazon.com/gp/product/020161622X?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=020161622X" title="The Pragmatic Programmer"><img src="{{ site.baseimgurl }}2008/08/pragmatic-programmer.jpg" alt="The Pragmatic Programmer" class="alignleft" /></a>
 </div>
 
 [The Pragmatic Programmer: From Journeyman to Master](http://www.amazon.com/gp/product/020161622X?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=020161622X "The Pragmatic Programmer: From Journeyman to Master")
@@ -30,7 +30,7 @@ The &#8220;Pragmatic Programmer&#8221; is a high level overview of a wide range 
 This book is recommended for anyone who wants to be a better coder. It is probably best suited to beginner and intermediate developers, but advanced developers may find it a fun and worthwhile read as well.
 
 <div>
-  <a href="http://www.amazon.com/gp/product/0201485419?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201485419" title="The Art of Computer Programming, Volumes 1-4A Boxed Set by Donald E. Knuth"><img src="http://grokcode.com/wordpress/wp-content/uploads/knuth-TAOCP.jpg" alt="The Art of Computer Programming, Volumes 1-4A Boxed Set by Donald E. Knuth" class="alignleft" /></a>
+  <a href="http://www.amazon.com/gp/product/0201485419?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201485419" title="The Art of Computer Programming, Volumes 1-4A Boxed Set by Donald E. Knuth"><img src="{{ site.baseimgurl }}knuth-TAOCP.jpg" alt="The Art of Computer Programming, Volumes 1-4A Boxed Set by Donald E. Knuth" class="alignleft" /></a>
 </div>
 
 [The Art of Computer Programming, Volumes 1-4A Boxed Set](http://www.amazon.com/gp/product/0201485419?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201485419 "The Art of Computer Programming, Volumes 1-4A Boxed Set")
@@ -42,7 +42,7 @@ According to [The New Hacker&#8217;s Dictionary](http://www.ccil.org/jargon/jarg
 I&#8217;m a bit embarrassed to say that I haven&#8217;t read TAOCP, but it&#8217;s been on my list of must reads for a while. I would recommend TAOCP to anyone who wants to fill in any gaps in their computer science knowledge.
 
 <div>
-  <a href="http://www.amazon.com/gp/product/0131429019?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0131429019" title="The Art of UNIX Programming"><img src="http://grokcode.com/wordpress/wp-content/uploads/2008/08/art-of-unix-programming.jpg" alt="The Art of UNIX Programming" class="alignleft" /></a>
+  <a href="http://www.amazon.com/gp/product/0131429019?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0131429019" title="The Art of UNIX Programming"><img src="{{ site.baseimgurl }}2008/08/art-of-unix-programming.jpg" alt="The Art of UNIX Programming" class="alignleft" /></a>
 </div>
 
 [The Art of UNIX Programming](http://www.amazon.com/gp/product/0131429019?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0131429019 "The Art of UNIX Programming")
@@ -56,7 +56,7 @@ This book really covers a lot of ground. The first part of the book is an introd
 This book is recommended for anyone who has an interest in operating systems history, the open source culture and philosophy, or just learning about different tools and techniques that will help in becoming a better coder.
 
 <div>
-  <a href="http://www.amazon.com/gp/product/0262560992?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0262560992" title="The Little Schemer"><img src="http://grokcode.com/wordpress/wp-content/uploads/2008/08/the-little-schemer.jpg" alt="The Little Schemer" class="alignleft" /></a>
+  <a href="http://www.amazon.com/gp/product/0262560992?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0262560992" title="The Little Schemer"><img src="{{ site.baseimgurl }}2008/08/the-little-schemer.jpg" alt="The Little Schemer" class="alignleft" /></a>
 </div>
 
 [The Little Schemer &#8211; 4th Edition](http://www.amazon.com/gp/product/0262560992?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0262560992 "The Little Schemer")
@@ -70,7 +70,7 @@ Despite the title, this book isn&#8217;t really about Scheme; it covers only the
 This book is recommended for anyone looking for a mind-expanding treatment of recursion and the art of thinking like a lisper.
 
 <div>
-  <a href="http://www.amazon.com/gp/product/0932633439?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0932633439" title="Peopleware: Productive Projects and Teams by Tom DeMarco and Timothy Lister"><img src="http://grokcode.com/wordpress/wp-content/uploads/2008/08/peopleware.jpg" alt="Peopleware: Productive Projects and Teams by Tom DeMarco And Timothy Lister" class="alignleft" /></a>
+  <a href="http://www.amazon.com/gp/product/0932633439?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0932633439" title="Peopleware: Productive Projects and Teams by Tom DeMarco and Timothy Lister"><img src="{{ site.baseimgurl }}2008/08/peopleware.jpg" alt="Peopleware: Productive Projects and Teams by Tom DeMarco And Timothy Lister" class="alignleft" /></a>
 </div>
 
 [Peopleware: Productive Projects and Teams (Second Edition)](http://www.amazon.com/gp/product/0932633439?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0932633439 "Peopleware: Productive Projects and Teams")
@@ -84,7 +84,7 @@ This book is very well regarded in the industry, and I think a large reason for 
 This book is recommended for anyone who manages software development projects, or aspires to lead a team of developers. Buying one for management could just convince them to ditch the cubicle idea.
 
 <div>
-  <a href="http://www.amazon.com/gp/product/0553380958?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0553380958" title="Snow Crash"><img src="http://grokcode.com/wordpress/wp-content/uploads/2008/08/snow-crash.jpg" alt="Snow Crash" class="alignleft" /></a>
+  <a href="http://www.amazon.com/gp/product/0553380958?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0553380958" title="Snow Crash"><img src="{{ site.baseimgurl }}2008/08/snow-crash.jpg" alt="Snow Crash" class="alignleft" /></a>
 </div>
 
 [Snow Crash](http://www.amazon.com/gp/product/0553380958?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0553380958 "Snow Crash")

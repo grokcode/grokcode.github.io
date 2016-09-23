@@ -24,7 +24,7 @@ Research shows that reordering your office can significantly boost productivity.
 
 ## Bring Nature into the Office {#nature}
 
-[<img class="alignleft size-full wp-image-694" title="Bamboo Plant" src="http://grokcode.com/wordpress/wp-content/uploads/bamboo-plant2.jpg" alt="Bamboo Plant" width="224" height="300" />](http://www.amazon.com/gp/product/B002F914G8?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002F914G8)
+[<img class="alignleft size-full wp-image-694" title="Bamboo Plant" src="{{ site.baseimgurl }}bamboo-plant2.jpg" alt="Bamboo Plant" width="224" height="300" />](http://www.amazon.com/gp/product/B002F914G8?ie=UTF8&tag=grok-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002F914G8)
 
 Studies have shown that certain types of environments are restorative: they reduce mental fatigue, increase the ability to concentrate, and improve health, leading to an increase in productivity. One of the most effective restorative environments is nature. An office with a window that has a natural view is enough to trigger the benefits.
 
@@ -54,7 +54,7 @@ Choose light bulbs that have a high color temperature and a comfortable brightne
 
 ## Use a Highly Adjustable Chair {#chair}
 
-<img class="alignleft size-full wp-image-697" src="http://grokcode.com/wordpress/wp-content/uploads/ergonomic-chair-pain.png" alt="Pain reduction and productivity increases" width="400" height="363" />
+<img class="alignleft size-full wp-image-697" src="{{ site.baseimgurl }}ergonomic-chair-pain.png" alt="Pain reduction and productivity increases" width="400" height="363" />
 
 A highly adjustable chair combined with ergonomics training has been shown to improve health by reducing the incidence of musculoskeletal pain an injury. A reduction in bodily pain was observed throughout the day, and the study found a significant economic benefit in investing in an ergonomic chair.
 
@@ -72,7 +72,7 @@ Invest in a highly adjustable chair and learn how to use it properly. Have a loo
 
 There has been quite a bit of research on the effect temperature has on productivity. The graph below is taken from a meta-study which summarizes the findings of a number of studies on the relationship between temperature and performance.
 
-<img class="aligncenter size-full wp-image-700" src="http://grokcode.com/wordpress/wp-content/uploads/productivity-decrease-by-temperature.png" alt="Productivity Decrease Versus Temperature" width="700" height="397" />
+<img class="aligncenter size-full wp-image-700" src="{{ site.baseimgurl }}productivity-decrease-by-temperature.png" alt="Productivity Decrease Versus Temperature" width="700" height="397" />
 
 There is a lot of variation in the optimal temperature in terms of productivity. This may be caused by personal variations in comfort zone temperature, seasonal variations, or climate differences between the locales where the studies were conducted. 
 
