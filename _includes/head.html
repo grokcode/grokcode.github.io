@@ -30,7 +30,9 @@
   <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{ site.baseurl }}/assets/img/favicon-152.png">
   <link rel="apple-touch-icon-precomposed" sizes="32x32" href="{{ site.baseurl }}/assets/img/favicon-32.png">
 
-  <script data-cfasync="false" type="text/javascript" src="//filamentapp.s3.amazonaws.com/34d7a5b12f0367bfeded5e49daae39cd.js" async="async"></script>
+  {% if page.layout == 'post' %}
+    <script data-cfasync="false" type="text/javascript" src="//filamentapp.s3.amazonaws.com/34d7a5b12f0367bfeded5e49daae39cd.js" async="async"></script>
+  {% endif %}
 
   <script type="application/ld+json">
    [
