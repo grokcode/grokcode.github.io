@@ -233,3 +233,12 @@ img.right img.alignright {
 img.left, img.alignleft {
   margin: 5px 15px 5px 0;
 }
+
+.footnotes {
+
+  li {
+    list-style: decimal inside;
+    text-indent: -1em;
+    padding-left: 1em;
+  }
+}

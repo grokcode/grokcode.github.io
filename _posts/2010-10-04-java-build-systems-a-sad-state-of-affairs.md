@@ -33,7 +33,9 @@ So Ant was an improvement over Make in some ways, but it introduced its own set 
 
 ### XML and the angle bracket tax.
 
-Ant build files are pure XML. The unavoidable verbosity of XML compared to flat files, JSON, YAML, or virtually anything else is a clear violation of DRY (Don&#8217;t Repeat Yourself). This verbosity is expensive in terms of readability, clarity, and ultimately the time it takes humans to parse and extract the precious few bits of information hidden amongst the garbage. I won&#8217;t go into this too much as it has already been discussed to death.[1](#footnote_0_538 "See Jeff Atwood&rsquo;s XML: The Angle Bracket Tax and a rebuttal by Norman Walsh Defending the Tax for a nice overview of the discussion."){#identifier_0_538.footnote-link.footnote-identifier-link}
+Ant build files are pure XML. The unavoidable verbosity of XML compared to flat files, JSON, YAML, or virtually anything else is a clear violation of DRY (Don&#8217;t Repeat Yourself). This verbosity is expensive in terms of readability, clarity, and ultimately the time it takes humans to parse and extract the precious few bits of information hidden amongst the garbage. I won&#8217;t go into this too much as it has already been discussed to death.[^1]
+
+[^1]: See Jeff Atwood's [XML: The Angle Bracket Tax](http://www.codinghorror.com/blog/2008/05/xml-the-angle-bracket-tax.html) and a rebuttal by Norman Walsh [Defending the Tax](http://norman.walsh.name/2008/05/13/thetax) for a nice overview of the discussion.
 
 I&#8217;m sure some will say that nobody should be mucking about in the build files anyway. In this day and age, the IDE should handle all of that ickiness. Fair enough. Until Netbeans creates a build file that can&#8217;t be read by the next Netbeans version, or until my team switches IDEs, or until I decide I want to use Emacs instead, or until I want to set up a continuous integration server and have to add some custom targets not handled by the IDE. Eventually something will happen and you will need to <del datetime="2011-01-12T16:06:51+00:00">peak</del> peek under the covers.
 
@@ -109,8 +111,3 @@ One interesting option comes full circle: [Rake](http://rake.rubyforge.org/) &#8
 
 **Update:** Several people in the comments are recommending [Buildr](http://buildr.apache.org/) or [Gradle](http://gradle.org).
 
-<ol class="footnotes">
-  <li id="footnote_0_538" class="footnote">
-    See Jeff Atwood&#8217;s <a href="http://www.codinghorror.com/blog/2008/05/xml-the-angle-bracket-tax.html">XML: The Angle Bracket Tax</a> and a rebuttal by Norman Walsh <a href="http://norman.walsh.name/2008/05/13/thetax">Defending the Tax</a> for a nice overview of the discussion. [<a href="#identifier_0_538" class="footnote-link footnote-back-link">&#8617;</a>]
-  </li>
-</ol>
