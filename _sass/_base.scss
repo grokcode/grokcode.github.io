@@ -220,16 +220,16 @@ input[type="submit"] {
   zoom: 1;
 }
 
-.right {
+.right, .alignright {
   float: right;
 }
-img.right {
+img.right img.alignright {
   margin: 5px 0 5px 15px;
 }
 
-.left {
+.left, .alignleft {
   float: left;
 }
-img.left {
+img.left, img.alignleft {
   margin: 5px 15px 5px 0;
 }
