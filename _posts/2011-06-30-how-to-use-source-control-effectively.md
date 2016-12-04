@@ -15,7 +15,7 @@ tags:
   - source control
   - version control
 ---
-There are a number of great version control[1](#footnote_0_717 "The terms &lsquo;version control&rsquo;,  &lsquo;source control&rsquo;, and &lsquo;revision control&rsquo; are used interchangeably here."){#identifier_0_717.footnote-link.footnote-identifier-link} systems out there; the most important thing is to pick one and learn to use it effectively. No matter which source control system you decide to use, there are a number of universal principles that will help you to get the most out of source control.<!--more-->
+There are a number of great version control systems out there; the most important thing is to pick one and learn to use it effectively. No matter which source control system you decide to use, there are a number of universal principles that will help you to get the most out of source control.<!--more-->
 
 ## _Always_ use source control
 
@@ -57,10 +57,4 @@ Other team members working on the code base should be immediately and automatica
 
 Source control should be integrated with other tools used on the project like bug tracking, continuous integration, and IDEs. This makes it easy to cross-reference the commit that fixed a bug, created a bug, or broke the build. Integration with an IDE gives you the option to do source control operations like diff, status, and commit within the IDE without having to drop to the command line or a separate tool.
 
-The above basic principles of version control will make you effective with any type of version control system out there. Have more source control tips? Leave them in the comments. 
-
-<ol class="footnotes">
-  <li id="footnote_0_717" class="footnote">
-    The terms &#8216;version control&#8217;, &#8216;source control&#8217;, and &#8216;revision control&#8217; are used interchangeably here. [<a href="#identifier_0_717" class="footnote-link footnote-back-link">&#8617;</a>]
-  </li>
-</ol>
+The above basic principles of version control will make you effective with any type of version control system out there. Have more source control tips? Leave them in the comments.

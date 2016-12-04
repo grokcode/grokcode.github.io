@@ -32,9 +32,9 @@ Packaging a programming project into a product that can be sold is a complex pro
 
 It starts off innocently enough: OK I need a website to sell this thing. How about a site with a free theme plus some marketing copy explaining the product tied into a simple shopping cart so customers can buy the product.
 
-Which quickly turns into: How about a site with a free theme (which themes are optimized for SEO, which are optimized for conversions, how about some A/B testing, hey why is my site full of spam[1](#footnote_0_741 " Why you should never search for free WordPress themes "){#identifier_0_741.footnote-link.footnote-identifier-link} &#8230;) plus some marketing copy explaining the product (what kind of copy sells, OK &#8220;benefits&#8221; are better than &#8220;features&#8221;, but now what are the product&#8217;s benefits&#8230;) tied into a simple shopping cart (secure digital delivery, payment processing, cart software, should I write some of this myself, will this stack work with an affiliate program&#8230;) so customers (who exactly are my customers, what &#8220;tribe&#8221; are they in, how do I find them, should I try advertising, where&#8230;) can buy the product. And spirals out of control from there.
+Which quickly turns into: How about a site with a free theme (which themes are optimized for SEO, which are optimized for conversions, how about some A/B testing, hey why is my site full of spam[^1] plus some marketing copy explaining the product (what kind of copy sells, OK &#8220;benefits&#8221; are better than &#8220;features&#8221;, but now what are the product&#8217;s benefits&#8230;) tied into a simple shopping cart (secure digital delivery, payment processing, cart software, should I write some of this myself, will this stack work with an affiliate program&#8230;) so customers (who exactly are my customers, what &#8220;tribe&#8221; are they in, how do I find them, should I try advertising, where&#8230;) can buy the product. And spirals out of control from there.
 
-It&#8217;s becoming obvious how &#8220;hello world hooked up to a random number generator&#8221; requires a super-smart, full-time guy doing the business tasks.[2](#footnote_1_741 "This is in reference to Patrick McKenzie&lsquo;s Bingo Card Creator software, which is technically pretty unsophisticated itself, but is supported by complex mechanisms for A/B testing, scalable content generation, conversion tracking, and various other types of optimization."){#identifier_1_741.footnote-link.footnote-identifier-link}
+It&#8217;s becoming obvious how &#8220;hello world hooked up to a random number generator&#8221; requires a super-smart, full-time guy doing the business tasks.[^2]
 
 Meanwhile, all of the startup guru expert guys are in my head screaming, &#8220;JUST LAUNCH! Iterate later,&#8221; but at this point I have lost all sense of what is absolutely necessary to prevent everything from blowing up in my face, what will just make me look stupid if it breaks, and what I can launch without and add later.
 
@@ -60,11 +60,5 @@ The launch isn&#8217;t really the end of the story. After launch comes a whole n
 
 **Edit:** This project now defunct. I still use the plugin on my own sites where it has increased earnings a fair amount, but the support and website maintenance overhead associated with selling the plugin to others was not worth my time.
 
-<ol class="footnotes">
-  <li id="footnote_0_741" class="footnote">
-    <a href="http://wpmu.org/why-you-should-never-search-for-free-wordpress-themes-in-google-or-anywhere-else/">Why you should never search for free WordPress themes</a> [<a href="#identifier_0_741" class="footnote-link footnote-back-link">&#8617;</a>]
-  </li>
-  <li id="footnote_1_741" class="footnote">
-    This is in reference to <a href="http://www.kalzumeus.com/">Patrick McKenzie</a>&#8216;s Bingo Card Creator software, which is technically pretty unsophisticated itself, but is supported by complex mechanisms for A/B testing, scalable content generation, conversion tracking, and various other types of optimization. [<a href="#identifier_1_741" class="footnote-link footnote-back-link">&#8617;</a>]
-  </li>
-</ol>
+[^1]: <a href="http://wpmu.org/why-you-should-never-search-for-free-wordpress-themes-in-google-or-anywhere-else/">Why you should never search for free WordPress themes</a>
+[^2]: This is in reference to <a href="http://www.kalzumeus.com/">Patrick McKenzie</a>&#8216;s Bingo Card Creator software, which is technically pretty unsophisticated itself, but is supported by complex mechanisms for A/B testing, scalable content generation, conversion tracking, and various other types of optimization.

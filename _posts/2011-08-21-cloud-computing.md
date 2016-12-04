@@ -19,7 +19,7 @@ Cloud computing is the most poorly-defined, over-hyped technology that has hit t
 
 ## The promises of cloud computing
 
-Its hard to do any reading on cloud computing without running into promises that sound too good to be true: &#8220;With the cloud, individuals and small businesses can snap their fingers and instantly set up enterprise-class services.&#8221;[1](#footnote_0_724 " Roy Stephan, Director of IT architecture and engineering &ndash; Intelligent Decisions in CNNMoney Why the cloud is now the hottest trend in tech. "){#identifier_0_724.footnote-link.footnote-identifier-link} Or to hear people proclaiming that the cloud is the _only_ solution: &#8220;The future is the cloud. Not because it is trendy but because only the cloud can scale.&#8221;[2](#footnote_1_724 " Sean McGrath in ITWorld Only the cloud can scale "){#identifier_1_724.footnote-link.footnote-identifier-link}
+Its hard to do any reading on cloud computing without running into promises that sound too good to be true: &#8220;With the cloud, individuals and small businesses can snap their fingers and instantly set up enterprise-class services.&#8221;[^1] Or to hear people proclaiming that the cloud is the _only_ solution: &#8220;The future is the cloud. Not because it is trendy but because only the cloud can scale.&#8221;[^2]
 
 ## The reality
 
@@ -43,11 +43,5 @@ Even worse, &#8220;cloud&#8221; has become just a catchy word that is sprinkled 
 
 Anyway, that&#8217;s my take on the cloud. The innovative part has nothing to do with the tech and everything to do with the operations model. I suppose [Cloud Computing For Dummies](http://www.amazon.com/gp/product/0470484705/ref=as_li_ss_tl?ie=UTF8&tag=grok-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0470484705) will tell you something very different.
 
-<ol class="footnotes">
-  <li id="footnote_0_724" class="footnote">
-    Roy Stephan, Director of IT architecture and engineering &#8211; Intelligent Decisions in CNNMoney <a href="http://money.cnn.com/2011/02/09/technology/cloud/index.htm">Why the cloud is now the hottest trend in tech.</a> [<a href="#identifier_0_724" class="footnote-link footnote-back-link">&#8617;</a>]
-  </li>
-  <li id="footnote_1_724" class="footnote">
-    Sean McGrath in ITWorld <a href="http://www.itworld.com/offbeat/53445/only-cloud-can-scale">Only the cloud can scale</a> [<a href="#identifier_1_724" class="footnote-link footnote-back-link">&#8617;</a>]
-  </li>
-</ol>
+[^1]: Roy Stephan, Director of IT architecture and engineering &#8211; Intelligent Decisions in CNNMoney <a href="http://money.cnn.com/2011/02/09/technology/cloud/index.htm">Why the cloud is now the hottest trend in tech.</a>
+[^2]: Sean McGrath in ITWorld <a href="http://www.itworld.com/offbeat/53445/only-cloud-can-scale">Only the cloud can scale</a>
