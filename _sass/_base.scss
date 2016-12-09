@@ -47,7 +47,7 @@ img {
   vertical-align: middle;
   height: auto;
 }
-#content img {
+#content img:not(.img-noborder) {
   border: 1px solid #dddddd;
 }
 
@@ -245,12 +245,21 @@ img.left, img.alignleft {
   &:before {
     content: "Footnotes";
   }
-  ol {
+}
+
+#content .post {
+  ol, ul {
     padding-top: 10px;
     li {
-      list-style: decimal inside;
+      list-style-position: inside;
       text-indent: -1em;
       padding-left: 1em;
     }
+  }
+  ol li {
+    list-style-type: decimal;
+  }
+  ul li {
+    list-style-type: disk;
   }
 }

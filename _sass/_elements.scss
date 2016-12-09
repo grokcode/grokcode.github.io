@@ -52,12 +52,14 @@
   li {
     font-size: .75em;
     line-height: 1em;
+    list-style-position: outside;
     background: $grey-color-darker;
     display: inline-block;
     color: $white-color;
     padding: 6px;
     border-radius: 3px;
     margin: 0 5px 5px 0;
+    text-indent: 0;
   }
 }
 

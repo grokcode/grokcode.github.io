@@ -19,11 +19,11 @@ If you are mostly a web developer or are new to Python, the [IPython homepage](h
 
 The absolute best thing about IPython is the shell. Here is a standard Python shell. 
 
-<img src="{{ site.baseimgurl }}python-shell2.png" alt="Python shell" width="693" height="419" class="img-noborder alignleft size-full wp-image-816" />
+<img src="{{ site.baseimgurl }}python-shell2.png" alt="Python shell" width="693" height="419" class="img-noborder size-full wp-image-816" />
 
 And below is IPython. They look pretty similar, but IPython has a whole bunch of extras that will save you a vast amount of time and give you an immediate bump in productivity.
 
-<img src="{{ site.baseimgurl }}ipython-shell.png" alt="IPython shell" width="693" height="419" class="img-noborder alignleft size-full wp-image-813" />
+<img src="{{ site.baseimgurl }}ipython-shell.png" alt="IPython shell" width="693" height="419" class="img-noborder size-full wp-image-813" />
 
 OK so `easy_install ipython[all]` or `pip install ipython` to get started. If any issues crop up, refer to the official [install guide](http://ipython.org/ipython-doc/stable/install/install.html).
 
@@ -79,7 +79,7 @@ IPython comes with some &#8220;magic functions&#8221; to profile execution time 
 
 `%mprun`, `%lprun`, and `%memit` require some extra dependencies and a bit of configuration to enable, see details [here](http://pynash.org/2013/03/06/timing-and-profiling.html).
 
-<img src="{{ site.baseimgurl }}ipython-profiling2.png" alt="Execution time and memory profiling with IPython" width="693" height="419" class="img-noborder alignleft size-full wp-image-817" />
+<img src="{{ site.baseimgurl }}ipython-profiling2.png" alt="Execution time and memory profiling with IPython" width="693" height="419" class="img-noborder size-full wp-image-817" />
 
 ## Smart Copy and Paste
 
@@ -93,7 +93,7 @@ IPython will start the next line in the right place when you do a carriage retur
 
 You can use tab completion to explore objects and autocomplete keywords. 
 
-<img src="{{ site.baseimgurl }}ipython-tab-complete2.png" alt="IPython tab completion" width="693" height="419" class="img-noborder alignleft size-full wp-image-818" />
+<img src="{{ site.baseimgurl }}ipython-tab-complete2.png" alt="IPython tab completion" width="693" height="419" class="img-noborder size-full wp-image-818" />
 
 ## Just type exit
 

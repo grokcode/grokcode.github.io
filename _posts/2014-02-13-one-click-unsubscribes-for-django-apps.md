@@ -91,7 +91,7 @@ def unsubscribe(request, username, token):
 
 ## The templates
 
-In the email templates, use the unsubscribe link `{{user.get_profile.create_unsubscribe_link}}`.
+In the email templates, use the unsubscribe link `{% raw %}{{user.get_profile.create_unsubscribe_link}}{% endraw %}`.
 
 Then in `registration/unsubscribe.html` add a message confirming that the user has been unsubscribed.
 
