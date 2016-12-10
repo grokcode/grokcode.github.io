@@ -154,7 +154,7 @@ code {
 
 pre {
   padding: 8px 12px;
-  overflow-x: scroll;
+  overflow-x: auto;
 
   > code {
     border: 0;
@@ -225,6 +225,13 @@ hr {
 
 .clearfix {
   zoom: 1;
+  &:after, &:before  {
+    clear: both;
+    display: block;
+    content: "\0020";
+    height: 0;
+    visibility: hidden;
+  }
 }
 
 .right, .alignright {
@@ -250,16 +257,15 @@ img.left, img.alignleft {
 #content .post {
   ol, ul {
     padding-top: 10px;
-    li {
-      list-style-position: inside;
-      text-indent: -1em;
-      padding-left: 1em;
-    }
   }
   ol li {
+    list-style-position: inside;
+    text-indent: -1em;
+    padding-left: 1em;
     list-style-type: decimal;
   }
-  ul li {
-    list-style-type: disk;
+  ul {
+    margin: 0 0 25px 20px;
+    list-style-type: disc;
   }
 }

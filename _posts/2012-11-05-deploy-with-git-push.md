@@ -88,7 +88,7 @@ Then edit the script to look like this:
 ```bash
 #!/bin/bash
 
-# Checkout the repo.                                                            
+# Checkout the repo.
 export GIT_WORK_TREE=/var/www/<app-name>/project/
 git checkout -f
 
@@ -114,24 +114,24 @@ Often there will be other tasks that have to happen during the deploy. Here is a
 ``` bash
 #!/bin/bash
 
-# Checkout the repo.                                                            
+# Checkout the repo.
 export GIT_WORK_TREE=/var/www/<app-name>/project/
 git checkout -f
 
-# Fix up permissions.                                                           
+# Fix up permissions.
 cd $GIT_WORK_TREE
 chmod -R g+w *py
 chown -R git:nginx *py
 
 source ../env/bin/activate
 
-# Collect static files                                                          
+# Collect static files
 ./manage.py collectstatic --noinput -v 0
 
-# Handle DB Migrations                                                          
+# Handle DB Migrations
 ./manage.py syncdb --migrate -v 0
 
-# Update requirements                                                           
+# Update requirements
 pip install -q -r requirements.txt
 
 deactivate
