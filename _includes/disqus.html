@@ -12,10 +12,13 @@
    return decodeURIComponent(results[2].replace(/\+/g, " "));
  }
 
- // If the comments GET var is defined, load the disqus comments and hide the post body
+ // If the comments GET var is defined, hide the post body, replace the title, and
+ // load the disqus comments
  if (getParameterByName('comments')) {
    document.getElementsByTagName("article")[0].style.display = 'none';
    document.getElementsByClassName("post-meta")[1].style.display = 'none';
+   var currentTitle = document.getElementsByClassName("post-title")[0]
+   currentTitle.innerHTML = 'Discussion on<br><a href="{{ site.url }}{{ page.url }}">' + currentTitle.innerHTML +'</a>';
 
    /* https://disqus.com/admin/universalcode/#configuration-variables */
     var disqus_config = function () {
