@@ -15,8 +15,11 @@ layout: default
   </article>
 
   <p class="post-meta bottom">
-    <a class="permalink" href="{{ site.baseurl }}/{{ page.permalink }}">#</a>
+    <span><a class="permalink" href="{{ site.url }}{{ page.permalink }}">#</a></span>
     <span class="date">{{ page.date | date: "%B %-d, %Y" }}</span>
+    <span class="comment-count"><a href="{{ site.url }}{{ page.permalink }}?comments=y#disqus_thread">Comments</a></span>
   </p>
+
+  {% include disqus.html %}
 
 </div>
