@@ -203,6 +203,8 @@ input[type="text"] {
 }
 
 input[type="submit"] {
+  -webkit-appearance: none;
+  -mox-appearance: none;
   display: inline-block;
   background-color: $brand-color;
   color: #ffffff;
