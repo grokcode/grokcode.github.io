@@ -21,7 +21,6 @@ permalink: ':title/'
 twitter_username: grokcode
 github_username:  grokcode
 gplus_id: 104959372961388172986
-disqus_shortname: 'grokcode-1' # production
 
 category_slugs:
   Books &amp; Tools: books-tools
