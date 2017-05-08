@@ -100,7 +100,7 @@ h3 {
   font-size: 1.17em;
 }
 
-#content .post {
+#content .post, #content .comments {
   h1 {
     text-align: center;
   }
@@ -192,7 +192,7 @@ input:focus {
   outline: none;
 }
 
-input[type="text"] {
+input[type="text"], input[type="email"], textarea {
   background-color: #fafafa;
   font-family: $alt-font-family;
   border-radius: 6px;
@@ -202,7 +202,7 @@ input[type="text"] {
   width: 100%;
 }
 
-input[type="submit"] {
+input[type="submit"], button {
   -webkit-appearance: none;
   -mox-appearance: none;
   display: inline-block;

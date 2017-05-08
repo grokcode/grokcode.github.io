@@ -1,22 +1,31 @@
-<div id="comment-section" class="hidden post">
+<div id="comment-section" class="hidden comments">
 
   <header class="post-header">
-    <h1 class="post-title">Discussion on<br/>{{ page.title }}</h1>
+    <h1 class="post-title">Discussion on<br/><a href="{{ site.url }}{{ post.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
     <p class="post-meta top">
       <i>by</i> <a href="{{ site.baseurl }}/about/">{{ page.author }}</a> in {% include category_link.html category=page.categories.first %}
     </p>
   </header>
 
-  <h3>X Comments</h3>
+  <div id="moderation">
+    <p>Thanks! Your comment is awaiting moderation.</p>
+  </div>
 
-
+  <h3>{{ comments | size }} Comments</h3>
+  <ol id="commentslist">
+    {% for c in comments %}
+      {% assign comment = c[1] %}
+      {% include comment.html %}
+    {% endfor %}
+  </ol>
   <h3>Leave a reply</h3>
-  <form method="POST" action="https://api.staticman.net/v2/entry/grokcode/grokcode.github.io/master/">
+  <form method="POST" action="https://api.staticman.net/v2/entry/grokcode/grokcode.github.io/master/comments">
     <input name="options[redirect]" type="hidden" value="{{ site.url }}{{ page.permalink }}?comments=y&moderation=t">
     <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-    <label><input name="fields[name]" type="text">Name (required)</label>
-    <label><input name="fields[email]" type="email">Email (required)</label>
-    <label><textarea name="fields[message]"></textarea>Message</label>
+    <label>Name (required)<input name="fields[name]" type="text"></label>
+    <label>Email (required)<input name="fields[email]" type="email"></label>
+    <label>Website<input name="fields[url]" type="email"></label>
+    <label>Message<textarea name="fields[message]"></textarea></label>
   
     <button type="submit">Submit Comment</button>
   </form>
