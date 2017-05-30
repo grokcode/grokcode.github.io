@@ -77,7 +77,7 @@
   }
 }
 
-#content .post, #content .comments {
+#content .post, #content #comment-section {
   .post-header {
     margin-bottom: 40px;
   }
@@ -108,23 +108,36 @@
 
 #comment-section {
   margin-bottom: 60px;
-  .comment {
-    margin: 20px 0 40px 0;
-    .gravatar {
-      float: left;
-      width: 62px;
-      height: 62px;
+  #moderation {
+    background-color: fade-out($brand-color, .80);
+    border: 1px solid fade-out($brand-color, .80);
+    border-radius: 6px;
+    padding: 10px;
+    margin-bottom: 40px;
+    p {
+      margin: 0;
     }
-    .comment-body {
-      margin-left: 80px;
-      h5 {
-        margin-bottom: 0;
-        font-weight: normal;
+  }
+  #commentslist {
+    padding-bottom: 1px;
+    .comment {
+      margin: 20px 0 40px 0;
+      .gravatar {
+        float: left;
+        width: 62px;
+        height: 62px;
       }
-      .date {
-        color: $alt-text-color;
-        font-size: $small-font-size;
-        display: block;
+      .comment-body {
+        margin-left: 80px;
+        h5 {
+          margin-bottom: 0;
+          font-weight: normal;
+        }
+        .date {
+          color: $alt-text-color;
+          font-size: $small-font-size;
+          display: block;
+        }
       }
     }
   }

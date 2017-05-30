@@ -7,11 +7,16 @@
     </p>
   </header>
 
-  <div id="moderation">
+  <div id="moderation" class="hidden">
     <p>Thanks! Your comment is awaiting moderation.</p>
   </div>
 
-  <h3>{{ comments | size }} Comments</h3>
+  {% assign num_comments = comments | size %}
+  {% if num_comments == 0 %}
+    <h3>No comments yet, you could be first.</h3>
+  {% else %}
+    <h3>{{ num_comments }} Comments</h3>
+  {% endif %}
   <ol id="commentslist">
     {% for c in comments %}
       {% assign comment = c[1] %}

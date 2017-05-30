@@ -6,4 +6,8 @@ if (document.location.toString().indexOf('?') !== -1) {
         post.className += " hidden";
         comments.className = comments.className.replace("hidden", "");
     }
+    if (query.includes('moderation')) {
+        var moderation = document.getElementById("moderation");
+        moderation.className = comments.className.replace("hidden", "");
+    }
 }
