@@ -106,3 +106,41 @@
   }
 }
 
+#comment-section {
+  margin-bottom: 60px;
+  .comment {
+    margin: 20px 0 40px 0;
+    .gravatar {
+      float: left;
+      width: 62px;
+      height: 62px;
+    }
+    .comment-body {
+      margin-left: 80px;
+      h5 {
+        margin-bottom: 0;
+        font-weight: normal;
+      }
+      .date {
+        color: $alt-text-color;
+        font-size: $small-font-size;
+        display: block;
+      }
+    }
+  }
+}
+
+#comment-form {
+  input {
+    width: 200px;
+    max-width: 50%;
+    margin-right: 15px;
+  }
+  label {
+    display: block;
+    font-size: $small-font-size;
+  }
+  textarea {
+    height: 200px;
+  }
+}

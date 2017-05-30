@@ -1,12 +1,14 @@
 <li class="comment">
   <img class="gravatar" alt="gravatar" src="https://www.gravatar.com/avatar/{{ comment.email }}?s=60" />
-  <h5>
-    {% if comment.url %}
-      <a rel="external nofollow" class="comment-reply-link" href="{{ comment.url }}">{{ comment.name }}</a>
-    {% else %}
-      {{ comment.name }}
-    {% endif %}
-  </h5>
-  <span class="date">{{ comment.date }}</span>
-  {{ comment.message }}
+  <div class="comment-body">
+    <h5>
+      {% if comment.url %}
+        <a rel="external nofollow" class="comment-reply-link" href="{{ comment.url }}">{{ comment.name }}</a>
+      {% else %}
+        {{ comment.name }}
+      {% endif %}
+    </h5>
+    <span class="date">{{ comment.date }}</span>
+    {{ comment.message }}
+  </div>
 </li>

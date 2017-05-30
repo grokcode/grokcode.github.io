@@ -1,7 +1,7 @@
 <div id="comment-section" class="hidden comments">
 
   <header class="post-header">
-    <h1 class="post-title">Discussion on<br/><a href="{{ site.url }}{{ post.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
+    <h1 class="post-title">Discussion on<br/><a href="{{ site.url }}{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
     <p class="post-meta top">
       <i>by</i> <a href="{{ site.baseurl }}/about/">{{ page.author }}</a> in {% include category_link.html category=page.categories.first %}
     </p>
@@ -19,13 +19,13 @@
     {% endfor %}
   </ol>
   <h3>Leave a reply</h3>
-  <form method="POST" action="https://api.staticman.net/v2/entry/grokcode/grokcode.github.io/master/comments">
+  <form id="comment-form" method="POST" action="https://api.staticman.net/v2/entry/grokcode/grokcode.github.io/master/comments">
     <input name="options[redirect]" type="hidden" value="{{ site.url }}{{ page.permalink }}?comments=y&moderation=t">
     <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-    <label>Name (required)<input name="fields[name]" type="text"></label>
-    <label>Email (required)<input name="fields[email]" type="email"></label>
-    <label>Website<input name="fields[url]" type="email"></label>
-    <label>Message<textarea name="fields[message]"></textarea></label>
+    <label><input name="fields[name]" type="text">Name (required)</label>
+    <label><input name="fields[email]" type="email">Email (required)</label>
+    <label><input name="fields[url]" type="text">Website</label>
+    <textarea name="fields[message]"></textarea>
   
     <button type="submit">Submit Comment</button>
   </form>
