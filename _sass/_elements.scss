@@ -140,6 +140,9 @@
           font-size: $small-font-size;
           display: block;
         }
+        .comment-content {
+          white-space: pre-wrap;
+        }
       }
     }
   }
