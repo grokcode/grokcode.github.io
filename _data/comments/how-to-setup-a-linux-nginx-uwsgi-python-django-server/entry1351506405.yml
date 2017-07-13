@@ -1,0 +1,4 @@
+{_id: 70686, approved: 1, date: 1351506405, email: 104932c3f5df3e8ae30e30fd61edbbd7,
+  karma: 0, message: "may be this better?\r\nsudo adduser --system -ingroup nginx\
+    \ --no-create-home --disabled-login --disabled-password uwsgi", name: orsomannaro,
+  parent: 70685, post_ID: 784, subscribe: N, url: ''}

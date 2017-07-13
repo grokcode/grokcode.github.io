@@ -1,0 +1,8 @@
+{_id: 315, approved: 1, date: 1208087472, email: c60a96782c50de7adaa2bb70571b9276,
+  karma: 0, message: "Great stuff!\r\n\r\nTrying to run the code in CLISP, I get an\
+    \ error message saying that make-hash-table is called with an illegal :TEST argument\
+    \ (STRING-EQUAL). And indeed, the <a href=\"http://www.lisp.org/HyperSpec/Body/fun_make-hash-table.html\"\
+    \ rel=\"nofollow\">standard</a> says that MAKE-HASH-TABLE allows only eq, eql,\
+    \ equal and equalp as test functions 8-( So maybe this is an Allegro-specific\
+    \ extension?\r\n\r\nClaus", name: Claus Brod, parent: 0, post_ID: 12, subscribe: N,
+  url: 'http://www.clausbrod.de/Blog'}

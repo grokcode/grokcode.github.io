@@ -1,0 +1,7 @@
+{_id: 45436, approved: 1, date: 1286192324, email: 40ef69bda4835622f04517ecb9b9d14d,
+  karma: 0, message: "Just as a comparison, the \"if\" thing in workflow foundation's\
+    \ xaml (which backs the TFS build system in 2010) would be something like:\r\n\
+    \r\n  \r\n  \r\n   \r\n  \r\n\r\n\r\nWhere the Condition is a slightly VB-like\
+    \ syntax that can do property lookups on objects and all the basic comparison\
+    \ stuff (and, or, xor, bitwise and, etc)", name: Brad, parent: 0, post_ID: 538,
+  subscribe: N, url: ''}

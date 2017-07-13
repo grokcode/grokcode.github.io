@@ -1,0 +1,6 @@
+{_id: 20168, approved: 1, date: 1248909522, email: b86319b6b8452bf629485f4bc7bb15ad,
+  karma: 0, message: 'Chilly, you don''t have to check all possible combinations,
+    only those which can be possible... like Corner pieces must be at the corner (4
+    start pieces, no need to check pieces 5-64 and all of their combinations where
+    those pieces are at the corner)... piece next to current piece must have the same
+    edge...', name: P-E-X, parent: 0, post_ID: 10, subscribe: Y, url: ''}

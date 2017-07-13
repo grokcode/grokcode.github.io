@@ -1,0 +1,8 @@
+{_id: 348, approved: 1, date: 1208955825, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: "I'm not sure exactly the wsdl2java syntax on windows, but I\
+    \ assume the syntax would be the same as the *nix version.  Try something like\
+    \ this:\r\n\r\nwsdl2java.bat \u2013NStoPkg http://marketing.ews.yahooapis.com/V4=com.yahoo.sm.ws.client\
+    \ -T 1.3 https://global.marketing.ews.yahooapis.com/services/V4/{wsdl}\r\n\r\n\
+    where you would replace {wsdl} with the name of the actual WSDL (AccountService?wsdl,\
+    \ AdGroupService?wsdl, etc.)", name: Jess Johnson, parent: 0, post_ID: 5, subscribe: N,
+  url: 'http://grokcode.com'}

@@ -1,0 +1,6 @@
+{_id: 29138, approved: 1, date: 1269559899, email: 8c8bcd09e52c5bd089252b58a1839572,
+  karma: 0, message: "Hi I am trying to use your plug in but keep getting this error:\r\
+    \nWarning: imagecopy(): supplied argument is not a valid Image resource in ........wp-content/plugins/ravatars.php\
+    \ on line 330\r\n\r\nThe admin panel seems to be functioning properly and I checked\
+    \ the cache images, they exist, but are all black.\r\n\r\nI am running WP 2.9\r\
+    \n\r\nany advice?", name: Shawn T, parent: 0, post_ID: 7, subscribe: Y, url: ''}

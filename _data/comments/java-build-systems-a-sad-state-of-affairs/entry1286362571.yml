@@ -1,0 +1,10 @@
+{_id: 45845, approved: 1, date: 1286362571, email: 648eb0991cb7c815c7be29aae3f45fd3,
+  karma: 0, message: "The problem with all of these tools is documentation. I don't\
+    \ want to learn yet-another-tool with yet-another-xml-format with yet-another-religion\
+    \ of plugins, idioms, etc. Maven is fine once you understand it. Understanding\
+    \ it is the problem. Finding out how to accomplish a given task can be excruciating.\
+    \ \r\n\r\nWhat I want is great GUI front-ends for these tools. Before IDEs we\
+    \ had a mish-mash of command line tools. text files, etc. IDEs made life orders\
+    \ of magnitude easier. IntelliJ supports Maven somewhat. What we need is the IntelliJ\
+    \ equivalent for Maven (or whatever build/repository tool).", name: Jordan Zimmerman,
+  parent: 0, post_ID: 538, subscribe: Y, url: 'http://www.jordanzimmerman.com'}

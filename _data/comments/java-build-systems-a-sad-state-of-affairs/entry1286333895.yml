@@ -1,0 +1,11 @@
+{_id: 45781, approved: 1, date: 1286333895, email: 2586abec8bde4ab91b770ee091f92947,
+  karma: 0, message: "I've used all of these build systems in real projects now, and\
+    \ have been almost uniformly disappointed.  \r\n\r\nBuildr looks good until you\
+    \ realise it doesn't support transitive dependencies: i.e. it's close to useless.\
+    \  Gradle looks great, but seems to excel at hiding information to the point where\
+    \ no-one really knows what is going on.  Ant and Maven have been adequately dissected\
+    \ above (nicely put, btw.)\r\n\r\nMy current team is using Rake, and for me it\
+    \ wins hands-down.  It's terse, and has a real descriptive language as its basis\
+    \ but still works as a modular declarative build system.  It does remind me of\
+    \ Make, but only the good bits.", name: Nello, parent: 0, post_ID: 538, subscribe: N,
+  url: ''}

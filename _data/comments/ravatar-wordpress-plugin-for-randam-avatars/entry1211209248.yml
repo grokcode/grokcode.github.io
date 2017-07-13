@@ -1,0 +1,23 @@
+{_id: 616, approved: 1, date: 1211209248, email: 1e025cbdc192027692bbb4cd42ca66a8,
+  karma: 0, message: "Here's the one at the main level of that particular URL. There's\
+    \ nothing in any of the WP sub-folders, except for whatever they install:\r\n\r\
+    \n \r\norder allow,deny\r\ndeny from all \r\n\r\n\r\nOptions +FollowSymLinks \r\
+    \nRewriteEngine on\r\nRewriteRule ^.htaccess$ - [F]\r\n\r\nRewriteBase /\r\nRewriteCond\
+    \ %{HTTP_HOST} ^www\\.macnightowl\\.com$\r\nRewriteRule ^(.*)$ http://macnightowl.com/$1\
+    \ [R=301,L]\r\n\r\n\r\nRewriteEngine On\r\nRewriteBase /\r\nRewriteCond %{REQUEST_URI}\
+    \ ^/(stats|failed_auth\\.html)/?(.*)$ [NC]\r\nRewriteRule ^.*$ - [L]\r\n\r\n\r\
+    \n# BEGIN WPSuperCache\r\n\r\nRewriteEngine On\r\nRewriteBase /\r\nAddDefaultCharset\
+    \ UTF-8\r\nRewriteCond %{QUERY_STRING} !.*s=.*\r\nRewriteCond %{QUERY_STRING}\
+    \ !.*attachment_id=.*\r\nRewriteCond %{HTTP_COOKIE} !^.*(comment_author_|wordpress|wp-postpass_).*$\r\
+    \nRewriteCond %{HTTP:Accept-Encoding} gzip\r\nRewriteCond %{DOCUMENT_ROOT}/wp-content/cache/supercache/%{HTTP_HOST}/$1/index.html.gz\
+    \ -f\r\nRewriteRule ^(.*) /wp-content/cache/supercache/%{HTTP_HOST}/$1/index.html.gz\
+    \ [L]\r\n\r\nRewriteCond %{QUERY_STRING} !.*s=.*\r\nRewriteCond %{QUERY_STRING}\
+    \ !.*attachment_id=.*\r\nRewriteCond %{HTTP_COOKIE} !^.*(comment_author_|wordpress|wp-postpass_).*$\r\
+    \nRewriteCond %{DOCUMENT_ROOT}/wp-content/cache/supercache/%{HTTP_HOST}/$1/index.html\
+    \ -f\r\nRewriteRule ^(.*) /wp-content/cache/supercache/%{HTTP_HOST}/$1/index.html\
+    \ [L]\r\n\r\n\r\n# END WPSuperCache\r\n# BEGIN WordPress\r\n\r\nRewriteEngine\
+    \ On\r\nRewriteBase /\r\nRewriteCond %{REQUEST_FILENAME} !-f\r\nRewriteCond %{REQUEST_FILENAME}\
+    \ !-d\r\nRewriteRule . /index.php [L]\r\n\r\n\r\n# END WordPress\r\n\r\nPart of\
+    \ this is for WP Super Cache and to force www to non-www, plus the normal WP stuff\
+    \ and the addition for proper stats.\r\n\r\nPeace,\r\nGene", name: Gene Steinberg,
+  parent: 0, post_ID: 7, subscribe: N, url: 'http://www.macnightowl.com'}

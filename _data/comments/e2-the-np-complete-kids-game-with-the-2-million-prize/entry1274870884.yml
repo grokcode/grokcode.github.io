@@ -1,0 +1,18 @@
+{_id: 32306, approved: 1, date: 1274870884, email: 6e93c536351f323572a12e53582b1b2b,
+  karma: 0, message: "Didn't have time for eternity 2 during the last years and were\
+    \ suprized my solver is discussed here. By the way, there was an eternity I back\
+    \ in 1999 which was completely solved, there are 12 known solutions, 9 of them\
+    \ from me (unfortunately I wasn't the first). After reviewing my eternity II code\
+    \ after 2 years I decided to rewrite the thing in Java - haven't seen Joels work\
+    \ at that time. Some comments: New processors (I7, intel q9550) perform very good\
+    \ for Java, there is no more any performance penalty, specially if you use jdk-6u20-windows-x64.exe.\
+    \ 64-bit is about 30% faster, jdk-6u20-windows-x64.exe is 10% faster than jdk-6u14-windows-x64.exe\r\
+    \nand much faster than jdk5 versions. Using 4 cores you can reach about 100.000.000\
+    \ nodes per second on a 3.4 Ghz Q9550. Order of piece placemant is very important,\
+    \ specially if hint pieces are used. The whole search space can significantly\
+    \ be reduced, this explains the different results. The time for finding a solution\
+    \ is completely random - the time for searching the whole search space is not.\
+    \ The task for finding a \"almost complete\" but not perfect solution is completely\
+    \ different from the task searching for a complete solution - different techniques\
+    \ are required. I will try to write some code for this purpose.", name: Doc Smith,
+  parent: 0, post_ID: 10, subscribe: N, url: ''}

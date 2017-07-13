@@ -1,0 +1,5 @@
+{_id: 576, approved: 1, date: 1210694846, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: 'OK. So its looking for the ravatar located at /wp-content/plugins/ravatars/cache/dde663353f0b28117.png
+    but that is giving a 404 not found error.  Have a look and see if that file exists.  If
+    so, its a directory permissions problem.  If not, its plugin bug.', name: Jess
+    Johnson, parent: 0, post_ID: 7, subscribe: N, url: 'http://grokcode.com'}

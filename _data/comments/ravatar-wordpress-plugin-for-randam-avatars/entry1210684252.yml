@@ -1,0 +1,5 @@
+{_id: 568, approved: 1, date: 1210684252, email: afd65b7ffa1d3a138747ffcb50e8357e,
+  karma: 0, message: "I've checked now. Permissions are 777 and it still doesn't work.\r\
+    \n\r\nError message is\r\n\"Cannot open directory for reading.\"\r\n\r\nMaybe\
+    \ I checked the wrong directory?  The plugin says:\r\n\"/wp-content/cache/ravatars\"",
+  name: Latterlig!, parent: 0, post_ID: 7, subscribe: N, url: 'http://spesiell.org'}

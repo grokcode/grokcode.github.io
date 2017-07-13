@@ -1,0 +1,9 @@
+{_id: 19449, approved: 1, date: 1245838111, email: e7ba0e1def4c1c3a96d153a0b0e620ae,
+  karma: 0, message: "This is an awesome plugin that I've never seen used before and\
+    \ I'm dying to use it on my site.\r\n\r\nThe problem is, I keep getting an error\
+    \ on the actual page next to each ravatar that says \"Warning: Division by zero\
+    \ in /home8/whatwou8/public_html/wp-content/plugins/ravatar/ravatars.php on line\
+    \ 326\" Does anyone know what that means and how to fix it?\r\n\r\nI'm also looking\
+    \ for a recent comments plugin that is compatible with Ravatar. The one Im currently\
+    \ using shows two ravatar images all scrambled up for each commenter.\r\n\r\n\
+    Thanks!", name: Thembi, parent: 0, post_ID: 7, subscribe: N, url: 'http://whatwouldthembido.com'}

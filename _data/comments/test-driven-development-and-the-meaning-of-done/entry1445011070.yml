@@ -1,0 +1,12 @@
+{_id: 74300, approved: 1, date: 1445011070, email: 01bc4df08d7ec49bbff215a6f177b397,
+  karma: 0, message: 'Didn''t see this anywhere in the comments so I thought I''d
+    point it out. TDD isn''t the only effective defect reduction mechanism in town.  In
+    fact, it''s not even considered to be the most effective. Individual developer
+    and team design and code reviews are usually far more effective at identifying
+    defects than TDD alone.  Especially for non-trivial systems. Should those non-TDD
+    teams have been doing design and code reviews rather than TDD, they probably would
+    have released higher-quality software, and they would have done so more quickly.
+    Only practicing high-yield design and code reviews made using regularly updated
+    checklists of common defects will convince you of this though. I''ve seen it work
+    wonders in my own code and in my organization though.', name: Eric, parent: 0,
+  post_ID: 439, subscribe: N, url: ''}

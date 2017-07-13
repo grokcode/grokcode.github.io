@@ -1,0 +1,6 @@
+{_id: 881, approved: 1, date: 1214289309, email: 6279a2acc8b7dcd6981a0f2974baffcf,
+  karma: 0, message: 'I totally agree with everything you said. However, what about
+    Erlang or Scala? Since the trend du jour is multicore systems, a language that
+    provides an easy way to tap into all these cores would be a valuable asset (concepts:
+    concurrency, threads, lightweight processes, et al).', name: Elvis Montero, parent: 0,
+  post_ID: 25, subscribe: Y, url: 'http://www.elvismontero.com'}

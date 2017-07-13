@@ -1,0 +1,14 @@
+{_id: 574, approved: 1, date: 1210690533, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: "<blockquote>The text in the settings > ravatars, at the bottom,\
+    \ is wrong.</blockquote>\r\nOk typo in admin panel has been fixed.\r\n\r\n<blockquote>I\
+    \ created the directory manually, and the cache seems to be working ok. The plugin\
+    \ should create that directory, though.</blockquote>\r\nYes it should have been\
+    \ created by the plugin.  There was an edge case where the directory was not created\
+    \ properly. Fixed.\r\n\r\n<blockquote>And the plugin is not working (I don\u2019\
+    t see any ravatars/gravatars).</blockquote>\r\nGrab the latest 2.0.2 version of\
+    \ the plugin which fixes the above errors.  If the ravatars still don't display,\
+    \ do a view source on the page, and post the URL of some of the ravatars it is\
+    \ trying to get.  The code you are looking for will be something like:\r\nimg\
+    \ class='ravatar' border='' src='http://grok-code.com/wp-content/plugins/ravatars/cache/c4bb682be6f940454.png'\
+    \ width='80' height='80' alt=''", name: Jess Johnson, parent: 0, post_ID: 7, subscribe: N,
+  url: 'http://grokcode.com'}

@@ -1,0 +1,10 @@
+{_id: 723, approved: 1, date: 1212341155, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: "@Chris replace the images in the ravatars/parts directory with\
+    \ your own images.  Look for the call to get_avatar() in the sidebar.  It will\
+    \ look something like this: get_avatar($comment, 32)  The number at the end is\
+    \ the size the avatar should be. Unfortunetely, if you have avatars of 2 different\
+    \ sizes for the same person, they will be different parts of the same source image,\
+    \ so they won't look the same.\r\n\r\n@explorish Try adding the code get_avatar($comment,\
+    \ 32) inside the comment loop code for the recent comments.  Change the 32 to\
+    \ whatever size you would like the avatar to be.", name: Jess Johnson, parent: 0,
+  post_ID: 7, subscribe: N, url: 'http://grokcode.com'}

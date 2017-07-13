@@ -1,0 +1,8 @@
+{_id: 229, approved: 1, date: 1207169817, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: "@Becky Wordpress likes to break code within comments. Sorry\
+    \ about that.  If anyone wants to recommend a plugin for fixing that, I'd be glad\
+    \ to hear about it.\r\n\r\nI would suggest using the autoplacement feature of\
+    \ the plugin to avoid mucking around in the PHP.\r\n\r\nBut if you really want\
+    \ to do it try calling \r\nravatar_show($comment->comment_author_email);\r\nwithin\
+    \ the comments loop in the comments.php file.\r\n\r\nThat line needs to be within\
+    \ php tags.", name: Jess Johnson, parent: 0, post_ID: 7, subscribe: N, url: 'http://grokcode.com'}

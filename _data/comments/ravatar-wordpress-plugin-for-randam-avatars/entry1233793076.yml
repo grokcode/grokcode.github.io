@@ -1,0 +1,8 @@
+{_id: 8910, approved: 1, date: 1233793076, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: '@Ricky,  Hrmmm It looks like you will need to change the plugin
+    source code.  Looking at the recent comments plugin code, go to line 1314 and
+    change $comment_gravatar_url  to $ravatar_get($comment->comment_author_email,
+    50) where 50 is the size you are using for the ravatars.  No idea if this will
+    work or not, and I can''t test since the plugin requires an version of wordpress
+    that I don''t use, but its worth a shot.', name: Jess Johnson, parent: 0, post_ID: 7,
+  subscribe: N, url: 'http://grokcode.com'}

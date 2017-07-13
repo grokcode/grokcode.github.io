@@ -1,0 +1,9 @@
+{_id: 45562, approved: 1, date: 1286240778, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: "<blockquote>The ant \u201Cif\u201D syntax was a deliberate attempt\
+    \ to not support a particular build file style.</blockquote>\r\n\r\nIt seems to\
+    \ me that the better options are either don't support \"if\" at all or support\
+    \ it in a sane way. As others have mentioned, there are ways to do conditionals\
+    \ in XML that are somewhat less ugly than the Ant example. What kind of logic\
+    \ are the Ant developers using if they are spending time purposely creating features\
+    \ that are ugly because they don't want people to use them?", name: Jess Johnson,
+  parent: 0, post_ID: 538, subscribe: N, url: 'http://grokcode.com'}

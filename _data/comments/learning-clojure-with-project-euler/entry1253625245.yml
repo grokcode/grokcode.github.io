@@ -1,0 +1,4 @@
+{_id: 21665, approved: 1, date: 1253625245, email: 8b4c4af1174b9df8fec8b52a9325ac2f,
+  karma: 0, message: "Another solution for #1...\r\n\r\n(reduce + (into #{} (concat\
+    \ (range 3 1000 3) (range 5 1000 5))))", name: Patrick Logan, parent: 0, post_ID: 367,
+  subscribe: Y, url: 'http://twitter.com/patrickdlogan'}

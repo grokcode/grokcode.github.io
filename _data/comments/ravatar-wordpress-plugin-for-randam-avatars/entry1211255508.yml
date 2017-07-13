@@ -1,0 +1,10 @@
+{_id: 628, approved: 1, date: 1211255508, email: 4d4d6a822c7291b460e989ae1c4e3a35,
+  karma: 0, message: "Hi Gene,\r\n\r\nI like this plugin and nice work, but I'm not\
+    \ able to see the ravatar images. I just enabled the plugin, I also have the gravatar\
+    \ site enabled (I can see the gravatars of user that have them) but the ravatars\
+    \ doesn't appear. I realised that the final html code generated link with cache\
+    \ images that doesn't exists (error 404 if I try to see them on the explorer).\
+    \ When I navigate over the site, I can see how the cache folder grow up. But then\
+    \ doesn't appear.\r\n\r\nCould you take me a hand with this please?\r\nMy site\
+    \ is www.unraticode.com.", name: "Jonat\xE1n Rueda", parent: 0, post_ID: 7, subscribe: N,
+  url: 'http://www.unraticode.com'}

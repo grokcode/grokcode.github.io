@@ -1,0 +1,28 @@
+{_id: 760, approved: 1, date: 1212677887, email: 859b1fd4e7761d8fb174fa6d7a3f30a7,
+  karma: 0, message: "Hi there. Ravatars is no longer working on my site. I'm not\
+    \ sure when it stopped, cuz I've had a lot of various issues lately and it escaped\
+    \ my notice til the other day. I followed the advice above, including editing\
+    \ my htaccess file, and completely broke my site and had to go so far as delete\
+    \ the entire site and start over (including uninstalling Wordpress three times!).\
+    \ I finally stumbled upon the answer to the break for the site (had to do with\
+    \ wp_redirection plugin, and I had to drop the database tables for that plugin\
+    \ for my site to start showing up again; I'd been getting a blank page.)\r\n\r\
+    \nBut after all that, ravatars still do not work. I'm using the newest version\
+    \ of Wordpress with a fresh, clean install of the latest Ravatars plugin. I've\
+    \ already tried removing all other comment-related plugins, and when it didn't\
+    \ help I put them back. All other plugins I'm using are: \r\n\r\nAdmin Drop Down\
+    \ Menus\r\nAkismet\r\nAll in One SEO Pack\r\nBetter Comments Manager\r\nCategory\
+    \ Icons\r\ncforms (Currently disabled)\r\nClean Archives Reloaded (currently disabled)\r\
+    \nClick Tags\r\nCommentLuv\r\nCricket Moods\r\nExcerpt Editor\r\nFeedSmith\r\n\
+    FireStats (currently disabled)\r\nGoogle XML Sitemaps (currently disabled)\r\n\
+    Homepage Excerpt (currently disabled)\r\nKB Advanced RSS Widget\r\nMaintenance\
+    \ Mode\r\nMaxBlogPress Ping Optimizer\r\nMini Posts 2\r\nMy Page Order\r\nNexGen\
+    \ Gallery (currently disabled)\r\nOfficial Statcounter Plugin\r\nPage Category\
+    \ Plus\r\nPost Avatar\r\nRegister Plus\r\nSearch Unleased\r\nSimple Trackback\
+    \ Validation\r\nSubscribe to Comments\r\nTag Functions (currently disabled)\r\n\
+    TagMahal\r\nWordpress Duplicate Content Cure\r\nWP-dtree\r\nWP-OpenID (currently\
+    \ disabled)\r\nWP-Polls\r\nWP Ajax Edit Comments\r\nWP Captcha Free\r\nWP Super\
+    \ Cache (currently disabled)\r\n\r\nNow I do like Ravatars and am willing to kill\
+    \ less essential plugins for it, but nothing that is important. For the record,\
+    \ I have tried deleting all plugins and starting with Ravatars, and it didn't\
+    \ work alone, either.", name: Sheta, parent: 0, post_ID: 7, subscribe: N, url: 'http://spiritcompanion.com'}

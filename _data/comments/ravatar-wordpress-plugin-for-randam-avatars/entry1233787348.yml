@@ -1,0 +1,9 @@
+{_id: 8895, approved: 1, date: 1233787348, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: '@Ricky We discovered that the sidebar recent comments loop is
+    part of wordpress core.  Since its generally a bad idea to modify the core files,
+    the best solution would be to find a plugin that implements the recent comments
+    feature.  Then if that plugin doesn''t support avatars, you could modify the plugin
+    so that it contains the get_avatar() code.  I haven''t personally used any recent
+    comments plugins, so I can''t make any good recommendations there, but please
+    let me know if you find one that works.', name: Jess Johnson, parent: 0, post_ID: 7,
+  subscribe: N, url: 'http://grokcode.com'}

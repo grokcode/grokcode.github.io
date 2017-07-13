@@ -1,0 +1,10 @@
+{_id: 321, approved: 1, date: 1208205085, email: c91991738c3d1bb3567e34ef2590b167,
+  karma: 0, message: "Hi,\r\n\r\nI've almost got this working, but not quite. I get\
+    \ this error:\r\n\r\n<code>Warning: opendir(../wp-content/plugins/ravatars/cache)\
+    \ [function.opendir]: failed to open dir: No such file or directory in /xxx/xxx/public_html/xxx.xxx/weblog/wp-content/plugins/ravatar/ravatars.php\
+    \ on line 69\r\nCannot open directory for reading.</code>\r\n\r\nI made sure that\
+    \ the permissions were all correct, and there's a cache folder within the raratar\
+    \ plugin folder.\r\n\r\nAny suggestions? \r\n\r\nAnd a quick questions: There's\
+    \ support for.jpg and .png files, but not for .gif -- will this change at some\
+    \ point?\r\n\r\nThanks for your help -- and the plugin.", name: Rosina Lippi,
+  parent: 0, post_ID: 7, subscribe: N, url: 'http://www.rosinalippi.com/weblog'}

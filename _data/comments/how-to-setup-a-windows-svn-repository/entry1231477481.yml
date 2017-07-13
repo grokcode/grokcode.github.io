@@ -1,0 +1,8 @@
+{_id: 4031, approved: 1, date: 1231477481, email: fba25ff8d3b3ad9e45a41fd2bdceb1f6,
+  karma: 0, message: "@jess: Yes, VisualSVN is free&amp;fantastic. Does not matter\
+    \ if apache is already installed, VisualSVN installs\r\nto separate directory\
+    \ and if I remember correctly you can choose port for apache during installation\
+    \ (or at least later after installation in apache config), SSL is also installed\
+    \ by default.\r\nIt's really 1 minute installation and VisualSVN also comes with\
+    \ 'server manager' which allows you create repositories, users, groups, permissions.\r\
+    \nJozef", name: Jozef Sevcik, parent: 0, post_ID: 115, subscribe: N, url: 'http://devmeat.com'}

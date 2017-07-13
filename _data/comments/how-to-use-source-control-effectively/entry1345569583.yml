@@ -1,0 +1,7 @@
+{_id: 70660, approved: 1, date: 1345569583, email: a6a663738d27dd359b439ce3e188f78e,
+  karma: 0, message: 'Two common scenarios for branching are release branching and
+    feature branching.  At the minimum make a branch at every production release.  If
+    you are working on a feature with a lot of breaking changes, then consider a feature
+    branch which allows you more control over what code gets pushed into your main
+    branch.  Don''t branch unecessarily, it is extra work.', name: Harry, parent: 0,
+  post_ID: 717, subscribe: N, url: ''}

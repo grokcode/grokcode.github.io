@@ -1,0 +1,9 @@
+{_id: 570, approved: 1, date: 1210686225, email: afd65b7ffa1d3a138747ffcb50e8357e,
+  karma: 0, message: "I did some research and found the url to the cache in the .php\
+    \ file. The text in the settings &gt; ravatars, at the bottom, is wrong. Check\
+    \ it yourself in your own installation.\r\n\r\nI created the directory manually,\
+    \ and the cache seems to be working ok.  The plugin should create that directory,\
+    \ though.\r\n\r\nAnd the plugin is not working (I don't see any ravatars/gravatars).\
+    \ I'm also using the Ajax Comments Reply (http://zhiqiang.org/blog/plugin/ajaxcomment)\
+    \ and that might be the problem. But the get_gravatar line works fine when ravatars\
+    \ is not activated.", name: Latterlig!, parent: 0, post_ID: 7, subscribe: N, url: 'http://spesiell.org'}

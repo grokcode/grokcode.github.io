@@ -1,0 +1,8 @@
+{_id: 608, approved: 1, date: 1211191156, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: "Looking at your site, an example of a ravatar it is trying to\
+    \ get is http://macnightowl.com/wp-content/plugins/ravatars/cache/eedf4ac9e08cd39ad.png\
+    \  which is giving a 404 not found.\r\n\r\nDoes that file exist on your system?\
+    \ Are there files in the ravatars cache? There might be permissions issues that\
+    \ prevent it from being displayed. Or there may be a security plugin or other\
+    \ plugins installed that is blocking access to the file.", name: Jess Johnson,
+  parent: 0, post_ID: 7, subscribe: N, url: 'http://grokcode.com'}

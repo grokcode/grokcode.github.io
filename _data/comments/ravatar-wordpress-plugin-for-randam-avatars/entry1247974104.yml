@@ -1,0 +1,6 @@
+{_id: 19948, approved: 1, date: 1247974104, email: 97986b038a9f6b41d74ce59f3669bfc9,
+  karma: 0, message: "Hallo, \r\nVielen Dank f\xFCr dieses geniale PlugIn. Ich erhalte\
+    \ eine Fehlermeldung wenn ich neue Bilder hochlade:\r\n\r\n<code>Warning: imagecopy():\
+    \ supplied argument is not a valid Image resource in /hp/au/aa/dd/www/hzeit/wp-content/plugins/ravatar/ravatars.php\
+    \ on line 330</code>\r\n\r\nwas kann ich tun um sie zubeheben?\r\nVielen Dank!",
+  name: intoxi, parent: 0, post_ID: 7, subscribe: N, url: ''}

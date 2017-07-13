@@ -1,0 +1,6 @@
+{_id: 19460, approved: 1, date: 1245855392, email: b86319b6b8452bf629485f4bc7bb15ad,
+  karma: 0, message: "6x6 puzzle can be solved in few milliseconds... about 150ms\
+    \ between values where 1 - 300ms.\r\nbut 8x8 wasn't finished after 5 hours on\
+    \ single core. I think i must look the loading algorithm if there is something\
+    \ wrong. \r\n\r\ndPUNiSH3R your algorithm can solve 8x8 with only 50 million tests?",
+  name: P-E-X, parent: 0, post_ID: 10, subscribe: Y, url: ''}

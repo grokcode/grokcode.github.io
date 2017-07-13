@@ -1,0 +1,9 @@
+{_id: 45513, approved: 1, date: 1286222994, email: 9c205259b1c73df49d022c64e43bd4d8,
+  karma: 0, message: "<q>I agree XML is too verbose, but in what way does in violate\
+    \ DRY?</q>\r\nSince the author states this as opposed to JSON, YAML, etc., I believe\
+    \ he means the repetition of opening and closing tags. This is, at best, stretching\
+    \ the no-DRY principle really thin.\r\n\r\n(Not that I disagree with anything\
+    \ else here: for a sophisticated enough build process, ant turns into a scripting\
+    \ language implemented in XML with bizarre sort-of-immutable variables, and I\
+    \ can't think of anything more evil or insane)", name: Maciek, parent: 0, post_ID: 538,
+  subscribe: N, url: 'http://bitrotincarnate.wordpress.com'}

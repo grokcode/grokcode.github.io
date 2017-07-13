@@ -1,0 +1,22 @@
+{_id: 8907, approved: 1, date: 1233792005, email: ca8877f6984d7f545b2866314f3f606e,
+  karma: 0, message: "Well,  I found a decent \"Recent Comments Plugin\" for my Wordpress\
+    \ 2.7 here:\r\n\r\nhttp://wordpress.org/extend/plugins/get-recent-comments/\r\n\
+    \r\nIt gives lots of choices. On the setup page there is a list of variables to\
+    \ customize the result:\t\r\n\r\n%comment_excerpt - Shortened comment. \r\n%comment_link\
+    \ - Link to the comment. \r\n%comment_author - Name left by the commenter \r\n\
+    %comment_date - Date of comment \r\n%comment_time - Time of comment \r\n%comment_type\
+    \ - Comment, Trackback or Pingback \r\n%time_since - Time since comment was posted\
+    \ \r\n%userid - UserID of the commenter \r\n%gravatar - Gravatar of the commenter,\
+    \ full img tag \r\n%gravatar_url - Gravatar of the commenter, only url \r\n%profile_picture\
+    \ - URL of profile picture \r\n%author_url - URL of author or trackback \r\n%author_url_href\
+    \ - href=\"%author_url\" or empty \r\n%post_title - Title of the posting \r\n\
+    %post_link - Link to the posting \r\n%post_date - Date of the posting \r\n%post_counter\
+    \ - Number of comments to this post\r\n\r\nThe variable I included was \"%gravatar\"\
+    \ at the beginning of the \"Result\" line of code:\r\n\r\n%gravatar<a href=\"\
+    %comment_link\" title=\"%post_title, %post_date\" rel=\"nofollow\">%comment_author</a>:\
+    \ %comment_excerpt\r\n\r\nThe appearance is exactly like I want: recent comments\
+    \ in the sidebar but the images are not from my customized ravatars, they are\
+    \ all the default blue gravatar with the white G.\r\n\r\nI realize these two plugins\
+    \ are not associated with one another and I don't know how to put a call in to\
+    \ the ravatars. Seems like it could be complicated. Any ideas, Jess?", name: Ricky,
+  parent: 0, post_ID: 7, subscribe: N, url: ''}

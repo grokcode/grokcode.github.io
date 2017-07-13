@@ -1,0 +1,9 @@
+{_id: 45496, approved: 1, date: 1286217844, email: 2d8b987c412b5b734034d0cbd5e3613e,
+  karma: 0, message: 'It''s all true. Builds do take time to get right, and just as
+    with any language you can shoot yourself in your foot without too much effort.
+    I also see Java build tools rebuild more than they need to because "it''s only
+    a few seconds" and because the dependencies embedded in class files are a pain
+    to process. SCons does do the analysis better, but it''s not too speedy. I also
+    don''t see why a build system should be language-specific any more than a documentation
+    tool should be, but most of them are.', name: Matt Doar, parent: 0, post_ID: 538,
+  subscribe: N, url: 'http://www.pobox.com/~doar'}

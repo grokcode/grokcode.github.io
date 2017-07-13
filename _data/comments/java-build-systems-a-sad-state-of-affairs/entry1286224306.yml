@@ -1,0 +1,14 @@
+{_id: 45515, approved: 1, date: 1286224306, email: 4c3c804117038c4b79efacc2ffde0cac,
+  karma: 0, message: "Errrr... a lot of what is mentioned I agree with.... ant, maven\
+    \ the constant debate amongst my architects.... we are now looking at Gradle which\
+    \ seems to bridge the gap between both build systems. Although we have not agreed\
+    \ that this is the best practice going forward... it looks like we will inevitably\
+    \ adopt Gradle as the preferred build strategy.\r\n\r\nAs a note... I met the\
+    \ developers of Gradle at the Java One convention.... undoubtedly this was a highlight\
+    \ of the whole convention, these gents had such vigor and spark that it made me\
+    \ WANT to use Gradle... as a result I have had members of my team review it....\
+    \ and... all the feedback has been positive... notably... much of the criticism\
+    \ highlighted in the article is addressed by the Gradle solution... In any event...\
+    \ I don't want to over sell and would love to hear others options in order to\
+    \ find the best solution.\r\n\r\n1,\r\nR", name: bozoCranky, parent: 0, post_ID: 538,
+  subscribe: N, url: ''}

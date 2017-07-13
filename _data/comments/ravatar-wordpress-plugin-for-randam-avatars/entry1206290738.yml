@@ -1,0 +1,9 @@
+{_id: 215, approved: 1, date: 1206290738, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: "@JunoMagic The easiest way to use ravatars is to just use the\
+    \ auto placement feature.  If you really want to to customize the location you\
+    \ will need to know some PHP to edit your theme.  The comments loop is a section\
+    \ of code that loops over and displays each of the comments. Since I don't know\
+    \ how your theme works, I can't give you specific line numbers for where the comments\
+    \ loop starts, but in my theme the comments loop starts with this line:   \r\n\
+    \r\n<?php foreach ($comments as $comment) : ?>\r\n\r\nHope that helps.", name: Jess
+    Johnson, parent: 0, post_ID: 7, subscribe: N, url: 'http://grokcode.com'}

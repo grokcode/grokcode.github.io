@@ -1,0 +1,15 @@
+{_id: 70345, approved: 1, date: 1304493981, email: 1ba21f6f315e1bebad01e200fd27fd39,
+  karma: 0, message: "Here is a real brain teaser!\r\nThis program is written in three\
+    \ languages (ie. polyglot). It has Shell, Make, and C syntax. The one line of\
+    \ C in the main just executes executes Make, thus calling it's self. Based off\
+    \ of the implicit variables used in the Make syntax it can guess it's name which\
+    \ after the linking it does to itself. There is even more possibility for one\
+    \ to some add assembly commands in the preprocessor macro portion.\r\n \r\n<code>\r\
+    \n#include \r\n#include \r\n#define  MAKE_C_SHELLS TRUE\r\n\r\nTRUE /*:all\r\n\
+    \r\nCC=cc\r\nPROG=polyglot\r\n\r\nfalse :\r\n\tmake -f $0 $1\r\n\texit 0\r\n\r\
+    \nall: $(PROG)\r\n\r\n$(PROG).c:\r\n\tln -T Makefile $(PROG).c\r\n\r\n%:%.c\r\n\
+    \t$(CC) $&lt; -o $@\r\n\r\nclean:\r\n\trm $(PROG)\r\n\r\nclean-src:\r\n\trm $(PROG).c\r\
+    \n\r\n.PHONY: /* true clean */\r\n#undef   true\r\n\tint main(int argc, char **\
+    \ argv) {execv(&quot;/usr/bin/make&quot;,argv);return argc;}\r\n\r\n<code>\r\n\
+    \r\nDustin Dorroh", name: Dustin Dorroh, parent: 0, post_ID: 80, subscribe: Y,
+  url: ''}

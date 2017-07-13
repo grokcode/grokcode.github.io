@@ -1,0 +1,13 @@
+{_id: 21744, approved: 1, date: 1253802177, email: 43072573fba33595e20a82c086d6df07,
+  karma: 0, message: "@jess\r\n\r\nYour solution to the problem 3 looks pretty good.\
+    \ If I may make a suggestion though.\r\nInstead of doing self-recursion by calling\
+    \ the function directly, use the more efficient self-recursion using the loop\
+    \ / recur combination. Direct self-recursion on function will blow the stack on\
+    \ larger numbers.\r\n\r\nHere are the changes to your version:\r\n\r\n<code>\r\
+    \n(defn factor [num]\r\n  (loop [n num cur 2]\r\n    (if (= n cur)\r\n      n\r\
+    \n      (if (zero? (mod n cur))\r\n\t(recur (/ n cur) cur)\r\n\t(recur n (inc\
+    \ cur))))))\r\n</code>\r\n\r\nAlso note how I moved the \"cur\" from function\
+    \ parameter to loop bindings.\r\n\r\nOh and by the way, loop/recur is far more\
+    \ efficient.\r\n\r\nOld ver:\r\n\"Elapsed time: 21.654 msecs\"\r\n\r\nNew ver\
+    \ with loop/recur:\r\n\"Elapsed time: 3.302 msecs\"\r\n\r\n-Al", name: Alen, parent: 0,
+  post_ID: 367, subscribe: N, url: ''}

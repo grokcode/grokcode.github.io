@@ -1,0 +1,7 @@
+{_id: 567, approved: 1, date: 1210681273, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: "Latterlig!, check the permissions of the cache directory, and\
+    \ make sure that the plugin has permission to write there.  If there are still\
+    \ problems, post the exact error message and if possible a link to where I can\
+    \ see the error on your site.  Comment here or shoot me an email to jess [AT]\
+    \ grok-code.com\r\n\r\nLets see if we can get this fixed.", name: Jess Johnson,
+  parent: 0, post_ID: 7, subscribe: N, url: 'http://grokcode.com'}

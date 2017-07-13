@@ -1,0 +1,7 @@
+{_id: 299, approved: 1, date: 1207741976, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: '@Jordan At the time, it was one of the 3 or so languages that
+    I was using pretty regularly, so that did factor into it.  Lisp dialects tend
+    to be very popular for AI applications, because there is little distinction between
+    code and data.  The joke generator could have been written in any language, but
+    in the end I think Common Lisp was a good choice.', name: Jess Johnson, parent: 0,
+  post_ID: 12, subscribe: N, url: 'http://grokcode.com'}

@@ -1,0 +1,5 @@
+{_id: 18720, approved: 1, date: 1243515412, email: b86319b6b8452bf629485f4bc7bb15ad,
+  karma: 0, message: "My solver has solved 10x10 in seconds, but sometimes it takes\
+    \ minutes :-)\r\nWith one hint piece, 5 edge types, 18 center types.\r\nIt solves\
+    \ about 2-6 million pieces at second on Intel Core 2 Duo 4300.\r\n\r\nJava is\
+    \ great", name: P-E-X, parent: 0, post_ID: 10, subscribe: Y, url: ''}

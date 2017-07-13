@@ -1,0 +1,7 @@
+{_id: 318, approved: 1, date: 1208197857, email: 73ac92cc9d9dbee8ebfa5d34794da2d6,
+  karma: 0, message: "The plugin doesn't work in my wordpress. \r\n\r\nThe following\
+    \ sentence is shown in the option page:\r\n\"Warning: opendir(../wp-content/plugins/ravatars/cache)\
+    \ [function.opendir]: failed to open dir: No such file or directory in /home/chinakolau/domains/chinakolau.com/public_html/wordpress/wp-content/plugins/ravatars/ravatars.php\
+    \ on line 162\r\nCannot open directory for reading.\"\r\n\r\nI would like to ask\
+    \ if I can do anything to fix the problem.\r\n\r\nThx!", name: Carmen, parent: 0,
+  post_ID: 7, subscribe: N, url: 'http://chinakolau.com/wordpress'}

@@ -1,0 +1,4 @@
+{_id: 21656, approved: 1, date: 1253608753, email: 12a71a456ac3d464914a8267f11d43b3,
+  karma: 0, message: "Just an FYI, range returns a lazy seq of nums from start (inclusive)\
+    \ to end (exclusive).\r\nSo (range 1 1000) will return 1 - 999. You don't need\
+    \ to do (- limit 1).", name: Shane, parent: 0, post_ID: 367, subscribe: Y, url: ''}

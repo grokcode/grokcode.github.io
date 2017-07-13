@@ -1,0 +1,13 @@
+{_id: 32320, approved: 1, date: 1274885986, email: 6e93c536351f323572a12e53582b1b2b,
+  karma: 0, message: 'After seeing Joels code: This is a one to one port of my C++
+    code, very similar to what I tried myself first. But after that I saw that the
+    quite complex optimization which worked well for C++ doesn''t help in Java. So
+    my new Java code is more similar to the original code of Marc Lebel, which suprizingly
+    is about 10% faster than the one to one port - and almost the same speed as the
+    original C++ version. A further modification is to support finding maximal partial
+    solutions - as far as I know there was a 10.000 prize for finding a 467 correct
+    edges partial last year. I allow with some small probability the placement of
+    not completely fitting pieces during the search in order to get some promizing
+    piece placements with only a few nonfitting edges, and then try to optimize these
+    by exchanging pieces. Some data structures needed to be adapted in order to support
+    this.', name: Doc Smith, parent: 0, post_ID: 10, subscribe: N, url: ''}

@@ -1,0 +1,5 @@
+{_id: 6, approved: 1, date: 1201509147, email: a74f73155f271f6651dea5825030015c, karma: 0,
+  message: "Hi Yuri,\r\n\r\nIt looks like scandir() is a PHP 5 only function.  I'll\
+    \ post a new version of the plugin that is compatible with both PHP 4 and 5 when\
+    \ I get a chance.  Thanks for letting me know about this issue!", name: Jess Johnson,
+  parent: 0, post_ID: 7, subscribe: N, url: 'http://grokcode.com'}

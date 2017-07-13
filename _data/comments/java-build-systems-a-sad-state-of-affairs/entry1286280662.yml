@@ -1,0 +1,8 @@
+{_id: 45674, approved: 1, date: 1286280662, email: c11c60c7e6d29cb4b87f3c0a3b692181,
+  karma: 0, message: "@Dave is correct. The argument that this article makes about\
+    \ Maven builds being non-deterministic is a fallacy. This is only true if you\
+    \ <b>do not specify a version</b> for your dependencies and plugins. When you\
+    \ do not specify a version, you are telling Maven - and this is documented - \"\
+    used the latest version you can find\".\r\n\r\nTo produce a reliable (and sane)\
+    \ build, you should always specify the exact version of your dependencies and\
+    \ plugins.", name: Matt B, parent: 0, post_ID: 538, subscribe: Y, url: ''}

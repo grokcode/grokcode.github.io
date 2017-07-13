@@ -1,0 +1,9 @@
+{_id: 70404, approved: 1, date: 1306880943, email: cbd8101c0a43282d011282a926d945ba,
+  karma: 0, message: 'It is the 80/20 rule. 20% of the code base will cause 80% of
+    the bugs. Not all bugs even matter. Spending so much time testing can be even
+    more wasteful than not. If the time taken to write and maintain unit tests is
+    greater than the cost of just fixing the bug, then you are wasting time and resources.
+    Now you have to bug fix your regular code and you have to bug fix your test code
+    too. If you can''t write regular code properly, what makes you think you will
+    write test code properly? Don''t you then need a unit test for the test code?',
+  name: Enzo, parent: 0, post_ID: 439, subscribe: N, url: ''}

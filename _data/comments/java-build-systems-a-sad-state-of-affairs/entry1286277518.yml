@@ -1,0 +1,7 @@
+{_id: 45658, approved: 1, date: 1286277518, email: e0132e931569bbd7d6ad6ef56a6f11db,
+  karma: 0, message: '@dean I''m surprised you had a lot of trouble with gant, its
+    basically and where you turn your angle brackets in to parens. There is a fair
+    amount of documentation and even an ant2gant script. The nice part of all of that
+    is that you can leverage any ant tasks that third parties might supply since its
+    mostly just syntactical sugar on top of ant.', name: Benjamin Darfler, parent: 0,
+  post_ID: 538, subscribe: Y, url: 'http://bdarfler.com'}

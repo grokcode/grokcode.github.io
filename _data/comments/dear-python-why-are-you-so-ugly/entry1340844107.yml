@@ -1,0 +1,10 @@
+{_id: 70632, approved: 1, date: 1340844107, email: a33787ddcf32e2469b609f11e6667d39,
+  karma: 0, message: "That's an interesting point. Am I weird to say that I appreciate\
+    \ how quickly you can find the info you want in the Python documentation? It's\
+    \ clear exactly where to look, everything is well linked, etc. On the other hand,\
+    \ RoR's website makes you feel excited...\r\n\r\nOne thing that Python really\
+    \ has going for it is Sphinx. Is there an equivalent for Ruby documentation? \
+    \ Quick web search reveals yard and RDoc, but I'm not sure.\r\n\r\nWhile coding,\
+    \ it's great to be able to be able to look up information on functions from the\
+    \ command line (with pydoc or help).", name: George, parent: 70563, post_ID: 746,
+  subscribe: N, url: ''}

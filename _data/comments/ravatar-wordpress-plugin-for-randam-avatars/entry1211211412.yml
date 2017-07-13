@@ -1,0 +1,15 @@
+{_id: 618, approved: 1, date: 1211211412, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: "Hrmmm. I don't see anything there that looks particularly relevant,\
+    \ but its possible I missed something.  I would like to try to rule out the possibility\
+    \ that it is either .htaccess or a WP Super Cache conflict.  Can you try this\
+    \ test?\r\n\r\n1. Deactivate the WP Super Cache plugin\r\n2. Verify that everything\
+    \ between '# BEGIN WPSuperCache' and '# END WPSuperCache' in .htaccess has been\
+    \ removed\r\n3.  Comment out part of .htaccess by putting a '#' in front of each\
+    \ of these lines and save the file  \r\n<blockquote>RewriteEngine On\r\nRewriteBase\
+    \ /\r\nRewriteCond %{REQUEST_URI} ^/(stats|failed_auth\\.html)/?(.*)$ [NC]\r\n\
+    RewriteRule ^.*$ - [L] </blockquote>\r\n4. Make sure the Ravatars plugin is activated,\
+    \ and your browser cache is cleared.  Do the ravatars show up?\r\n5. Remove the\
+    \ #'s you added in step 2 and save the file.  Reactive WP Super Cache.\r\n\r\n\
+    Note that this test will remove caching and stat tracking on your site for a short\
+    \ period of time.  Get a backup of your original .htaccess before you start.",
+  name: Jess Johnson, parent: 0, post_ID: 7, subscribe: N, url: 'http://grokcode.com'}

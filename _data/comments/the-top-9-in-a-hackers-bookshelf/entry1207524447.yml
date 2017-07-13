@@ -1,0 +1,22 @@
+{_id: 276, approved: 1, date: 1207524447, email: e7f026e55638df4b6e2dc87622ab2f81,
+  karma: 0, message: "I'd definitely add a book on networking.  Comer's books are\
+    \ a great introduction, but they don't scale beyond that, and the books by Stevens\
+    \ are great when you need something authoritative, but are hardly generalist works.\
+    \  (The OSI wars are over, so Padlipsky's _Elements of Networking Style_ is largely\
+    \ unnecessary today, but a lot of fun to read).  We're left with Tannenbaum's\
+    \ books, but I don't really like them.\r\n\r\nSome book on LISP.  I actually like\
+    \ reading Steele's 2nd edition of Common LISP, the Language but then I'm a sicko.\
+    \  Definitely gives the Java folks something to aspire to, though.  Perhaps _The\
+    \ Little LISPer_, or the Scheme variants.\r\n\r\nGraphics are a similar quandry:\
+    \ Lots of good books, nothing really stands out as *the reference*.  I never liked\
+    \ Foley and Van Damm, or Newman and Sproull (which dates me).  For \"fun\" reading\
+    \ check out Jim Blinn's collected columns.  The PostScript reference books were\
+    \ interesting as well.\r\n\r\nA good book on modern computer architecture is indispensable.\
+    \  _Modern Processor Design_ is good.\r\n\r\nLikewise, OS design.  The _Inside\
+    \ Windows NT_ books are excellent (even if you hate Windows), and the book on\
+    \ porting Linux to the Itanium is great, too (I forget the title, it's published\
+    \ by HP).\r\n\r\n@Jeremy: Sedgewick's books on algorithms are what I used for\
+    \ self-study after I left college.  They're well written and approachable, if\
+    \ not as deep as the \"white book.\"\r\n\r\nFor more fun: _Soul of a New Machine_,\
+    \ and _The Pentium Chronicles_, and _Managing Humans_.", name: landon dyer, parent: 0,
+  post_ID: 11, subscribe: N, url: 'http://www.dadhacker.com'}

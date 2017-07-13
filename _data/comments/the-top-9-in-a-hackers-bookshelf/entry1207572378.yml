@@ -1,0 +1,12 @@
+{_id: 288, approved: 1, date: 1207572378, email: 9481f463fff8d092470a3fa7c0e256f6,
+  karma: 0, message: "A pretty good list, and one I'd generally agree with. I personally\
+    \ find the later editions of \"Unix power tools\" to be too perl-oriented, where\
+    \ the earlier editions were much better. I'd add Eric Raymond's \"<a href=\"http://catb.org/~esr/writings/taoup/\"\
+    \ rel=\"nofollow\">The art of Unix programming</a>\". ESR may have lost his marbles\
+    \ at times, but in that book, he manages to pretty accurately capture the philosophy\
+    \ that drives the Unix culture[1]. Even if you're not coding on Unix, the approaches\
+    \ laid out in the book should make you a better coder.\r\n\r\n[1] Although in\
+    \ places, he tries to force tools into that culture that really don't fit, such\
+    \ as Emacs -- I'd have preferred it if he'd just said \"Emacs isn't a good fit\
+    \ with the Unix culture, but many hackers use it because it's useful\".", name: Tet,
+  parent: 0, post_ID: 11, subscribe: Y, url: ''}

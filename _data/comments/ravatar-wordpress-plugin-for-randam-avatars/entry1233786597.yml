@@ -1,0 +1,10 @@
+{_id: 8890, approved: 1, date: 1233786597, email: ca8877f6984d7f545b2866314f3f606e,
+  karma: 0, message: "Jess, did you ever solve the below problem that explorish had?\
+    \ I have the exact same problem. I cannot find the comment loop for the recent\
+    \ comments in my theme. I too am using the recent comment widget. I looked through\
+    \ functions, comments, sidebar...\r\n\r\n\"@Jess how can i make the avatars show\
+    \ in the \u201Crecent comments\u201D widget? i am using neoclassical theme, i\
+    \ think i need to tweak it myself.\r\nthanks a lot in advance!\"\r\n\r\n\"@explorish\
+    \ Try adding the code get_avatar($comment, 32) inside the comment loop code for\
+    \ the recent comments. Change the 32 to whatever size you would like the avatar\
+    \ to be.\"", name: Ricky, parent: 0, post_ID: 7, subscribe: N, url: ''}

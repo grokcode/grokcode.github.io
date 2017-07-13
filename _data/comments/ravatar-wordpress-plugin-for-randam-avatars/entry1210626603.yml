@@ -1,0 +1,5 @@
+{_id: 561, approved: 1, date: 1210626603, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: 'Oops.  Thanks for the heads up Latterlig!  I did something weird
+    when registering the function with wordpress, and didn''t catch this bug since
+    I upgraded without deactivating and reactivating.  Ravatars version 2.0.1 fixes
+    it.', name: Jess Johnson, parent: 0, post_ID: 7, subscribe: N, url: 'http://grokcode.com'}

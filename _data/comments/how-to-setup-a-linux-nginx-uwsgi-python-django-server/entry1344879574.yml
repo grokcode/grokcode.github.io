@@ -1,0 +1,8 @@
+{_id: 70655, approved: 1, date: 1344879574, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: "The takeaway from that link is that python files shouldn't live\
+    \ in the document root; it shouldn't be possible for the web server to serve the\
+    \ python files. In the config above, nginx only serves files in the /var/www/app-name/static\
+    \ directory, so in this case, even though the django project lives in /var/www/app-name/project,\
+    \ I think it still follows that guideline in spirit. There isn't any increased\
+    \ risk here since nginx doesn't have access to the .py files.\r\n\r\nGreat question!",
+  name: Jess Johnson, parent: 70654, post_ID: 784, subscribe: N, url: 'http://grokcode.com/'}

@@ -1,0 +1,8 @@
+{_id: 693, approved: 1, date: 1211992023, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: 'What size avatars are you using? Ravatars crops the images so
+    that they are the size that the theme specifies - it won''t resize anything.  You
+    can have the whole image used as the avatar, but the source images need to be
+    the same size as the avatars in the theme for that to work.  I''m not sure why
+    part would be black if there isn''t any black in the source images.  Strange.
+    Do you have an example?  Or a link where there are comments, but the avatars aren''t
+    showing up?', name: Jess Johnson, parent: 0, post_ID: 7, subscribe: N, url: 'http://grokcode.com'}

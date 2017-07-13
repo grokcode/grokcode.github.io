@@ -1,0 +1,12 @@
+{_id: 9008, approved: 1, date: 1233828414, email: ca8877f6984d7f545b2866314f3f606e,
+  karma: 0, message: "Jess, I replaced the code, and when I put in the \"%gravatar\"\
+    \ variable to define the output, I got a fatal error:\r\n\r\n\"Fatal error: Function\
+    \ name must be a string in /home/outraged/public_html/home/wp-content/plugins/get-recent-comments/get-recent-comments.php\
+    \ on line 1315\"\r\n\r\nHowever, thank you for trying to solve my problem of getting\
+    \ Ravatars to show in the recent comments sidebar.\r\n\r\nOn a more positive note,\
+    \ I can say that Ravatars works great (except for my recent comments issue of\
+    \ not showing the Ravatar) with Wordpress 2.7 and my Wordpress theme veryplaintxt\
+    \ 4.6.1. The recent comments plugin I mentioned in my last post seems to work\
+    \ very well and gives the administrator a host of options over the standard widget.\r\
+    \n\r\nThank you for your efforts! I hope a future update may resolve these issues.",
+  name: Ricky, parent: 0, post_ID: 7, subscribe: N, url: ''}

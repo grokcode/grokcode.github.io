@@ -1,0 +1,4 @@
+{_id: 70853, approved: 1, date: 1388619881, email: 5048ffde7ab92aeeedf45959f6d13c24,
+  karma: 0, message: 'Instead of typing "exit", we can just press Ctrl+D to send an
+    EOF, which will quit most kinds of shells (including bash and Python).', name: Denilson,
+  parent: 0, post_ID: 811, subscribe: N, url: 'http://about.me/denilsonsa'}

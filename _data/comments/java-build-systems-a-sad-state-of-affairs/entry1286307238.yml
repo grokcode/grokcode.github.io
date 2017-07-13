@@ -1,0 +1,9 @@
+{_id: 45739, approved: 1, date: 1286307238, email: e8918aa0963fb2aa5723b81c2c9be17f,
+  karma: 0, message: "Actually, (GNU) make works fine under Window.  The fatal problem,\
+    \ of course, is that for more than a decade, Windows has shipped with a completely\
+    \ emasculated shell environment (Eunuchs, as it were).\r\n\r\nIf all of the time\
+    \ and effort that have been spent assembling pretty mediocre alternatives to make\
+    \ had been spent instead fixing Windows' shell environment, Java programmers would\
+    \ have a nice clean powerful build system, instead of going blind trying to read\
+    \ and write huge XML files.", name: Mike, parent: 0, post_ID: 538, subscribe: Y,
+  url: ''}

@@ -1,0 +1,26 @@
+{_id: 70597, approved: 1, date: 1336076647, email: 75b0d3114415c5c594478ddd2437c724,
+  karma: 0, message: "no, I simply cannot agree with this line of reasoning. The front\
+    \ end design, as I explained above, has nothing to do with the back end mechanics.\
+    \ Even considering frameworks with different tools to generate the front end html,\
+    \ that is as far as the back end interacts with the front end. Once the HTML is\
+    \ generated, either boilerplate or via a template system, the design, the look,\
+    \ feel, and usability of the site is based on CSS and JS (possibly some 3rd party\
+    \ tech like Flash if you are developing for older browser tech). To link the two\
+    \ is as silly as saying the engine in a Gremlin is responsible for its ugliness.\
+    \ \r\n\r\nI have been looking more at things relating to graphic design and my\
+    \ stance on this has only been strengthened after pointedly spending time educating\
+    \ myself further in the principles of graphic design. \r\n\r\nThe only thing limiting\
+    \ Python sites aesthetics are the developers themselves. As Jess and I discussed\
+    \ above, the lack of better design does have an impact on the overall perception\
+    \ of the community, and this is unfortunate. However, there is no legitimate connection\
+    \ to the majority of pages backed by python being ugly, and the python language\
+    \ itself. What needs to be addressed is a better exposure of design principles\
+    \ to the developers, not merely working in a different language or framework.\
+    \ Ruby or java or .NET offer nothing of direct significance that will make the\
+    \ site inherently more attractive. \r\n\r\nOn a side note. I have purchased the\
+    \ Design For Hackers book Jess recommended as well as <a href=\"http://www.amazon.com/Elements-Graphic-Design-Second-Edition/dp/1581157622/ref=sr_1_2?ie=UTF8&amp;qid=1336076355&amp;sr=8-2\"\
+    \ rel=\"nofollow\">The Elements of Graphic Design</a> I am about a quarter of\
+    \ the way through this one. I also purchased a few books on typography as this\
+    \ is a critical part of good design for the web. So far they all look good, though\
+    \ I have not read them all yet, only so much time in a day :-)", name: ntlarson,
+  parent: 70596, post_ID: 746, subscribe: Y, url: ''}

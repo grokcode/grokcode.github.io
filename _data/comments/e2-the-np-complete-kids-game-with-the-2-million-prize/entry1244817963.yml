@@ -1,0 +1,13 @@
+{_id: 19164, approved: 1, date: 1244817963, email: e4303e28f953b33b3ed461bc56d63719,
+  karma: 0, message: "P-E-X if you review my post you will see that my results were\
+    \ using the 2 hint pieces. (\"8\xD78 with 2 hints\" benchmark used here)\r\n\r\
+    \nSummary of my results:\r\n\r\n2 hints:  starting with right corner then 5 seconds\
+    \ to solve,  starting with a no solution corner then 120 seconds to detect no\
+    \ solution.  http://img193.imageshack.us/img193/4313/grok8x82hints.jpg\r\n\r\n\
+    If I use only 1 hint (the first hint):  starting with right corner then 16 minutes\
+    \ to solve, bad corner then 164 minutes to detect no solution.\r\nhttp://img20.imageshack.us/img20/6752/grok8x81hint.jpg\r\
+    \n\r\nI run my solver using 4 instances running in parallel (in a quad core),\
+    \ each instance with a different corner piece fixed (4 possible), so I solve it\
+    \ in 5 seconds with 2 hints, and 16 minutes with 1 hint.\r\n\r\nUse the same test\
+    \ puzzle for a better comparison.", name: dPUNiSH3R, parent: 0, post_ID: 10, subscribe: Y,
+  url: ''}

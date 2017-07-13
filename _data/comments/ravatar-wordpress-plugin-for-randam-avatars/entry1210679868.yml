@@ -1,0 +1,6 @@
+{_id: 566, approved: 1, date: 1210679868, email: afd65b7ffa1d3a138747ffcb50e8357e,
+  karma: 0, message: 'Thanks. But it still doesn''t work. No ravatars show up (I will
+    double check my theme to be sure it has a get_gravatar line), but on refreshing
+    the cache, it "Cannot open directory for reading". I''ve checked, and the directory
+    exists, even though I had to create it myself.', name: Latterlig!, parent: 0,
+  post_ID: 7, subscribe: N, url: 'http://spesiell.org'}

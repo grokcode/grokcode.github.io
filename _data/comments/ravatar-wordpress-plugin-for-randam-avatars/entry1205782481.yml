@@ -1,0 +1,5 @@
+{_id: 203, approved: 1, date: 1205782481, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: Ravatars version 1.0.2 which is now up fixes the incompatibility
+    introduced by the Gravatars rewrite.  Sites will stop showing the default Gravatar
+    image now.  Thanks to Demitrious at Automattic for the help!, name: Jess Johnson,
+  parent: 0, post_ID: 7, subscribe: N, url: 'http://grokcode.com'}

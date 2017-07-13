@@ -1,0 +1,6 @@
+{_id: 70654, approved: 1, date: 1344871388, email: a9b1d5c051b312ad05256cf9f1773892,
+  karma: 0, message: "Hi Jess,\r\nI am new to django and I was reading the tutorials.\
+    \ I read that you shouldn't keep django files in a place such as /var/www. What\
+    \ are your thoughts on the security risks of doing so?\r\n\r\nGreat article!\r\
+    \n-Newbie\r\n\r\nReference: \"Where should this code live?\"\r\nhttps://docs.djangoproject.com/en/1.4/intro/tutorial01/",
+  name: newbie, parent: 0, post_ID: 784, subscribe: Y, url: ''}

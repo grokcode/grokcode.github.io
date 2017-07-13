@@ -1,0 +1,6 @@
+{_id: 72261, approved: 1, date: 1416411595, email: eb0406456748e9d794962cdb421dd910,
+  karma: 0, message: "Hello\r\n\r\nYour article seems pretty informative. But when\
+    \ I try to implement it on my Ubuntu 10.04 server, I get the following error on\
+    \ running sudo apt-get install uwsgi uwsgi-plugin-python\r\n\r\nCouldn't find\
+    \ package uwsgi\r\n\r\n\r\nAny idea what could be the reason for this?", name: Shan,
+  parent: 0, post_ID: 784, subscribe: N, url: ''}

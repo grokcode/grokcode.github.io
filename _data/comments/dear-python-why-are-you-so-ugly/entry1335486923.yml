@@ -1,0 +1,22 @@
+{_id: 70571, approved: 1, date: 1335486923, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: "&gt;&gt; In fact I only disagree with the aspect that the lack\
+    \ of good design is fundamentally related to the Python programming language itself.\r\
+    \n\r\nI don't mean to imply that there is something about the Python language\
+    \ that causes bad frontend design. This is not the case. However, there must be\
+    \ something about the Python community that is contributing to this problem. Maybe\
+    \ we don't value good design, or maybe we don't know how to connect with good\
+    \ designers and UX/UI people.\r\n\r\n&gt;&gt; As to your first point, perhaps\
+    \ I am not understanding exactly what interfaces you are referring to...\r\n\r\
+    \nI apologize for not being clear. When I say \"interface\" here I am talking\
+    \ about the user interface. So the \"design\" or \"front end\", not the programming\
+    \ interface.\r\n\r\n&gt;&gt; I am not saying its not worth discussing why the\
+    \ number of python sites are seemingly more poorly designed, only that the discussion\
+    \ is better framed around teaching/encouraging good design principles.\r\n\r\n\
+    Thanks for calling this out - the framing of the article should have been better.\
+    \ Pointing out examples of (subjectively) good and bad design will perhaps help\
+    \ get people to acknowledge the problem, but it doesn't make any progress toward\
+    \ actually fixing it. If I was a designer I might feel more comfortable about\
+    \ recommending specific design principles, but referring people to some expert\
+    \ sources (the books by Jarrod Drysdale, Sacha Greif, and David Kadavy) is at\
+    \ least a step in the right direction.", name: Jess Johnson, parent: 70566, post_ID: 746,
+  subscribe: N, url: 'http://grokcode.com/'}

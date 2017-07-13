@@ -1,0 +1,16 @@
+{_id: 28472, approved: 1, date: 1268266182, email: 73ebaae961ee32547a39116ef0bfaf26,
+  karma: 0, message: "dPUNiSH3R, \r\nI read your results on the GROK 8x8. \r\nIt's\
+    \ impressive that you found a solution in 5 seconds (with the right corner piece\
+    \ set).\r\nBut it may be that this was just by chance.\r\nThe fact that it takes\
+    \ 80 seconds to find out that/if there is no solution (with the wrong corner piece)\
+    \ is more interesting, since that means you exhaustively searched the GROK 8x8\
+    \ in 80 sec (x4 for the possible corner choices).\r\n\r\nI wonder if you made\
+    \ more progress since then (getting faster), and also which search order you use.\r\
+    \nI also wonder if you found the second solution (my solver found 2 solutions,\
+    \ as part of a 25 sec exhaustive search).\r\nWith one hint, and exhaustive search\
+    \ of GROK 8x8 takes an hour. Same result : 2 solutions.\r\n\r\nAlso, I wonder\
+    \ if anyone managed to solve the GROK 10x10 (with or without the 3 hints) by now.\r\
+    \n\r\nMy solver was cranking on it for 2 days, with interesting results, but no\
+    \ solution. \r\nI estimate that I searched only 1 % of the realistic (probably)\
+    \ solution space.\r\n\r\nThanks\r\n\r\nRob", name: Rob, parent: 0, post_ID: 10,
+  subscribe: N, url: ''}

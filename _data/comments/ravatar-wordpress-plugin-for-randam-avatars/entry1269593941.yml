@@ -1,0 +1,11 @@
+{_id: 29155, approved: 1, date: 1269593941, email: 947932f61e9b8d3a2486af8665287a3c,
+  karma: 0, message: "Sorry, I am an idiot. Apparently my mistake was that I had unzipped\
+    \ the file but instead of putting the whole ravatar directory in the plug ins\
+    \ folder, I just placed the ravatar.php file and parts directory. After looking\
+    \ at the code, I realized that the images were being generated but the browser\
+    \ was looking for them in the wrong place, so I modified line 402 to:\r\n$url\
+    \ = 'http://www.friendsofmofo.com/wp/wp-content/plugins/cache' . \"/$seed.png\"\
+    ; and it is working great.\r\n\r\nJust wanted to share in case someone comes along\
+    \ with the same problem/mistake.\r\n\r\nGreat plug in and if it works out I will\
+    \ be happily donating for your work,\r\nall the best,\r\ns.", name: Shawn T, parent: 0,
+  post_ID: 7, subscribe: Y, url: ''}

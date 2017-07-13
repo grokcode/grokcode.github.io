@@ -1,0 +1,7 @@
+{_id: 26010, approved: 1, date: 1262790226, email: b86319b6b8452bf629485f4bc7bb15ad,
+  karma: 0, message: "David in Atlanta,\r\n\r\nI didn't find a way to sort these pieces...\
+    \ But somebody may...\r\nI don't know how to sort sets...\r\n\r\nIf pieces are\
+    \ sorted the solving may be exponentialy more efficient....\r\n8\xD78x8\xD78x8\
+    \ = 32768\r\nBut when number of possible pieces is halved...\r\n4\xD74x4\xD74x4\
+    \ = 4096\r\n\r\nAt least this can be used to track faulty places pieces", name: P-E-X,
+  parent: 0, post_ID: 10, subscribe: Y, url: ''}

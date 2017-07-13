@@ -1,0 +1,10 @@
+{_id: 37050, approved: 1, date: 1280732799, email: 9877b8aead736d33145d6e76bc7a9abf,
+  karma: 0, message: "Rob,\r\n\r\nI also got two solutions for the 8x8 problem, both\
+    \ with the same corner piece.\r\n\r\nTo search the whole grok8x8 dataset, with\
+    \ <b>2 hints</b> my current times for each corner piece are:\r\n\r\ncorner 1:\
+    \ 108.546374 secs (2 solutions)\r\ncorner 2: time: 92.717353 secs (0 solutions)\r\
+    \ncorner 3: time: 80.345329 secs (0 solutions)\r\ncorner 4: time: 101.156403 secs\
+    \ (0 solutions)\r\n\r\nWith just one hint it took about 20 minutes or so to find\
+    \ the first solution,\r\nand 1751.234429 secs to finish scanning the first corner.\r\
+    \n\r\nUnrelatedly, I find it funny this is being discussed on a two year old blog\
+    \ post. :P", name: Hugo Peixoto, parent: 0, post_ID: 10, subscribe: Y, url: 'http://hugopeixoto.net'}
