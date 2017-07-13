@@ -1,0 +1,19 @@
+{_id: 885, approved: 1, date: 1214304887, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: "@Florian  I would definitely say that object oriented concepts\
+    \ are important to know as well, as there are a huge amount of projects out there\
+    \ using object oriented languages & designs.  I hesitated to put it in the list\
+    \ because if you already know C, the only big computer science concept you gain\
+    \ from Java or C# is object oriented programming - which is important, but is\
+    \ only one of the many big ideas in CS.\r\n\r\n@Elvis  Good point.  A multi-paradigm\
+    \ language / category would be a good addition to the list.  Erlang and Scala\
+    \ are both significantly different to the categories above to warrant a separate\
+    \ category.  I felt a bit uncomfortable including them not because they don't\
+    \ belong in an Essential Programmer's Toolbox, but because I haven't done a significant\
+    \ amount of programming in either of them to write about them in a way that does\
+    \ them justice.  But hey, thats what comments are for - to point out any short-comings\
+    \ in the post and add your own ideas.        \r\n\r\nAnd tangentially, I wonder\
+    \ if omitting Scala, the darling of dzone, is what is causing the controversial\
+    \ voting (6 ups and 5 downs as I write this).  In a list like this, there is bound\
+    \ to be some difference of opinion.  So I'm wondering what others would add or\
+    \ change about the list?  *crosses fingers hoping not to start a language flamewar*",
+  name: Jess Johnson, parent: 0, post_ID: 25, subscribe: N, url: 'http://grokcode.com'}

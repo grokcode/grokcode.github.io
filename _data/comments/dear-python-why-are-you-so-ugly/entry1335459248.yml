@@ -1,0 +1,12 @@
+{_id: 70557, approved: 1, date: 1335459248, email: 8a9d0c522461ae0dd46e9f99fbb45724,
+  karma: 0, message: "Heh. Nice try.  You're comparing the top page of the Django\
+    \ documentation with the top page of the Rails documentation.  Have you looked\
+    \ at what it takes to actually find the information &amp; documentation you want?\
+    \   For example, let me show you:\r\n\r\nhttp://docs.python.org/\r\n\r\nvs.\r\n\
+    \r\nhttp://www.ruby-doc.org/stdlib-1.9.3/\r\n\r\nRuby's use of frames (yes, old-school\
+    \ HTML frames) is totally unacceptable.  Google results pop you down into a place\
+    \ where you can't navigate back up again.  Python is fully and well documented.\
+    \  Let's compare Rails vs. Django\r\n\r\nDjango Forms: https://docs.djangoproject.com/en/dev/topics/forms/?from=olddocs\r\
+    \nRails FormHelper: http://api.rubyonrails.org/classes/ActionView/Helpers/FormHelper.html\r\
+    \n\r\nPlease.  It's comical how ugly and poorly documented Rails is.", name: Steve
+    Lacy, parent: 0, post_ID: 746, subscribe: N, url: 'http://slacy.com/blog'}

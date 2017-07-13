@@ -1,0 +1,9 @@
+{_id: 33326, approved: 1, date: 1276154078, email: 9b2a268a36c2c6f580441116833a389c,
+  karma: 0, message: "Hi guys, you're doing a great job here!\r\n\r\nLike you all,\
+    \ I decided to write my own solver and thought I could share some benchmarks for\
+    \ 5 border edge types, 17 interior edge types (like the original game):\r\n9x9\
+    \ table - average time: 2.5 seconds\r\n10x10 table - average time: 155 seconds\r\
+    \n\r\nWhat are the best times for these settings yet?\r\n\r\nProblem probably\
+    \ cannot be solved for 16x16 but you don't know until you try. What's the best\
+    \ solver yet?\r\n\r\nRegards,\r\nMihai", name: Mihai Stanimir, parent: 0, post_ID: 10,
+  subscribe: Y, url: ''}

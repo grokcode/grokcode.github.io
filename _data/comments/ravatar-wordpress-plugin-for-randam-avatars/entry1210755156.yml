@@ -1,0 +1,10 @@
+{_id: 580, approved: 1, date: 1210755156, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: "Hi Rosina.  I took those options out of 2.5 since in 2.5 that\
+    \ is really the job of your theme.  The directions in the post above are all for\
+    \ pre 2.5 which is a bit confusing.  I'll edit them when I get a chance.\r\n\r\
+    \nIn order to edit the size of the ravatars, look in your theme for the line get_avatar.\
+    \ In the default theme the line is in coments.php and says get_avatar($comment,\
+    \ 32) Change 32 to the size you would like the avatars to be.  You can also add\
+    \ your html before and after get_avatar to help position the avatars.\r\n\r\n\
+    And thanks to everybody for their patience while getting the kinks sorted out.",
+  name: Jess Johnson, parent: 0, post_ID: 7, subscribe: N, url: 'http://grokcode.com'}

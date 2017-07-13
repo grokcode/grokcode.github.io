@@ -1,0 +1,8 @@
+{_id: 70661, approved: 1, date: 1345635516, email: 94ed5d5e57b647fd12047a0d8c784d54,
+  karma: 0, message: "I don't fully agree with the whitespace rule, as any decent\
+    \ diff tool has options to ignore whitespace changes. Conding style changes may\
+    \ be different tho. Anyway, it all depends of the context and changeset.\r\n\r\
+    \nFor notifying the team of new commits, if you are on Windows and use SVN, I\
+    \ love Vercue. It's a shame it doesn't support other version control systems like\
+    \ Mercurial or Git, I wonder if the author is going to work on it.", name: HB,
+  parent: 0, post_ID: 717, subscribe: N, url: ''}

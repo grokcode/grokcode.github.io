@@ -1,0 +1,22 @@
+{_id: 70566, approved: 1, date: 1335475090, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: "Hi ntlarson, \r\n\r\nThere are a few premises in the article:\r\
+    \n1 - That Python interfaces aren't as well designed as Ruby interfaces\r\n2 -\
+    \ This has an affect on the number of people who are willing to pay to build stuff\
+    \ in Python and on the number of people who learn Python.\r\n\r\nI'm not sure\
+    \ if you are disagreeing with #1 by saying that design is subjective, or if you\
+    \ are saying that it isn't really worth talking about why Python sites are less\
+    \ attractive, despite the fact that figuring that out could provide some solutions\
+    \ to #2.\r\n\r\nFirst, design is very subjective if we are only talking about\
+    \ \"making stuff pretty\", but stuff like UX/UI design can be done objectively\
+    \ by doing user studies and measuring stuff like bounce rates or conversion rates.\
+    \ One design is objectively better than another if a visitor can more easily find\
+    \ the information they need. I don't have access to any of the stats for the sites\
+    \ I mentioned in the article, so the only kind of comparisons I can make are more\
+    \ gut feeling ones. For me, stuff built using Ruby tends to be easier and more\
+    \ pleasant to use than stuff built using Python. That is a subjective statement,\
+    \ but I still think it's worthwhile to talk about (especially when coming from\
+    \ a Python developer).\r\n\r\nI also think it is worthwhile to speculate why this\
+    \ is the case, because coming up with some ideas could lead to solutions for improving\
+    \ the UI of stuff written in Python. That would be a good thing for the Python\
+    \ community.", name: Jess Johnson, parent: 70562, post_ID: 746, subscribe: N,
+  url: 'http://grokcode.com/'}

@@ -1,0 +1,31 @@
+{_id: 70830, approved: 1, date: 1387558048, email: afbfec51c5c907ee9781fb528f30a284,
+  karma: 0, message: "thanks for plugging IPython. One killer feature you haven't\
+    \ mentioned is the <pre>?</pre> (question mark). It's much easier to type that\
+    \ at the end of a function name to get the docstring for it. Try it by typing\r\
+    \n\r\n<pre>\r\nIn [1]: import os.path\r\n\r\nIn [2]: os.path?\r\nType:       module\r\
+    \nString Form:\r\nFile:       /usr/lib/python2.7/posixpath.py\r\nDocstring:\r\n\
+    Common operations on Posix pathnames.\r\n\r\nInstead of importing this module\
+    \ directly, import os and refer to\r\nthis module as os.path.  The \"os.path\"\
+    \ name is an alias for this\r\nmodule on Posix systems; on other systems (e.g.\
+    \ Mac, Windows),\r\nos.path provides the same operations in a manner specific\
+    \ to that\r\nplatform, and is an alias to another module (e.g. macpath, ntpath).\r\
+    \n\r\nSome of this can actually be useful on non-Posix systems too, e.g.\r\nfor\
+    \ manipulation of the pathname component of URLs.\r\n</pre>\r\n\r\nNow, if it's\
+    \ a pure-python module or function, you can actually type in two question marks,\
+    \ to get the source code:\r\n\r\n<pre>\r\n\r\nType:       module\r\nString Form:\r\
+    \nFile:       /usr/lib/python2.7/posixpath.py\r\nSource:\r\n\"\"\"Common operations\
+    \ on Posix pathnames.\r\n\r\nInstead of importing this module directly, import\
+    \ os and refer to\r\nthis module as os.path.  The \"os.path\" name is an alias\
+    \ for this\r\nmodule on Posix systems; on other systems (e.g. Mac, Windows),\r\
+    \nos.path provides the same operations in a manner specific to that\r\nplatform,\
+    \ and is an alias to another module (e.g. macpath, ntpath).\r\n\r\nSome of this\
+    \ can actually be useful on non-Posix systems too, e.g.\r\nfor manipulation of\
+    \ the pathname component of URLs.\r\n\"\"\"\r\n\r\nimport os\r\nimport sys\r\n\
+    import stat\r\nimport genericpath\r\nimport warnings\r\nfrom genericpath import\
+    \ *\r\n\r\ntry:\r\n    _unicode = unicode\r\n...\r\n</pre>\r\n\r\nAlso, as a quick\
+    \ note: <pre>%lprun</pre> is provided by <a href=\"http://pythonhosted.org/line_profiler/\"\
+    \ rel=\"nofollow\">line_profiler</a> by Robert Kern, and <pre>%memit</pre> and\
+    \ <pre>%mprun</a> are provided by <a href=\"https://pypi.python.org/pypi/memory_profiler\"\
+    \ rel=\"nofollow\">memory_profiler</a> by Fabian Pedrogosa and and Philippe Gervais,\
+    \ so you need to pip install those separately.", name: Paul Ivanov, parent: 0,
+  post_ID: 811, subscribe: N, url: 'http://pirsquared.org/'}

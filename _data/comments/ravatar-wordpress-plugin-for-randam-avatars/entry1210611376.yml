@@ -1,0 +1,6 @@
+{_id: 557, approved: 1, date: 1210611376, email: afd65b7ffa1d3a138747ffcb50e8357e,
+  karma: 0, message: "I get the following error message when trying to activate the\
+    \ plugin:\r\n\r\n<blockquote>Fatal error: Cannot redeclare get_avatar() (previously\
+    \ declared in /home/spesiell/public_html/wp-includes/pluggable.php:1217) in /home/spesiell/public_html/wp-content/plugins/ravatar/ravatars.php\
+    \ on line 44</blockquote>", name: Latterlig!, parent: 0, post_ID: 7, subscribe: N,
+  url: 'http://spesiell.org'}

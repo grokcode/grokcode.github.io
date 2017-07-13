@@ -1,0 +1,7 @@
+{_id: 252, approved: 1, date: 1207419454, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: '@JunuMagic It sounds like the line where you call ravatar_show
+    is outside of the comments loop.  Try finding the start of your comments loop
+    and then the closing } that matches with it.  There might be many nested matching
+    brackets inside of the loop that you can disregard.  Not sure how much sense that
+    makes if you are not a programmer, but I hope it helps.', name: Jess Johnson,
+  parent: 0, post_ID: 7, subscribe: N, url: 'http://grokcode.com'}

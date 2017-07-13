@@ -1,0 +1,5 @@
+{_id: 21667, approved: 1, date: 1253626891, email: 43072573fba33595e20a82c086d6df07,
+  karma: 0, message: "Problem 2\r\n<blockquote>\r\n#(zero? (mod % 2))\r\n</blockquote>\r\
+    \n\r\nHow about more elegant\r\n<blockquote>\r\n#(even? %)\r\n</blockquote>\r\n\
+    \r\nThere is also companion odd? predicate.\r\n\r\n-Alen", name: Alen, parent: 0,
+  post_ID: 367, subscribe: N, url: ''}

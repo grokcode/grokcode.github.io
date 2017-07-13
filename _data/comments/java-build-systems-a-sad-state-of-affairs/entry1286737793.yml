@@ -1,0 +1,10 @@
+{_id: 46401, approved: 1, date: 1286737793, email: ee2f8748f7766805b4c5d793f090816e,
+  karma: 0, message: 'I chose Gradle as well over Maven and the others. Someone mentioned
+    poor docs for Gradle which is baffling to me. Gradle has very good docs. Gradle
+    has the obvious benefit of Groovy, Ivy based dependency management, and full access
+    to Ant tasks and extensions for backward compatibility. Another big win is project
+    dependencies where you can specify dependencies to other projects on the file
+    system. If you make a change in one project and compile the other, everything
+    will be compiled as needed. Maven is a nightmare if you have multiple projects
+    that are being actively developed together.', name: Bryan, parent: 0, post_ID: 538,
+  subscribe: N, url: ''}

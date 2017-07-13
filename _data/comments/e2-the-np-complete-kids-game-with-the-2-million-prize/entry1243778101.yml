@@ -1,0 +1,6 @@
+{_id: 18869, approved: 1, date: 1243778101, email: e4303e28f953b33b3ed461bc56d63719,
+  karma: 0, message: "Board size (pieces quantity) is not the main cause of complexity,\
+    \ the pieces types and patterns quantity are more determinant.\r\n\r\nPlease run\
+    \ your solver with these pieces/patterns and use the first hint only:\r\nhttp://grok-code.com/downloads/B8x8With2Hints.txt\r\
+    \n\r\nI bet it takes more than a second to solve it. ^^", name: dPUNiSH3R, parent: 0,
+  post_ID: 10, subscribe: Y, url: ''}

@@ -8,7 +8,7 @@
         {{ comment.name }}
       {% endif %}
     </h5>
-    <span class="date">{{ comment.date | date: "%k:%M %Z %Y-%m-%d" }}</span>
+    <span class="date">{{ comment.date | date: "%l:%M %P %Z, %Y-%m-%d" }}</span>
     <div class="comment-content">{{ comment.message }}</div>
   </div>
 </li>

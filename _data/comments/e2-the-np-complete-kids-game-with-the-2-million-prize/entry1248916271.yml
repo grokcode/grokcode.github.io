@@ -1,0 +1,14 @@
+{_id: 20170, approved: 1, date: 1248916271, email: 7889b0c635d65d79568107ac83e20a57,
+  karma: 0, message: 'P-E-X.  Thanks for your reply.  Yes, I was allowing for that.  For
+    the grok 8x8 there are 24 edges but only 3 different colours, so on average 8
+    possible candidates for first 3 edges, then 7 for the next 3.  For centre pieces
+    where you already have 2 sides to match the expected number of candidates is 34
+    (pieces left) x4 (rotation) /8^2 = 2.125, since there are 8 different colours
+    on centre pieces, hence the 2^16 in my formula.  I threw together some code to
+    do a recursive backtrack and that verified my numbers.  I think the answer is
+    that the hint pieces reduce the number of nodes (by piece 25) from 400bn by a
+    factor of 8^4, so to around 100m.  I found a paper that suggests most alogorithms
+    handle around 4m nodes per second, so with the hints the run-time is OK.  But
+    I still don''t understand how dPUNiSH3R can solve in 5 secs.  Implication is that
+    there are some short cuts, which is what I''m interested in.', name: Chilly, parent: 0,
+  post_ID: 10, subscribe: Y, url: ''}

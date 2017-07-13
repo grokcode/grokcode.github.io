@@ -1,0 +1,9 @@
+{_id: 824, approved: 1, date: 1213718524, email: 59c933b6522c93be73d78c275fcbe9b0,
+  karma: 0, message: "I've found the solution to Sarahe's problem, where only the\
+    \ corner of a ravatar displays the image while the rest is black. The problem\
+    \ lies in the line: define(\"AVATAR_SIZE\",           '80');  on line 15 of ravatars.php.\
+    \ Change this to the desired size (in Sarahe's case, 100), so that it matches\
+    \ the setting. When the value matches the avatar size of the theme, it should\
+    \ return the image in the right size... or at least, it fixed my problem when\
+    \ I changed that.\r\n\r\nKeep up the good work jess, I'll be watching for the\
+    \ next version!", name: Gatero, parent: 0, post_ID: 7, subscribe: N, url: ''}

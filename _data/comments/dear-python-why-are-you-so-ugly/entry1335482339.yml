@@ -1,0 +1,21 @@
+{_id: 70569, approved: 1, date: 1335482339, email: 75b0d3114415c5c594478ddd2437c724,
+  karma: 0, message: "I agree with much of what you say. In fact I only disagree with\
+    \ the aspect that the lack of good design is fundamentally related to the Python\
+    \ programming language itself. \r\n\r\nAs to your first point, perhaps I am not\
+    \ understanding exactly what interfaces you are referring to, but from my experience,\
+    \ the interfaces on the back end language have little to do with the overall style\
+    \ of the front end as that is handled by other technologies. If you are referring\
+    \ to frameworks and the interfaces thereof (i.e. templating engines, routing protocols\
+    \ etc) then those should be discussed directly not bypassed to discuss python...\
+    \ e.g. compare Rails to Django or Pylons/Pyramid or Flask, not Python to Ruby.\r\
+    \n\r\nI do agree with your second point. Just as I take away a first impression\
+    \ about a company when I see its site, I can certainly understand how the number\
+    \ of sites with less than ideal style can affect the overall impression of python\
+    \ based sites. I am not saying its not worth discussing why the number of python\
+    \ sites are seemingly more poorly designed, only that the discussion is better\
+    \ framed around teaching/encouraging good design principles. This along with resources\
+    \ to learn the associated technologies for implementing front end design will\
+    \ reduce the risk of people seeing articles like this and thinking its a fundamental\
+    \ aspect of Python and so walk away from learning it or thinking that if they\
+    \ learned something else they will automatically have better designed sites.",
+  name: ntlarson, parent: 70566, post_ID: 746, subscribe: Y, url: ''}

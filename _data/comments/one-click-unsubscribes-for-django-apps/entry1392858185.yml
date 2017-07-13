@@ -1,0 +1,8 @@
+{_id: 70885, approved: 1, date: 1392858185, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: 'If the email is made public, people or bots who click on the
+    link would be able to unsubscribe the original person who received the email.
+    So by saying that it is only valid for two days, it should give the person who
+    received the email time to do the one click unsubscribe while preventing some
+    of the problems if the email is made public. You can adjust the window up or down
+    as needed, or remove it completely depending on your application.', name: Jess
+    Johnson, parent: 70872, post_ID: 819, subscribe: N, url: 'http://grokcode.com/about'}

@@ -1,0 +1,11 @@
+{_id: 70804, approved: 1, date: 1380602572, email: 454cea4c773e4e7ef6ceeb7ef0e18bd9,
+  karma: 0, message: "if \"puts\" is your only example of how ruby is more like a\
+    \ natural language then i despair, because every time I look at ruby code:\r\n\
+    \r\nI think wtf is the colon doing before that word? what does it mean? (in english\
+    \ a colon after a word means that there is a list of related information\r\n\r\
+    \nWhen I see pipe character, I mentally think oh they are passing information\
+    \ into this new variable... but the subtle difference is that this is actually\
+    \ the beginning of a multi line lambda.\r\n\r\n\r\nRuby may have tried to be a\
+    \ natural language, but it fails miserably, ends up being so littered with characters\
+    \ in places that are just plain confusing to grok.", name: airtonix, parent: 70610,
+  post_ID: 746, subscribe: N, url: ''}

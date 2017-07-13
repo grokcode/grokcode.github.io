@@ -1,0 +1,11 @@
+{_id: 70547, approved: 1, date: 1335453356, email: 75b0d3114415c5c594478ddd2437c724,
+  karma: 0, message: 'I respectfully disagree. As a python developer I take exception
+    to the idea that poorly designed front ends are in any way connected to the back
+    end language. Web design and development are comprised of two distinct areas the
+    back end and front end. The back end, regardless of language, takes input, process
+    that input and/or retrieves data, and pushes it back to the front end via a template
+    of one form or another. The front end is then responsible for the layout and style
+    thereby creating the user experience via HTML, JavaScript, and CSS. The point
+    is that while I would agree many sites based on python are not that attractive
+    its a reflection of the developers background and intent, not the server side
+    language they used.', name: ntlarson, parent: 0, post_ID: 746, subscribe: Y, url: ''}

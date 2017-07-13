@@ -1,0 +1,6 @@
+{_id: 47804, approved: 1, date: 1287487327, email: 72b72239593a57ad797bee265daac2b2,
+  karma: 0, message: "With the following small changes, the code runs even faster:\r\
+    \n\r\n<code>\r\n(defn factor [num]\r\n  (loop [n num cur 2]\r\n    (if (= n cur)\r\
+    \n    n\r\n    (if (zero? (rem n cur))\r\n      (recur (quot n cur) cur)\r\n \
+    \     (recur n (inc cur))))))\r\n</code>", name: klang, parent: 0, post_ID: 367,
+  subscribe: Y, url: ''}

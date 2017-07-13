@@ -1,0 +1,6 @@
+{_id: 45666, approved: 1, date: 1286279612, email: 9fbd3eb69f978b77c1bd66436971cdb2,
+  karma: 0, message: 'We''ve been working on a build alternative for clojure called
+    cake, which is heavily inspired by rake. It could also be a java solution if you
+    don''t mind writing builds in clojure. It''s dependency based and compatible with
+    maven repos, making heavy use the ant api and maven ant tasks internally. http://github.com/ninjudd/cake',
+  name: lance bradley, parent: 0, post_ID: 538, subscribe: N, url: ''}

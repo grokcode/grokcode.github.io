@@ -1,0 +1,8 @@
+{_id: 45684, approved: 1, date: 1286283601, email: 2beea56f39f098c58dd47db1fdf8a8b9,
+  karma: 0, message: "JavaScript is the answer!\r\n\r\nUse inline JavaScript in your\
+    \ ant build files. You'll want Ant 1.7 + Java 1.6, but that's not too hard a requirement\
+    \ these days. Then, every time you hit something hard to do in ant's xml, drop\
+    \ into JS and code away in that. You get full access to all the ant tasks, targets\
+    \ and variables, plus you can set your own properties to be used by java when\
+    \ you're done. It's so much easier than the old way of using custom tasks and\
+    \ targets in java", name: Nick Burch, parent: 0, post_ID: 538, subscribe: N, url: ''}

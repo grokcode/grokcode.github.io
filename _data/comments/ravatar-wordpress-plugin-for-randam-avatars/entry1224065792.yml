@@ -1,0 +1,10 @@
+{_id: 2290, approved: 1, date: 1224065792, email: 9ec0bedd15f079dfccd83f98aea2f070,
+  karma: 0, message: "Hi,\r\n\r\nThanks for creating and sharing this awesome plugin,\
+    \ It's just what I was looking for, but I was wondering if there any way to assign\
+    \ a different image class and have two seperate instances of the ravatars so I\
+    \ can control them independantly..\r\n\r\nOn my blog I have smaller sized ravatars\
+    \ showing up with the recent comments on front page, but whatever changes I make\
+    \ to the img.ravatar affects the ravatars on single post comment loop too and\
+    \ they go all whacky sort of thing. It's on a local server at the moment, but\
+    \ Im hoping to upload it later.\r\n\r\nMany Thanks, this plugin rocks.\r\n\r\n\
+    Martin", name: Martin, parent: 0, post_ID: 7, subscribe: N, url: ''}

@@ -1,0 +1,6 @@
+{_id: 70725, approved: 1, date: 1353511459, email: ae88614e25190aa765cb95b2e6c35f48,
+  karma: 0, message: "I've seen many TDDers write terrible code, all of them falling\
+    \ for the myth that testability=good design.\r\n\r\nThis is wrong. Testability\
+    \ is a tiny part.  It's been overwhelmingly my experience that TDDed code has\
+    \ to be re-written by others within only a couple of sprints became its so bad.",
+  name: shmoo, parent: 0, post_ID: 439, subscribe: N, url: ''}

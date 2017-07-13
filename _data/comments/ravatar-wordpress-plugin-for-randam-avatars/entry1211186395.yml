@@ -1,0 +1,8 @@
+{_id: 601, approved: 1, date: 1211186395, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: "@Gene there are a few things you can check to help narrow down\
+    \ the problem:\r\n\r\nIs Ravatars able to create any avatars i.e. is there anything\
+    \ in the cache directory?\r\n\r\nDo a view source on your page and look for a\
+    \ line like:\r\nimg class=\u2019ravatar\u2019 border=\u201D src=\u2019http://grok-code.com/wp-content/plugins/ravatars/cache/c4bb682be6f940454.png\u2019\
+    \ width=\u201980\u2032 height=\u201980\u2032 alt=\u201D\r\n\r\nWhat is the img\
+    \ source it is trying to use?", name: Jess Johnson, parent: 0, post_ID: 7, subscribe: N,
+  url: 'http://grokcode.com'}

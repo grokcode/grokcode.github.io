@@ -1,0 +1,12 @@
+{_id: 18866, approved: 1, date: 1243773718, email: b86319b6b8452bf629485f4bc7bb15ad,
+  karma: 0, message: "I benchmarked my solver. I don't have ms timing (aiming for\
+    \ high) and mine supports only one hint piece (still under development)\r\n\r\n\
+    All test were run on single thread, no multithreading supported at the moment,\
+    \ on Core 2 Duo 4300 1,8ghz\r\n\r\n50 Runs 8x8, one hint piece, 5 border types,\
+    \ 18 center types:\r\nAll 50 runs took less than second, timer was always: 0 seconds\r\
+    \n\r\n50 Runs 10x10, one hint piece, 5 border types, 18 center types:\r\n- Most\
+    \ of runs took less than second to complete.\r\n- Longest run: 39secs\r\n- There\
+    \ were only few of those long runs 39, 26, 8 secs all other where lesser than\
+    \ that.\r\n- Average time: 3,08 sec for 50 runs. \r\n\r\nUse the power (of the\
+    \ algorithm)\r\nMine has always correct corner piece :-)", name: P-E-X, parent: 0,
+  post_ID: 10, subscribe: Y, url: ''}

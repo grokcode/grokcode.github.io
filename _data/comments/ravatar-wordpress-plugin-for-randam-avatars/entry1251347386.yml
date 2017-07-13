@@ -1,0 +1,6 @@
+{_id: 20823, approved: 1, date: 1251347386, email: 1296d000be4b90d53992b59267c917cf,
+  karma: 0, message: "Small update:\r\nI've tried using the\r\n<code>ravatar_show($comment-&gt;comment_author_email,\
+    \ '160');</code>\r\nfunction, and the avatars show up as black squares.\r\n\r\n\
+    I'm using PNG's with transparency, could that be an issue?\r\nIn the description\
+    \ you said PNG are supported, and the black squares show up in FF as well as IE",
+  name: Toma, parent: 0, post_ID: 7, subscribe: N, url: 'http://questionofsize.com'}

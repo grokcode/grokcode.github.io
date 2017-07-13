@@ -1,0 +1,20 @@
+{_id: 56210, approved: 1, date: 1291304439, email: 295f0d427a1d2a81cc165af791ec74ac,
+  karma: 0, message: "Why did they declare the project done and ship with so many\
+    \ outstanding bugs?\r\nWhy, indeed! To my mind, \"done\" means \"feature complete\
+    \ and free of defects.\"  Hell, I could build a spaceship in a week if it doesn't\
+    \ have to actually work. \"Survive the stress of lift-off or the heat of atmospheric\
+    \ re-entry? Well, we didn't exactly test for that...\"\r\n\r\nAnd if the project\
+    \ is truly calendar-bound, then I would challenge the client for a smaller featurelist\
+    \ -- build fewer <i>reliable</i> features. It may not do as much, but what is\
+    \ there works. Well.  But then, I use an Agile approach which strives for maximum\
+    \ transparency. The client knows exactly what is possible based on the team's\
+    \ velocity and we simply reflect reality, not wishful thinking. We don't \"hope\"\
+    \ for good results and settle for whatever happens. IMO that's just unprofessional.\r\
+    \n\r\nI, too, would be interested in the point Bryan raised -- what happens when\
+    \ it's time to build v2 or v3? IMO, bugs are like an infection -- the longer that\
+    \ bugs are allowed to fester, the more deeper their impact and the greater the\
+    \ difficulty when it comes time to solving them due to side effects. Similar to\
+    \ poor design decisions. A shortcut which \"saves time\" up front can cost many\
+    \ hours/days later due to shortcomings.\r\n\r\nAs an aside, I simply LOVE the\
+    \ \"Programmers/Coders at work\" series for the insights into the minds and working\
+    \ styles.", name: Jon, parent: 0, post_ID: 439, subscribe: N, url: ''}

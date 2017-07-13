@@ -1,0 +1,5 @@
+{_id: 5, approved: 1, date: 1201484638, email: 3997a9287c8b3f2c1d0805aca5d2fea7, karma: 0,
+  message: "Seems a very cool plugin, however i get an error:\r\nFatal error: Call\
+    \ to undefined function: scandir() in /home/blablabla/public_html/wp-content/plugins/ravatars/ravatars.php\
+    \ on line 243\r\n\r\nSomething to do with file-permissions?", name: Yuri Maanzand,
+  parent: 0, post_ID: 7, subscribe: N, url: 'http://maanzand.com'}

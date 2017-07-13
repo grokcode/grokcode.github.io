@@ -1,0 +1,6 @@
+{_id: 569, approved: 1, date: 1210685581, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: "Hrmmm.  The plugin should be looking for '/blah/wp-content/plugins/ravatars/cache'\
+    \ so something funny is going on here.  What are the permissions of that directory?\
+    \ What is your PHP version (your hosting company should be able to tell you)?\
+    \ \r\n\r\nDoes the error message have a line number? Please give me the entire\
+    \ error message.", name: Jess Johnson, parent: 0, post_ID: 7, subscribe: N, url: 'http://grokcode.com'}

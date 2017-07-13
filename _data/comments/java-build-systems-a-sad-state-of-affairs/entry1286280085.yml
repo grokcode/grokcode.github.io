@@ -1,0 +1,12 @@
+{_id: 45671, approved: 1, date: 1286280085, email: 6ab279bbae0d97c26d3663908e22c1c7,
+  karma: 0, message: "@Benjamin,\r\n\r\nI didn't spend any time with Gant once I saw\
+    \ there was no documentation.  It looks like a wrapper around AntBuilder.  I've\
+    \ noticed that Gant is bundled with some distributions of Groovy.\r\n\r\nAnt is\
+    \ adequate for building binaries.  What I really need is a better way of starting\
+    \ and stopping servers and cleaning deployment directories.  With Ant it is difficult\
+    \ to do things like \r\n\r\n    check if a server is running\r\n    Start it if\
+    \ it is not running\r\n    Shut down the server if it is running\r\n    Wait until\
+    \ the server is stopped to clean the deploy directories\r\n\r\nAnything requiring\
+    \ if ... else logic is awkward in Ant.\r\n\r\nGroovy with AntBuilder should give\
+    \ me what I need for these basic tasks.", name: Dean Schulze, parent: 0, post_ID: 538,
+  subscribe: Y, url: ''}

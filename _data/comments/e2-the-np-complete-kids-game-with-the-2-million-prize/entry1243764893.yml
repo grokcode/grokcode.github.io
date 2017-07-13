@@ -1,0 +1,10 @@
+{_id: 18862, approved: 1, date: 1243764893, email: e4303e28f953b33b3ed461bc56d63719,
+  karma: 0, message: "P-E-X How long it takes to solve 10x10 with 3 hints? And the\
+    \ 8x8 with 2 hints?  (With the puzzle definition used here in GrokCode benchmarks)\r\
+    \nAfter tuning and optimizing my code, I dropped solving time... example: 8x8\
+    \ 2 hints from 246 seconds (see above) now in less than 5 seconds! Starting with\
+    \ 4 possible corners in a quad core and 9-10 million pieces/second performance\
+    \ solver, invalid starter corner detected in less than 81 seconds and a solution\
+    \ found in 5 seconds with right corner.\r\nhttp://img193.imageshack.us/img193/4313/grok8x82hints.jpg\r\
+    \n\r\nbut Eii is impossible :(", name: dPUNiSH3R, parent: 0, post_ID: 10, subscribe: Y,
+  url: ''}

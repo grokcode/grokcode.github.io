@@ -1,0 +1,7 @@
+{_id: 70680, approved: 1, date: 1349674559, email: ca433142386fe814075e37027dccde0a,
+  karma: 0, message: just one more thing to point out that there was no file named
+    default.conf in location /etc/nginx/conf.d. So what I did was moved the files
+    in location /etc/nginx/sites-avalaible which had name default and another location
+    /etc/nginx/sites-enabled with the same name default to default.back and then I
+    restarted nginx but I still got the same 404 error page, name: saad, parent: 70679,
+  post_ID: 784, subscribe: Y, url: 'http://saadbinakhlaq.wordpress.com'}

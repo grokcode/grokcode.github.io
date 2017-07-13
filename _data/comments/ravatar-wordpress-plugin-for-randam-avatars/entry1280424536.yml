@@ -1,0 +1,9 @@
+{_id: 36729, approved: 1, date: 1280424536, email: 7c4b637ba7f84ccbd51230c275e14945,
+  karma: 0, message: "Hey Jess, this is a fabulous plugin.  Thanks for all the work\
+    \ you've put into it.  If you've got time and energy, it would be brilliant to\
+    \ have an update that can grab avatars from other sources in addition to Gravatar,\
+    \ in case people already have them.\r\n\r\n@Kelly and @wwwindi, I think all you\
+    \ have to do is upload your 80x80 jpgs into the image folder (plugins/ravatar/parts).\
+    \  That way you'll have control over what bits get shown.  At least, that seemed\
+    \ to work for me when I tried it.", name: Kath, parent: 0, post_ID: 7, subscribe: Y,
+  url: 'http://www.breadbookutopia.com'}

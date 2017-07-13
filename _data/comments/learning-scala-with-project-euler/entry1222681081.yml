@@ -1,0 +1,5 @@
+{_id: 2051, approved: 1, date: 1222681081, email: 445ace8984fda2238e264aa95b0d8c5c,
+  karma: 0, message: "How does this filter out the multiples of 15? Does FoldLeft\
+    \ remove duplicates?\r\n\r\n (1 until 1000).filter(n =&gt; n % 3 == 0 || n % 5\
+    \ == 0).foldLeft(0)(_ + _)", name: Jim H, parent: 0, post_ID: 75, subscribe: N,
+  url: ''}

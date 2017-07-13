@@ -1,0 +1,9 @@
+{_id: 20821, approved: 1, date: 1251346855, email: 1296d000be4b90d53992b59267c917cf,
+  karma: 0, message: "Hello\r\nI have a little problem with this great plugin:\r\n\
+    in the options page i get no options to set the size, CSS code or anything for\
+    \ the avatars.\r\n\r\nI just have the Gravatar support checkboxes, and the Clear\
+    \ Cache button.\r\n\r\nI'm using WP 2.8.1, with Ninjamonkey theme (a widget-enabled\
+    \ Hemingway).\r\nIn the comments.php file of this theme there's no get_avatars\
+    \ function, but i tried adding it and got some of the avatars to show, however\
+    \ the options page did not change.\r\n\r\nPlease help\r\nThanks", name: Toma,
+  parent: 0, post_ID: 7, subscribe: N, url: 'http://questionofsize.com'}

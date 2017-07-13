@@ -1,0 +1,18 @@
+{_id: 819, approved: 1, date: 1213673311, email: 59c933b6522c93be73d78c275fcbe9b0,
+  karma: 0, message: "@jess: Thank you for your work on this, this is one of the best\
+    \ plugin ideas out there. All it needs is a little tweak... I read your dialogue\
+    \ with Evern, who wanted non-cropped random avatars. Allowing people to simply\
+    \ have an uncropped random avatar assigned to guests from a directory would be\
+    \ great.\r\n\r\nPersonally, I'd just like to get some small .gifs going for mine.\
+    \ I'm not too good with code, so it's a trial-and-error process... Whatever Evern\
+    \ did to make it work ain't workin' for me. I'm trying to figure out what I can\
+    \ break that would stop the generation process and just return whole avatars,\
+    \ and possibly allow animated .gifs. 'Don't suppose I could bother you for some\
+    \ pointers could I?\r\n\r\n\r\n@Sheta: I think I know what your problem might\
+    \ be (hope you're not still dealing with too much trouble by now). I had the same\
+    \ thing happening to me, where images wouldn't appear on public comments but they\
+    \ would show up when managing comments. It turned out that it was my theme's comments.php\
+    \ file that was the cause. Try switching to a different theme; if avatars show\
+    \ up then it's probably that your current theme's comments.php file is missing\
+    \ this:  Once I figured out where to put that, it was all fixed.", name: Gatero,
+  parent: 0, post_ID: 7, subscribe: N, url: ''}

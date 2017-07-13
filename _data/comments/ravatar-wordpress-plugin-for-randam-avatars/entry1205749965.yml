@@ -1,0 +1,7 @@
+{_id: 202, approved: 1, date: 1205749965, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: '@Yuri I saw the same behavior here on GrokCode, which is why
+    I currently have Gravatar support disabled.  I suspect the problem stems from
+    a change in the gravatars API.  Gravatars was recently <a href="http://blog.gravatar.com/2008/03/14/big-changes-afoot/"
+    rel="nofollow">totally rewritten</a>.  I''ll be updating the Ravatars plugin within
+    the next few days to fix the issue.  Thanks once again for the feedback!', name: Jess
+    Johnson, parent: 0, post_ID: 7, subscribe: N, url: 'http://grokcode.com'}

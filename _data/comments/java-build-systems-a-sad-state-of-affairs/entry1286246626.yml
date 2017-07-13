@@ -1,0 +1,5 @@
+{_id: 45572, approved: 1, date: 1286246626, email: 85af3cb1fb8076180db3ab964c9699ed,
+  karma: 0, message: "DRY is about having a single authoritative place where something\
+    \ is defined or configured, not about syntax and grammar.\r\n\r\nYou should try\
+    \ to make your point without appealing to DRY.", name: Mikel, parent: 0, post_ID: 538,
+  subscribe: Y, url: 'http://mikelward.com'}

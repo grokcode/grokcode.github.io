@@ -1,0 +1,9 @@
+{_id: 70701, approved: 1, date: 1352465101, email: ef5ab33bba8dd9ca281e42c7a1642113,
+  karma: 0, message: "This deploy model will overwrite the old version of the deployment\
+    \ on the server. I feel very uneasy when I can't roll back deployments. \r\nAlso,\
+    \ if your application consists of many files, it can happen that a request uses\
+    \ an inconsistent version of our app (old and new files mixed together), leading\
+    \ to strange, non-reproducible errors.\r\n\r\nIt would be relatively easy however\
+    \ to incorporate a Capistrano-like mechanism where the new directory is exported\
+    \ to a timestamped directory which is then symlinked to.", name: Gabriel, parent: 0,
+  post_ID: 792, subscribe: Y, url: 'http://lebenplusplus.de/'}

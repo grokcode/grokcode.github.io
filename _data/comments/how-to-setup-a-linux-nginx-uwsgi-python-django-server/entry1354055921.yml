@@ -1,0 +1,35 @@
+{_id: 70731, approved: 1, date: 1354055921, email: 7ed02d61f5537a656134e868b154d997,
+  karma: 0, message: "Hey Jess,\r\n\r\nI really liked your tutorial, it helped me\
+    \ a lot!\r\n\r\nOnly I installed Satchmo (which is based on Django) instead of\
+    \ Django itself, which made some things a little bit more complicated. Also I\
+    \ did this on a Linux Mint station, which might have caused some minor inconsistencies.\r\
+    \n\r\nThe useradd line didn't work for me because I had no options --disabled-login\
+    \ and --disabled-password. I just removed the options, no problem. Also the group\
+    \ 'nginx' didn't excist on my system so I had to make it first with \"addgroup\
+    \ nginx\".\r\n\r\nI didn't get the use of the virtual environment right away.\
+    \ And I couldn't find the requirements.txt in my Satchmo project, so I didn't\
+    \ really know what was going on. Ultimately I just installed all the requirements\
+    \ for Satchmo the same way I did for the development install (which is quite a\
+    \ hassle, hence I was a bit surprised I had to do it all again).\r\n\r\nI also\
+    \ didn't understand how to get Satchmo working on the virtual environment. Only\
+    \ after finding out that:\r\nuwsgi_param UWSGI_MODULE .wsgi:application;\r\nWill\
+    \ look for the wsgi.py file in the  directory relative to the UWSGI_CHDIR directory,\
+    \ I managed to make it work. If you don't know what's going on exactly, it's pretty\
+    \ hard to find out.\r\n\r\nI had PostgreSQL already installed before I found your\
+    \ article so I haven't used your description, but I can say that my pg_hba.conf\
+    \ used the authentication method 'peer' by default, which uses the os's username\
+    \ as the postgres username, which won't work if you haven't given that user (which\
+    \ would be user 'uwsgi') rights (or even created it as a user for postgres) to\
+    \ your database. I fixed it by using the method 'md5' and setting a password for\
+    \ the user 'postgres' and used these settings in the Satchmo's local_settings.py.\r\
+    \n\r\nAfter these fixes it worked for me on my localhost, however, when I checked\
+    \ out my project using a different hostname, I got an \"Can't extract file(s)\
+    \ to egg cache\" error. It turned out Satchmo used a module that needs to extract\
+    \ python eggs, and will use the PYTHON_EGG_CACHE environment variable for that,\
+    \ which is default set to ~/.python-eggs, which would be /home/uwsgi/.python-eggs\
+    \ since user uwsgi is running the process. And we didn't make the home dir for\
+    \ uwsgi so it breaks. I fixed it by creating the uwsgi dir (preventing possible\
+    \ similar errors). However, you can also set PYTHON_EGG_CACHE to /tmp or something\
+    \ else.\r\n\r\nI hope some other people will have use of my solutions. Comments\
+    \ are welcome too of course!\r\n\r\nCheers,\r\nRik", name: Rik, parent: 0, post_ID: 784,
+  subscribe: Y, url: ''}

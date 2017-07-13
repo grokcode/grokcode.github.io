@@ -1,0 +1,11 @@
+{_id: 26001, approved: 1, date: 1262784180, email: b86319b6b8452bf629485f4bc7bb15ad,
+  karma: 0, message: "This was an idea...\r\n\r\n<code>\r\n X   X   X   X\r\nXW3 3B1\
+    \ 1W4 4BX\r\n 4   3   2   1\r\n\r\n 4   3   2   1\r\nXB1 1W3 3B1 1WX\r\n X   X\
+    \   X   X\r\n\r\nStyle White Black\r\n  1     4     4\r\n  2     1     1\r\n \
+    \ 3     3     3\r\n  4     2     2\r\n</code>\r\n\r\nNumber of pieces must be\
+    \ even\r\nX:s aren't noted here because they dont got any pair.\r\n\r\nThoughts:\r\
+    \nMaybe pieces could be sorted to two piles black and white. Then try to solve\
+    \ the piece locations. Number of possible pieces is only half of it used to be.\r\
+    \n8x8x8x8x8 = 32768\r\nBut:\r\n4x4x4x4x4 = 4096\r\n\r\nThis won't guarantine solution\
+    \ because there may be multiple even sorts of pieces..", name: P-E-X, parent: 0,
+  post_ID: 10, subscribe: Y, url: ''}

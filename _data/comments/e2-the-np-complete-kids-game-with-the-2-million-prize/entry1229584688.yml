@@ -1,0 +1,4 @@
+{_id: 3503, approved: 1, date: 1229584688, email: 4d6ff42e842415e61abb409264e14e7c,
+  karma: 0, message: 'These algorithms do not seem really efficient, a basic prolog
+    brute force one achieves better performances. I assume it is because of the built
+    in backtrack.', name: /\/, parent: 0, post_ID: 10, subscribe: Y, url: ''}

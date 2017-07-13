@@ -1,0 +1,8 @@
+{_id: 3485, approved: 1, date: 1229527016, email: 971dd423d7a625d707b90a68dfc6ef26,
+  karma: 0, message: "I downloaded and successfully installed ravatars to my site.\
+    \ However, when I uploaded my own images to the parts folder and then subsequently\
+    \ emptied the ravatars cache, no images appeared. \r\n\r\nI figured my images\
+    \ perhaps corrupted it, so I re-downloaded a fresh version of ravatars and uploaded\
+    \ it. Now the only time I see the ravatar, is in the edit comments admin window.\
+    \ Any ideas about how to get it up and running again?", name: wwwindi, parent: 0,
+  post_ID: 7, subscribe: Y, url: 'http://innerstellarmedium.com'}

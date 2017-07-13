@@ -1,0 +1,11 @@
+{_id: 70666, approved: 1, date: 1346239021, email: a96903744c6d4dffe5526c3474f61065,
+  karma: 0, message: "I strongly doubt, with admittedly only mostly anecdotal evidence\
+    \ and personal experience as justification, that giving the non-TDD teams more\
+    \ time will help much less than you'd expect, primarily because the people on\
+    \ those teams spend the extra time thinking about algorithms and data structures,\
+    \ rather than thinking about interfaces and behavior.\r\n\r\nIn other words, simply\
+    \ giving the non-TDD teams more time will not encourage them to think about the\
+    \ kinds of things that lead to asking \"Have we done everything we need to do\
+    \ yet?\" TDD provides but one mechanism to encourage people to ask this question\
+    \ -- indeed, it encourages people to make a habit out of asking this question.",
+  name: J. B. Rainsberger, parent: 0, post_ID: 439, subscribe: N, url: 'http://www.jbrains.ca'}

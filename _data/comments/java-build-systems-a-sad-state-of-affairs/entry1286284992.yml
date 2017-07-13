@@ -1,0 +1,8 @@
+{_id: 45687, approved: 1, date: 1286284992, email: 7fe9b2c763ac6280204d428c47c80af0,
+  karma: 0, message: "@MattB +1 on the versions *but* I've had Maven dependencies\
+    \ disappear on me from Maven Central before. In our shop we use Nexus and force\
+    \ all dependencies to come from there - nothing comes in automatically.\r\nFor\
+    \ the rest the I think article is spot on. Also note that some Maven plugins can\
+    \ be very poorly documented and/or the docs can be outdated. IMHO we still spend\
+    \ far too much time wrestling with our build tool to get it to do what we want.",
+  name: Ton van Bart, parent: 0, post_ID: 538, subscribe: Y, url: ''}

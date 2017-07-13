@@ -1,0 +1,16 @@
+{_id: 70665, approved: 1, date: 1346173732, email: 3f1d9f6f0d00a022d9fb1e78e6d324ec,
+  karma: 0, message: "Hi Jess,\r\n\r\nI'm ok with the lean startup notion of shipping\
+    \ code that's likely to be crappy. That's a calculated risk. The agile folks make\
+    \ the case for a different tradeoff--shipping a smaller feature set of high quality,\
+    \ then incrementing the product. Both can work; depends on the context.\r\n\r\n\
+    I'd done enough of both TDD and not TDD. It usually only takes me a couple days\
+    \ before I start recognizing time I'm wasting because I'm *not* doing TDD. If\
+    \ my spaceship was the only hope, TDD would start paying off a day or two in.\
+    \ I'd rather have a tool that prevented me from incorporating a major defect that\
+    \ would cause it to crash and burn before I smugly sent it up at the last minute.\r\
+    \n\r\nContrived examples aside, I've also seen shops that hacked together quite\
+    \ solutions and shipped them to some success. Years later, every developer cursed\
+    \ every minute of working on the software, now several hundred thousand lines\
+    \ built atop a core hack-base of maybe 50,000 lines of really shitty code.\r\n\
+    \r\nLack of quality costs far more in the long run.", name: Jeff L., parent: 67100,
+  post_ID: 439, subscribe: Y, url: 'http://langrsoft.com'}

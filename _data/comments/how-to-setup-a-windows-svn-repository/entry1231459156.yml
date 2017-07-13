@@ -1,0 +1,6 @@
+{_id: 4026, approved: 1, date: 1231459156, email: 088c1bd6142c57a3b09384fb4c7fc8d4,
+  karma: 0, message: 'in the beginning you are granting read privilege to /etc/password
+    (chmod +r /etc/passwd) and the ssh-host-config script failed with "created new
+    user sshd, but failed to add corresponding entry to /etc/passwd" - the solution
+    could be running "chmod +rw /etc/passwd" before ssh-host-config.', name: alexandrul,
+  parent: 0, post_ID: 115, subscribe: N, url: 'http://tde.110mb.com/'}

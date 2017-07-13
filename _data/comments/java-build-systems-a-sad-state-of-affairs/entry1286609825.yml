@@ -1,0 +1,12 @@
+{_id: 46227, approved: 1, date: 1286609825, email: 85fb233c00c0e5acaaf6bf4c8df27971,
+  karma: 0, message: 'I think maven has some fault for a non-reproducible build structure,
+    but not all.  Maven 3 is just released and has solved many problems of its predecessors.  Outside
+    of maven''s scope of control though is this concept of a global dependency tree.  Over
+    this past decade, open source projects have been transformed.  No longer is it
+    simply to build a stand-alone component.  Projects have dependencies on other
+    public projects.  The job of tracking dependencies is complex and needs to be
+    segmented.  Identifiying a project''s dependencies belongs to the projects producer,
+    not consumer.  Component producers must be brought to task for weak dependency
+    definitions.  Any dependency resolution tool suffers from the fault of the component
+    producers who neglect their own dependency tree.', name: john, parent: 0, post_ID: 538,
+  subscribe: N, url: ''}

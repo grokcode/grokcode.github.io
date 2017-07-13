@@ -1,0 +1,14 @@
+{_id: 620, approved: 1, date: 1211213389, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: "I think that section is to hide access to any stat files or\
+    \ log files that dreamhost was creating for you.  If your current host isn't using\
+    \  files or directories called stats or failed_auth.html you should be safe removing\
+    \ it.\r\n\r\nCan you give me a full list of all of the plugins you have installed\
+    \ so I can try to rule out plugin conflicts?\r\n\r\nI'm also going ask around\
+    \ a bit about your problem on a few mailing lists and see if anyone knows how\
+    \ to fix this.  We have ruled out file permissions and .htaccess problems, I can't\
+    \ think of what else could cause a 404 on the http://macnightowl.com/wp-content/plugins/ravatars/cache/eedf4ac9e08cd39ad.png\
+    \ URL.  Could you humor me and check one more time that that file really does\
+    \ exist?  Open it and make sure it's a normal image.\r\n\r\nOh and one more quick\
+    \ test.  Enable ravatars, then in the ravatars option panel, disable gravatars.\
+    \  Does that change anything?", name: Jess Johnson, parent: 0, post_ID: 7, subscribe: N,
+  url: 'http://grokcode.com'}

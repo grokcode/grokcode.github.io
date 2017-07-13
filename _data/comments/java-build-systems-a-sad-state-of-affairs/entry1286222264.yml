@@ -1,0 +1,12 @@
+{_id: 45512, approved: 1, date: 1286222264, email: 428eb874de93c748bda8232674a6a600,
+  karma: 0, message: "Maven does seems to do a good job of describing a simple project\
+    \ to an IDE, which is an important use case to me.\r\n\r\nI think there are some\
+    \ very valid criticisms or Maven which have fairly obvious fixes:\r\n\r\n1. Things\
+    \ can change without bumping their version number\r\n2. Maven itself can change\r\
+    \n\r\n1. is a repository management problem.  Well run repositories should refuse\
+    \ to update a (non-snapshot) published library without a version bump.\r\n\r\n\
+    2. Maven POM's should indicate which version of maven to run with and run with\
+    \ a fixed set of plugin's defined for that version.\r\n\r\nThe ant \"if\" syntax\
+    \ was a deliberate attempt to not support a particular build file style.  XSL\
+    \ is a more representative example of if in XML:\r\n\r\nhttp://www.w3schools.com/xsl/xsl_if.asp",
+  name: artsrc, parent: 0, post_ID: 538, subscribe: Y, url: ''}

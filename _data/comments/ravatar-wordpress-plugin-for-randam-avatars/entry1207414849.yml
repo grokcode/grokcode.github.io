@@ -1,0 +1,10 @@
+{_id: 245, approved: 1, date: 1207414849, email: c4bb682be6f94045498232469488ea2f,
+  karma: 0, message: "What kind of php code do you need to put around the \r\n\r\n\
+    ravatar_show($comment-&gt;comment_author_email);\r\n\r\ncomment_author_email);\
+    \ ?&gt;  ? Or something else? Because when I ONLY put the bit of code in that\
+    \ you recommend in the options page, it doesn't show anything at all.\r\n\r\n\
+    I want to use your plugin within Brian's nested comments, and I can't get it positioned\
+    \ properly using only CSS. So I'd really rather call it manually. But while I've\
+    \ done quite some fiddling with my theme files already, I'm not sure what kind\
+    \ of php code I need to get your ravatar_show to work.", name: JunoMagic, parent: 0,
+  post_ID: 7, subscribe: N, url: ''}

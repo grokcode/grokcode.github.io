@@ -1,0 +1,8 @@
+{_id: 347, approved: 1, date: 1208952051, email: 2f19158fd82ca2a554fbf2972e794d0c,
+  karma: 0, message: "I need to do exactly what is being demonstrated in the axis\
+    \ example but am unable to generate the proper stubs using axis2-1.3.  An example\
+    \ of the command I am trying is \r\n\r\n./wsdl2java.bat -ns2p http://marketing.ews.yahooapis.com/V4=com.yahoo.sm.ws.client\
+    \ -uri https://sandbox.marketing.ews.yahooapis.com/services/V4/AccountService?wsdl\
+    \ -o c:/workspace/YahooServicesClients/ -t -ss -g\r\n\r\nDo you have more information\
+    \ on this example? Is there sample code on how the LocationService is used?",
+  name: Mieke, parent: 0, post_ID: 5, subscribe: Y, url: ''}

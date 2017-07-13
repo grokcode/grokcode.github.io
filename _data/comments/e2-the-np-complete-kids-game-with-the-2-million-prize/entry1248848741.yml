@@ -1,0 +1,7 @@
+{_id: 20155, approved: 1, date: 1248848741, email: 7889b0c635d65d79568107ac83e20a57,
+  karma: 0, message: "Hi,\r\n\r\nI must be missing something here.  For the Grok 8x8,\
+    \ starting with a particular corner and ignoring hints I make the number of possible\
+    \ branches after placing 24 further tiles to make a 5x5 square approximately\r\
+    \n\r\n8^3 x 7^3 x 6^2 x 2^16 = 414 billion\r\n\r\nso even solving at 10 million\
+    \ branches per second would take several hours?\r\n\r\nWhat am I missing?", name: Chilly,
+  parent: 0, post_ID: 10, subscribe: Y, url: ''}

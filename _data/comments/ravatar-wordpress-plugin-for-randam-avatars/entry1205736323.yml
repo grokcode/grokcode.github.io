@@ -1,0 +1,8 @@
+{_id: 201, approved: 1, date: 1205736323, email: 3997a9287c8b3f2c1d0805aca5d2fea7,
+  karma: 0, message: "hmm - strange plugin behavior over here: http://maanzand.com\r\
+    \n- when i activate gravatar support in the ravatar options, it only shows icons\
+    \ from users with a gravatar, the other icons (out of the ravatar-cache) get the\
+    \ standard blue gravatar-logo\r\n- however, if i deactivate gravatar support,\
+    \ the blue-gravatar-logo-problem is gone, but - of course - there are no gravatars\
+    \ for users with a gravatar.\r\nany ideas?", name: Yuri Maanzand, parent: 0, post_ID: 7,
+  subscribe: N, url: 'http://maanzand.com'}

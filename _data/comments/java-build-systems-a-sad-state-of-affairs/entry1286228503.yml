@@ -1,0 +1,9 @@
+{_id: 45521, approved: 1, date: 1286228503, email: 06db81f02537377c4bb207cdf8fd18ec,
+  karma: 0, message: 'I dislike build files which suffer from the inner platform anti
+    pattern.  To me this was Ant largest failing.  Over the years each place I worked
+    with ant had their own convention for how ant projects built, but each was complex
+    and unique.  For all of mavens failings the convention aspect is well enforced,
+    and I''ve never seen a maven project that was horribly complex.  My concern with
+    using a touring complete language in a build env is that it opens itself up to
+    making more company specific plaforms..ie back to ant land.', name: chris, parent: 0,
+  post_ID: 538, subscribe: N, url: ''}

@@ -1,0 +1,12 @@
+{_id: 45561, approved: 1, date: 1286240677, email: fbb326354c5342e959753f953bbb70f8,
+  karma: 0, message: "Mikel:\r\n\r\nThe post doesn't say XML violates DRY, it says\
+    \ Ants implementation does, and then gives a specific example.\r\n\r\nHaving said\
+    \ that, it is pretty clear that XML does force the repetition of the tag, and\
+    \ that does introduce a class of error that SEXPs, for example, don't have:\r\n\
+    <code>\r\n\r\n  \r\n    Uh oh...\r\n  \r\n\r\n</code>\r\n\r\nvs\r\n\r\n<code>\r\
+    \n(tag1\r\n  (tag2\r\n     All clear here!\r\n  )\r\n)\r\n</code>\r\n\r\nI'm genuinely\
+    \ curious, where does the fear of turing complete build languages come from? I've\
+    \ occasionally been bitten by its lack, but never seen a hideous mess of a build\
+    \ file and thought \"Gosh, if only this build language didn't have arbitrary storage\
+    \ / unbounded recursion etc, this file would be so much more understandable.\"",
+  name: Mark, parent: 0, post_ID: 538, subscribe: N, url: 'http://everblankslate.com'}

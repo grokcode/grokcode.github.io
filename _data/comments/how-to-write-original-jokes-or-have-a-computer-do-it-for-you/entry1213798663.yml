@@ -1,0 +1,11 @@
+{_id: 831, approved: 1, date: 1213798663, email: 3c6cef91f7d2b85bb82a5d2e2626f3b8,
+  karma: 0, message: "\"More complete phonetic information. Some transformations rely\
+    \ on substitutions made by partial homophones. For example \u201Cmew\u201D (the\
+    \ noise a cat makes) is phonetically similar to the \u201Cmu\u201D in music, but\
+    \ it different from the \u201Cmu\u201D in murderer. There is currently no way\
+    \ to express this difference.\"\r\n\r\nOne way to express the difference between\
+    \ different syllabic phonetics is to include in the database of each word the\
+    \ IPA pronunciation. You may not be able to do exact IPA, but it shouldn't be\
+    \ hard to modify it slightly so the program can recognize the differences. Of\
+    \ course, this requires more work, but it's just an idea.\r\n\r\n-Aaron", name: Aaron,
+  parent: 0, post_ID: 12, subscribe: Y, url: ''}

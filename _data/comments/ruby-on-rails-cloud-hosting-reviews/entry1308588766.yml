@@ -1,0 +1,8 @@
+{_id: 70410, approved: 1, date: 1308588766, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: 'Yep, Heroku, Engine Yard, and DotCloud are all hosted on AWS
+    (not sure about Winnie Cloud), so they are all vulnerable to AWS outages. As of
+    the last big AWS outage, Engine Yard was the only one to have a multi-region failover
+    strategy. I don''t have enough experience to make general comments about the reliability
+    of the various platforms, but Engine Yard is better setup to weather problems
+    with the underlying AWS platform.', name: Jess Johnson, parent: 70409, post_ID: 709,
+  subscribe: N, url: 'http://grokcode.com/'}

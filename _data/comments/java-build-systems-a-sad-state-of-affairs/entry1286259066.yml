@@ -1,0 +1,26 @@
+{_id: 45606, approved: 1, date: 1286259066, email: 6b8b762261deb29d47ee556935846540,
+  karma: 0, message: "I don't accept that Maven is as non-deterministic as you claim.\
+    \  Please head over and have a look at wakaleo's \"maven mythbusters\" blog entries\
+    \ for a more level-headed look into issues such as those mentioned above... \r\
+    \n\r\ne.g.: http://www.wakaleo.com/component/content/article/246  (there's another\
+    \ one somewhere there too - the rest of his blog entries are also pretty interesting)..\r\
+    \n\r\nIt's good to be looking for better alternatives - necessity is the mother\
+    \ of invention and all that - but you should try and do it with a level head and\
+    \ a critical understanding of what already exists, and where the real shortfalls\
+    \ lie.  Unfortunately, discussions about build tools, like many things in the\
+    \ development world, seem to polarize people and this can make it hard to unpick\
+    \ the good points from the vitriol. \r\n\r\nI've personally found a combination\
+    \ of Maven + Ant offer everything that we want. We use Maven for libraries + some\
+    \ fairly large multi-module web-app builds.  We use Nexus as a local repository\
+    \ for internal and 3rd party artifacts, and as a cache of the public maven repo.\
+    \  We use Ant with a set of standardized scripts (along with the maven ant tools)\
+    \ for building the one or two standalone deployable apps/artifacts that we have.\
+    \  \r\n\r\nThis combination has so far worked very well for us - our ant build\
+    \ files basically boil down to a few includes + a few lines of config, the maven\
+    \ POM's are similarly simple.  New starters have the benefit of a completely standardised\
+    \ project structure which shortens the learning curve considerably from what would\
+    \ be required with a bespoke per-application build setup.  Where I work, that\
+    \ counts for a lot.  YMMV.\r\n\r\nAlso, as far as Maven goes, tooling helps a\
+    \ lot.  With M2Eclipse for example, you almost don't need to bother editing the\
+    \ .pom files manually or worrying about the XML tag soup any more :)", name: Dave,
+  parent: 0, post_ID: 538, subscribe: N, url: ''}

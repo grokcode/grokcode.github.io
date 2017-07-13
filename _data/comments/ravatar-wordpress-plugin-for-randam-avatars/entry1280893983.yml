@@ -1,0 +1,8 @@
+{_id: 37231, approved: 1, date: 1280893983, email: b55bb21a3d4fb46d18d3ed12d0d09745,
+  karma: 0, message: "Hey,\r\nI was just wondering if there was anything else that\
+    \ I needed to do to get this working. I'm guessing creating a folder with images\
+    \ in a directory which gets read by this plugin.\r\nI've tried running it but\
+    \ I get a \"Warning: opendir.(DIRECTORY ADDRESS)..[function.opendir]: failed to\
+    \ open dir: No such file or directory in (DIRECTORY ADDRESS)\" Message.\r\nA little\
+    \ help would be great.\r\nThanks", name: Vin.F, parent: 0, post_ID: 7, subscribe: Y,
+  url: ''}

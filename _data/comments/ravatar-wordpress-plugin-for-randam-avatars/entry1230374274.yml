@@ -1,0 +1,8 @@
+{_id: 3713, approved: 1, date: 1230374274, email: 61bee8a99433fe2aa0b0f7be5e07ec0a,
+  karma: 0, message: "I had to create the cache directory (and set ownership correctly)\
+    \ for this to work, and then I decided to make the picture selection a little\
+    \ more dynamic.  We have the 'NextGen' plugin installed, so I did this:\r\n\r\n\
+    <code>\r\ncd wp-content/plugins/ravatar\r\nmv parts oldparts\r\nln -s ../../gallery/cache\
+    \ parts\r\n</code>\r\n\r\nNow the ravatars are made up of images that are already\
+    \ on my blog.  Works nice.  Thanks much for a great plugin!", name: Josh, parent: 0,
+  post_ID: 7, subscribe: N, url: ''}

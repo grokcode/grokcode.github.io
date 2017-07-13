@@ -1,0 +1,15 @@
+{_id: 45811, approved: 1, date: 1286349518, email: c9cb3409ab1641389607747a080aea9f,
+  karma: 0, message: "We use a simple input XML document that lists projects plus\
+    \ which outputs are required for each project as an attribute.\r\n\r\nCombine\
+    \ this with an XSLT to generate the ANT script.\r\n\r\no projects.xml is 6.6K\
+    \ bytes, 1/3 of which is a comment block. It describes 70 projects.\r\nIt could\
+    \ also describe libraries, etc.\r\n\r\no ANT.xsl is 26K, again lots of comments.\r\
+    \n\r\no build.xml is 92K, lots of sections of 70 x project_dependent_definition\r\
+    \n\r\nWe have 4 different project.xml variations, all of them use the same XSL.\r\
+    \n\r\nMost common:\r\nYou add a new project, new library, etc. put one line in\
+    \ projects.xml, and run a transform. Done!\r\n\r\nLess common:\r\nYou need a new\
+    \ application, create a new projects.xml. Run the transform. Done!\r\n\r\nVery\
+    \ rare:\r\nYou need a new output from your ANT script. Update the XSL, Transform,\
+    \ Test!\r\n\r\nUsing this approach preserved my sanity since the majority of the\
+    \ build.xml is highly repetitive.", name: Englebart, parent: 0, post_ID: 538,
+  subscribe: N, url: ''}

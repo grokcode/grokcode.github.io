@@ -1,0 +1,22 @@
+{_id: 70664, approved: 1, date: 1346173026, email: 3f1d9f6f0d00a022d9fb1e78e6d324ec,
+  karma: 0, message: "An odd, somewhat cynical conclusion.\r\n\r\nDoesn't introducing\
+    \ a significant defect (i.e. one that must be fixed) that is found by QA delay\
+    \ the ability to ship product? The cost of managing each defect also incurs incremental\
+    \ delays that do add up.\r\n\r\nMore studies would be useful here, but \"faster\
+    \ to develop\" isn't the only relevant factor. What is the cost of a defect? It's\
+    \ not simply the time to fix it. Part of the cost gets shifted to the customer\
+    \ in the form of wasted time or inability to effectively complete work, part of\
+    \ it to your company in the form of support calls. When a defect is significant\
+    \ enough, or when you have gobs of them, you lose customers (seen it). You also\
+    \ lose opportunity time while you fix it, and the cost to fix will often increase\
+    \ as the time between introduction and discovery increases.\r\n\r\nOther studies\
+    \ might examine TDD (practiced with high levels of effort to incrementally keep\
+    \ the code clean) and corresponding codebases over time. Most codebases are not\
+    \ factored well and contain 50-100% more code than they need (this is anecdotal\
+    \ but based off seeing hundreds of customer systems). \r\n\r\nWhat is the long-term\
+    \ cost of a code base that is difficult to understand and maintain? How many of\
+    \ us have spent an afternoon deciphering and struggling with adding a small feature\
+    \ that should have taken only 15 minutes?\r\n\r\nIf I did TDD only to minimize\
+    \ defects, I'd probably worry about the research and numbers more. But I'd also\
+    \ insist on a proper accounting for the true cost of defects.", name: Jeff L.,
+  parent: 0, post_ID: 439, subscribe: Y, url: 'http://langrsoft.com'}

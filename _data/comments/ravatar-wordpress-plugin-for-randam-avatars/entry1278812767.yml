@@ -1,0 +1,8 @@
+{_id: 35412, approved: 1, date: 1278812767, email: 885467116570c97244415d9216f7ff82,
+  karma: 0, message: "Hey thanks for a great plugin, \r\n\r\nTwo Bugs : \r\n1. A line\
+    \ this blog uses Ravatar plugin is displayed at random places on the blog. i am\
+    \ using AutoFocus theme.\r\n2. I am using Buzz Comments plugin to fetch comments\
+    \ from Google BUZZ, for all the comments made using BUZZ, there are two avatars\
+    \ shown, the default BUZZ &amp; RAVATAR too.\r\n Is there a way to show RAVATAR\
+    \ avatar(:D) only if the BUZZ avatar is not available.  Just like Gravatar.",
+  name: pixelkeeda, parent: 0, post_ID: 7, subscribe: Y, url: 'http://www.rushikesh.net'}

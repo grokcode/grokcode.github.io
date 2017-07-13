@@ -1,0 +1,10 @@
+{_id: 3511, approved: 1, date: 1229595734, email: 971dd423d7a625d707b90a68dfc6ef26,
+  karma: 0, message: "Just re-installed the plugin with cache folder that I created\
+    \ within it, cuz I got this error when I installed before:\r\n\r\n Warning: opendir(/mnt/local/home/wwwindi/innerstellarmedium.com/wp-content/plugins/ravatar/cache)\
+    \ [function.opendir]: failed to open dir: No such file or directory in /mnt/local/home/wwwindi/innerstellarmedium.com/wp-content/plugins/ravatar/ravatars.php\
+    \ on line 213\r\nCannot open directory for reading.\r\n\r\nThe error did not come\
+    \ up again, but still no icon in the comment itself. Weird how it worked at 1st\
+    \ and then doesn't now? In Settings, there is Favicon where I see a few options\
+    \ as to how to tweak it, but not all of them, especially not autoplacement. Thank\
+    \ you for your help. I love this plugin and hope I will eventually get it to work\
+    \ in 2.7!", name: wwwindi, parent: 0, post_ID: 7, subscribe: Y, url: 'http://innerstellarmedium.com'}

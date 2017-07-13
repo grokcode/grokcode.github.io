@@ -1,0 +1,31 @@
+{_id: 70610, approved: 1, date: 1336669781, email: 8baedea0a4d84d4f53001bd9bdec1c87,
+  karma: 0, message: "Python scripts are a terse computer program, Ruby scripts are\
+    \ a concise design document. Python is designed with terseness and professionalism\
+    \ in mind, Ruby is written with conciseness and developer happiness in mind.\r\
+    \nIn Python, whitespace is part of the syntax so your program will look a certain\
+    \ way depending on your code, in Ruby whitespace is there if you want it, gone\
+    \ otherwise. You can spread your code out and it won't affect the program in any\
+    \ way.\r\n\r\nFor Hello World;\r\n\r\nPython:\r\nprint(\"Hello World\")\r\n\r\n\
+    Ruby:\r\nputs \"Hello World\"\r\n\r\nThe brackets scream COMPUTER_PROGRAM so when\
+    \ confronted with that a lot of people will panic and then say they have no idea\
+    \ what it does. puts \" \" on the other hand is easy to read, while still being\
+    \ concise. I should probably point out that terse and concise are being used differently\
+    \ here, concise being simplistic (no flowery sentences) meets developer happiness\
+    \ (ease of reading), terseness being simplistic meets professionalism in the computing\
+    \ world (Think Microsoft ten years ago). One has lots of brackets and proper formatting,\
+    \ the other has much less \"terminology\" and leaves you to format as you please,\
+    \ provided it's syntactically correct of course. Think of it like noise vs signal\
+    \ at the macro level and cryptic vs clear at the micro level.\r\n\r\nThe websites\
+    \ for languages to the best of my knowledge will reflect the particular language\
+    \ design process, code of conduct and thought process for coding in it. Take VB.NET,\
+    \ verbose and made by a very large, very rich, very professional company. The\
+    \ website looks like it's written by a marketer who gets paid a fortune but has\
+    \ no imagination and no experience with the language.\r\n\r\nRuby websites (especially\
+    \ a few of the tutorial ones, Hackety-Hack for instance) look like they've been\
+    \ written by an artistic five year old in crayon for the sheer joy of doing so.\
+    \ Any language that is built around design and developer happiness is going to\
+    \ affect everything it's associated with. It can't not, to abuse the English language.\
+    \ \r\n\r\nThe only immediate solution is to be happy and code in Ruby. =P\r\n\r\
+    \nA funny note, even the Wikipedia page for Ruby\r\nhttp://en.wikipedia.org/wiki/Ruby_%28programming_language%29\r\
+    \nis full of colour and whitespace.", name: Chris Bertoli, parent: 0, post_ID: 746,
+  subscribe: Y, url: ''}

@@ -1,0 +1,5 @@
+{_id: 70424, approved: 1, date: 1309876872, email: e1c4fde57279d9459c78e721c31cb314,
+  karma: 0, message: 'I don''t think there are any best practices for branching that
+    would apply to all source control systems. Git and SVN, for example, have very
+    different views on branching.', name: Alex Shane, parent: 0, post_ID: 717, subscribe: N,
+  url: ''}

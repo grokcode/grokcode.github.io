@@ -1,0 +1,8 @@
+{_id: 45609, approved: 1, date: 1286259440, email: 4621535720a18c899335e19ce276eefc,
+  karma: 0, message: 'It was my understanding that the reason <code>make</code> was
+    not suitable for building Java code (at least when using <code>javac</code>) was
+    due to the <code>javac behavior of pulling dependencies into the compilation stage
+    if they were needed to correctly build a class file, thus making some dependencies
+    implicit, which <code>make</code> is rather bad at dealing with. See http://www.fudco.com/software/jdep.html
+    for one solution to this problem.', name: cjh, parent: 0, post_ID: 538, subscribe: N,
+  url: ''}

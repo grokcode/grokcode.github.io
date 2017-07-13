@@ -1,0 +1,5 @@
+{_id: 246, approved: 1, date: 1207414987, email: c4bb682be6f94045498232469488ea2f,
+  karma: 0, message: "Nrgh. The comment form ate parts of my code.\r\n\r\nSorry.\r\
+    \n\r\nWould that be\r\n\r\n&lt;? php ravatar_show($comment-&gt;comment_author_email);\
+    \ ?&gt;\r\n\r\nor something else?", name: JunoMagic, parent: 0, post_ID: 7, subscribe: N,
+  url: ''}

@@ -1,0 +1,7 @@
+{_id: 72139, approved: 1, date: 1415769605, email: bc58b21652f5f4a2120e5a0be3723399,
+  karma: 0, message: 'Gradle is one good answer to CI build systems, where Maven miserably
+    fails. Gradle has learnt from the mistakes of Maven and similar tools, it has
+    an awesome DSL, it is programmable and pragmatic. I have successfully worked on
+    projects migrating from maven to gradle and have been very happy. And developers
+    are happy, not having to fight with a monster called xml.', name: vasya10, parent: 0,
+  post_ID: 538, subscribe: N, url: 'http://vasya10.wordpress.com'}

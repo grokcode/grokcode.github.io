@@ -1,0 +1,28 @@
+{_id: 45657, approved: 1, date: 1286277021, email: 6ab279bbae0d97c26d3663908e22c1c7,
+  karma: 0, message: "One big reason holding back the adoption of Groovy-based alternatives\
+    \ like AntBuilder, Gant, and Gradle is the lack of any useful documentation. \
+    \ If you take a look at the AntBuilder documentation (http://groovy.codehaus.org/gapi/)\
+    \ you will not find anything about using javac, war, jar or any of the other Ant\
+    \ targets.  Groovy uses dynamic method invocation so the appropriate Ant target\
+    \ call does not show up in the Javadoc - or anywhere else for that matter.\r\n\
+    \r\nSame situation with Gant.  No docs on how to actually use it.\r\n\r\nGradle\
+    \ is an astronautical approach to ... something.  I havent' figured out what yet.\r\
+    \n\r\nIf you want to convert the simplest Ant script to Gradle the Gradle docs\
+    \ are so bad that you can't find how to do it.  Here's a thread on the Gradle\
+    \ mail list about converting a very simple Ant script to Gradle:\r\n\r\n  http://gradle.1045684.n5.nabble.com/Example-or-tutorial-of-migrating-from-Ant-to-Gradle-td2852129.html#a2852129\r\
+    \n\r\n14 responses and 3 days later and I was almost there.  Here's a taste of\
+    \ what's in store for you with Gradle.  In Gradle your javac classpath is called\
+    \ a dependency, not a classpath, but they don't bother explaining that basic fact\
+    \ anywhere.\r\n\r\nI don't want to try to learn Gradle with an astronautical project.\
+    \  I want to transition to it starting with a simple project, but even that little\
+    \ bit is undocumented.  (I dont' think any of the projects I've worked on conform\
+    \ to Gradle's convention, so their plugins won't work.)\r\n\r\nGradle is an example\
+    \ of how to make a simple thing difficult with Astronautical Architecture.\r\n\
+    \r\nI'm moving ahead with Groovy and AntBuilder.  I'll have to discover what the\
+    \ allowed method calls are and what parameters are required and what they are\
+    \ called, but it shouldn't be that difficult.  I'm hoping a good dive into the\
+    \ AntBuilder code will answer my questions.\r\n\r\nIf the people on the Gradle\
+    \ project would just write some concise, useful documentation there would be a\
+    \ lot more adoption of Gradle.  But the existing Gradle user guide is worthless.\r\
+    \n\r\nLack of documentation is what is holding back adoption of Groovy-based alternatives.",
+  name: Dean Schulze, parent: 0, post_ID: 538, subscribe: Y, url: ''}

@@ -1,0 +1,8 @@
+{_id: 3546, approved: 1, date: 1229715634, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: '@wwwindi Sorry about the troubles you are having.  You''re right,
+    you won''t see the autoplacement option in that version of wordpress.  Looking
+    at your site, I see that it is creating ravatars, although I''m not sure if they
+    are from the default images or from the custom images you uploaded.  I would go
+    ahead and modify your theme to put a call to  ravatar_show($comment->comment_author_email);
+    in your comments loop.  Are you able to see ravatars after making that change?',
+  name: Jess Johnson, parent: 0, post_ID: 7, subscribe: N, url: 'http://grokcode.com'}

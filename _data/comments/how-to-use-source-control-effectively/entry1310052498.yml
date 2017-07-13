@@ -1,0 +1,6 @@
+{_id: 70426, approved: 1, date: 1310052498, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: "Yeah, it is tough to make general comments about how to handle\
+    \ branching and tagging since different source control systems handle it differently.\r\
+    \n\r\nOne point I didn't mention in the article is that it is useful to tag each\
+    \ release / revision that goes into production.", name: Jess Johnson, parent: 70424,
+  post_ID: 717, subscribe: N, url: 'http://grokcode.com/'}

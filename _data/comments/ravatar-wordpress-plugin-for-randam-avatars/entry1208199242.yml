@@ -1,0 +1,8 @@
+{_id: 319, approved: 1, date: 1208199242, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: '@Carmen It looks like a file permission problem. Try creating
+    a directory called cache inside of /wp-content/plugins/ravatars, then make sure
+    that the owner of the directory has read, write, and execute permissions on the
+    directory.  This page has some additional info on changing permissions if you
+    need it: <a href="http://samdevol.com/wordpress-troubleshooting-permissions-chmod-and-paths-oh-my/"
+    rel="nofollow">http://samdevol.com/wordpress-troubleshooting-permissions-chmod-and-paths-oh-my/</a>',
+  name: Jess Johnson, parent: 0, post_ID: 7, subscribe: N, url: 'http://grokcode.com'}

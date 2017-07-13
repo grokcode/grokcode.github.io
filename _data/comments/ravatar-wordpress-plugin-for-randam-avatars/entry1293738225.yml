@@ -1,0 +1,9 @@
+{_id: 63469, approved: 1, date: 1293738225, email: d364b709d3aa46a0fe25360bc465ac1f,
+  karma: 0, message: "Hi there - this looks to be an awesome plugin! \r\n\r\nI find\
+    \ myself getting some odd warnings that show up directly above the comment right\
+    \ after it's published. Upon pressing the browser \"refresh\" button they disappear,\
+    \ but it happens each time. Here's what I'm seeing:\r\n\r\nWarning: Division by\
+    \ zero in /home/bluehil1/public_html/blog/wp-content/plugins/ravatar/ravatars.php\
+    \ on line 325\r\n\r\nWarning: Division by zero in /home/bluehil1/public_html/blog/wp-content/plugins/ravatar/ravatars.php\
+    \ on line 326\r\n\r\nAny idea why I might be getting these warnings?\r\n\r\nThanks\
+    \ so much!!", name: Kristine, parent: 0, post_ID: 7, subscribe: Y, url: ''}

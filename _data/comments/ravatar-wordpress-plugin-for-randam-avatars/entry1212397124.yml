@@ -1,0 +1,5 @@
+{_id: 735, approved: 1, date: 1212397124, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: '@explorish How are you getting the recent comments? Through
+    a plugin?  If so, have a look in the plugin code and you should find a recent
+    comments loop there.  Then add get_avatar the same way you did for the regular
+    comments loop.', name: Jess Johnson, parent: 0, post_ID: 7, subscribe: N, url: 'http://grokcode.com'}

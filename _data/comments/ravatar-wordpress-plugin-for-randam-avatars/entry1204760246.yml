@@ -1,0 +1,10 @@
+{_id: 177, approved: 1, date: 1204760246, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: "Strange.  If you are telling it that you want icons of say,\
+    \ 80 pixels, and all of the images in the plugins/ravatar/parts directory are\
+    \ 80 pixels, it should try to crop the image, but since it can't be cropped it\
+    \ should just return the original image.  It isn't doing that?\r\n\r\nWell anyway,\
+    \ it shouldn't be that hard to do it in the code.  On lines 258 and 259 you should\
+    \ have \r\n$width_off = (hexdec(substr ($seed, 6, 5)) % ($width - AVATAR_SIZE));\r\
+    \n$height_off = (hexdec(substr ($seed, 11, 5)) % ($height - AVATAR_SIZE));\r\n\
+    \r\nChange those lines to\r\n$width_off = 0;\r\n$height_off = 0;", name: Jess
+    Johnson, parent: 0, post_ID: 7, subscribe: N, url: 'http://grokcode.com'}

@@ -1,0 +1,10 @@
+{_id: 2179, approved: 1, date: 1223285518, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: "Yeah, 2 is pretty ugly.  I once worked on some code structured\
+    \ like this, but nested 6 or 7 levels deep and pages long.  It was controlling\
+    \ some AI for a NPC in a little demo game.  As we tried to debug it, we added\
+    \ continue statements (the whole thing was in a loop) everywhere and the AI just\
+    \ got dumber and dumber...I'm not sure if we actually found the bug before the\
+    \ deadline.  \r\n\r\nThat was back in University when we didn't know any better.\
+    \  It would have been better to just rewrite it, but our sleep deprived brains\
+    \ just didn't hit on that idea.", name: Jess Johnson, parent: 0, post_ID: 80,
+  subscribe: N, url: 'http://grokcode.com'}

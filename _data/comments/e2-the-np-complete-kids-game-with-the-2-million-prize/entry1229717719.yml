@@ -1,0 +1,6 @@
+{_id: 3547, approved: 1, date: 1229717719, email: a74f73155f271f6651dea5825030015c,
+  karma: 0, message: '@/\/ The recursive algorithm may be causing a performance hit.  I''m
+    curious how much faster the prolog test ran?  Also, I''m not exactly testing on
+    a state of the art box, so if your test is running on better hardware, that could
+    be causing the difference.', name: Jess Johnson, parent: 0, post_ID: 10, subscribe: N,
+  url: 'http://grokcode.com'}

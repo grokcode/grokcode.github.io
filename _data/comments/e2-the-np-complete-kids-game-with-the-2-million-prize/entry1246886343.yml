@@ -1,0 +1,9 @@
+{_id: 19699, approved: 1, date: 1246886343, email: b86319b6b8452bf629485f4bc7bb15ad,
+  karma: 0, message: "I had to make major modifications to algorithm. First i had\
+    \ a rotating table which worked, but was not efficient enough multiple cores and\
+    \ fixed start pieces seem to be the way. I had also randomization bug (pieces\
+    \ were not rotated). Last i had loading problem for test data. Now almost all\
+    \ features are implemented and working. So better results are comming :-)\r\n\r\
+    \nGrok 8x8 with 2 hints (Piece order is randomized and randomly rotated) \r\n\
+    Six runs average 26 min (Min 10 -  Max 52)\r\n\r\nWith correct corner piece best\
+    \ time is 3,30 min", name: P-E-X, parent: 0, post_ID: 10, subscribe: Y, url: ''}

@@ -1,0 +1,6 @@
+{_id: 20082, approved: 1, date: 1248513621, email: 9d9f27336d38932f199871e94ba49802,
+  karma: 0, message: "On the line: 448:\r\n\r\nreturn ravatar_show ($comment-&gt;comment_author_email)\
+    \ . \" \" . $author;\r\n\r\nrepleace with\r\n\r\nreturn $author;\r\n\r\nwhy? If\
+    \ in the theme is a get_avatar() function, this will reduplicate avatar, and its'\
+    \ horrible looks like.\r\n\r\nRegards.", name: cojack, parent: 0, post_ID: 7,
+  subscribe: N, url: 'http://cojack.os-cms.pl'}
