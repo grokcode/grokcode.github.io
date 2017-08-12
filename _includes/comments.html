@@ -7,10 +7,6 @@
     </p>
   </header>
 
-  <div id="moderation" class="hidden">
-    <p>Thanks! Your comment is awaiting moderation.</p>
-  </div>
-
   {% assign num_comments = comments | size %}
   {% if num_comments == 0 %}
     <h3>No comments yet, you could be first.</h3>
@@ -25,14 +21,20 @@
   </ol>
   <h3>Leave a reply</h3>
   <form id="comment-form" method="POST" action="https://api.staticman.net/v2/entry/grokcode/grokcode.github.io/master/comments">
-    <input name="options[redirect]" type="hidden" value="{{ site.url }}{{ page.permalink }}?comments=y&moderation=t">
     <input name="options[slug]" type="hidden" value="{{ page.slug }}">
     <label><input name="fields[name]" type="text">Name (required)</label>
     <label><input name="fields[email]" type="email">Email (required)</label>
     <label><input name="fields[url]" type="text">Website</label>
     <textarea name="fields[message]"></textarea>
-  
-    <button type="submit">Submit Comment</button>
+
+    <div id="moderation" class="hidden js-notice">
+      <p class="js-notice-text"></p>
+    </div>
+
+    <button id="comment-form-submit" type="submit">
+      <span class="btn-txt">Submit Comment</span>
+      <div class="loader">Loading...</div>
+    </button>
   </form>
 
 </div>
