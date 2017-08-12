@@ -219,6 +219,10 @@ input[type="submit"], button {
   }
 }
 
+button:focus {
+  outline: 0;
+}
+
 hr {
   background: #dddddd;
   margin: 30px 0;
