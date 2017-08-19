@@ -81,6 +81,12 @@ body {
   display: none;
 }
 
+.post-portfolio .post-content {
+  img {
+    max-width: 364px;
+  }
+}
+
 @media #{$on-desktop} {
   #header {
     width: 21%;
