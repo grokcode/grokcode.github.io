@@ -1,4 +1,4 @@
-GitHub Pages site, built by GitHub, using [Jekyll(https://jekyllrb.com/docs/quickstart/)
+GitHub Pages site, built by GitHub, using [Jekyll](https://jekyllrb.com/docs/quickstart/)
 
 
 View Locally
