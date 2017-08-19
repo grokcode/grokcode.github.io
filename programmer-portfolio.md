@@ -9,6 +9,67 @@ description: >
   Science-backed apps for changing your life, Data-crunching SaaS products, open source Django apps, Stripe payment integration, Joke Generation... Built with love and Python.
 keywords: portfolio, programming, developer, grokcode, python, django, full stack engineer, senior python developer
 ---
+
+## MindSet {#mindset}
+
+<ul class="skillList">
+  <li>Python</li>
+  <li>Django</li>
+  <li>Bootstrap</li>
+  <li>ES6</li>
+  <li>JQuery</li>
+  <li>Backbone</li>
+  <li>Underscore</li>
+  <li>Ansible</li>
+  <li>Vagrant</li>
+</ul>
+
+<div>
+  <img src="{{ site.baseimgurl }}mindset.png" alt="MindSet" class="left img-noborder" />
+</div>
+
+**When:** 2014-2017
+
+**Contribution:** Full Stack Developer, DevOps
+
+**Description:** MindSet: The Good Habit App makes it easy for users to choose small, easily managed habits and gradually move toward bigger target behaviors. It promotes physical activity, improved sleep, better eating, positive emotion and social support. MindSet includes a fully responsive web app and native apps (Android and iOS) for tracking habits.
+
+It integrates with Fitbit, Misfit, and Nokia APIs to chart steps, weight, and blood pressure alongside habit completion and mood data. Reminders to track are sent via push notification and text message.
+
+MindSet development follows agile best practices like continuous integration and deploy. It includes a full suite of unit tests, code conforming to PEP8 and eslint rules, error monitoring, and downtime alerts.
+
+**More Info:** [MindSet sales page](http://www.orcasinc.com/products/mindset-good-habit/)
+
+
+## MoodHacker {#moodhacker}
+
+<ul class="skillList">
+  <li>Python</li>
+  <li>Django</li>
+  <li>Bootstrap</li>
+  <li>JQuery</li>
+  <li>Backbone</li>
+  <li>Underscore</li>
+  <li>Ansible</li>
+  <li>Vagrant</li>
+</ul>
+
+<div>
+  <img src="{{ site.baseimgurl }}moodhacker.png" alt="MoodHacker" class="left" />
+</div>
+
+**When:** 2014-2017
+
+**Contribution:** Full Stack Developer, DevOps
+
+**Description:** MoodHacker is a way to track, understand, and improve your mood with scientific mood boosting techniques. This is a fully responsive web app, with companion apps for iOS and Android built with PhoneGap.
+
+MoodHacker was developed with agile development best practices like continuous integration and deploy, a full suite of unit tests with pytest, code style following PEP8 and eslint rules, and error monitoring and downtime alerts.
+
+**More Info:** [MoodHacker sales page](http://www.orcasinc.com/products/moodhacker/)
+
+
+
 ## Author Alcove {#author-alcove}
 
 <ul class="skillList">
@@ -63,24 +124,36 @@ Stats tracking, conversion analysis, and lifecycle emails have been built into t
 
 **More info:** An IPython notebook with [website traffic analysis and notes on scaling and capacity planning](http://nbviewer.ipython.org/github/grokcode/ipython-notebooks/blob/master/nginx-log-analysis.ipynb) is available. Visit the live site at [authoralcove.com](http://authoralcove.com).
 
-## Django Email Analytics {#django-email-analytics}
+
+## GrokCode Website {#grokcode-website}
 
 <ul class="skillList">
   <li>
-    Python
+   GitHub Pages
   </li>
   <li>
-    Django
+    HTML
+  </li>
+  <li>
+    Sass
+  </li>
+  <li>
+    JavaScript
   </li>
 </ul>
 
-**When:** 2014
+<div>
+  <img src="{{ site.baseimgurl }}grokcode-screenshot.png" alt="GrokCode Screenshot" width="362" height="211" class="left" />
+</div>
 
-**Contribution:** Solo Developer
+**When:** 2007-{{ 'now' | date: "%Y" }}
 
-**Description:** Django Email Analytics is an open source Django app that seamlessly adds Google Analytics tracking codes to emails sent with Django. It provides a wrapper for Django&#8217;s standard email backends.
+**Contribution:** Writer
 
-**More info:** Download the app from [PyPi](https://pypi.python.org/pypi/django-email-analytics) or [browse the source](https://github.com/grokcode/django-email-analytics) on Github.
+**Description:** GrokCode has been alive in one form or another since 2007. It was previously the home of the GrokCode Development Shop and blog, but now that I have moved away from consulting, it serves as an archive of articles on software development. It is a space for publishing tutorials, long form articles, and opinion pieces covering the various facets of building things on the internet. 
+
+**More info:** You&#8217;re already here, but you can look at the [GrokCode homepage](http://grokcode.com) or find out more [about me](http://grokcode.com/about).
+
 
 ## PPC Reporting System {#ppc-reporting-system}
 
@@ -126,32 +199,6 @@ Stats tracking, conversion analysis, and lifecycle emails have been built into t
 
 Data is imported via SOAP APIs, parsed CSV files, and manual imports. The project features a multi-tiered login system which allows administrators to manage client login credentials, management features for adding new search engines as data sources, and 11 different reports which can be broken down by a variety of data metrics. The system is scaled to handle real time generation of custom reports with hundreds of thousands of data points.
 
-## A/B Landing Page Testing {#ab-landing-page-testing}
-
-<ul class="skillList">
-  <li>
-    PHP
-  </li>
-  <li>
-    mySQL
-  </li>
-  <li>
-    HTML
-  </li>
-</ul>
-
-<div>
-  <img src="{{ site.baseimgurl }}2008/07/ablanding.png" alt="AB Landing Page Testing" class="left" />
-</div>
-
-**When:** 2006
-
-**Contribution:** Full Stack Engineer, Statistical Analysis
-
-**Description:** Statistically analyzes the relative effectiveness of 2 or more versions of a web page.
-
-This SaaS application uses a multi-tiered user system so that partners can change the branding and color scheme of the interface and manage tests for their clients. New tests are created by adding the URLs of the test pages to the application and installing tracking codes on the client&#8217;s server. The test results can then be viewed on the web application&#8217;s reports page.
-
 ## Geotargeter for Amazon {#geotargeter-for-amazon}
 
 <ul class="skillList">
@@ -190,81 +237,14 @@ This SaaS application uses a multi-tiered user system so that partners can chang
 
 The accompanying website uses Stripe for payments.
 
-## GrokCode Website {#grokcode-website}
 
-<ul class="skillList">
-  <li>
-    PHP
-  </li>
-  <li>
-    HTML
-  </li>
-  <li>
-    CSS
-  </li>
-  <li>
-    JavaScript
-  </li>
-</ul>
 
-<div>
-  <img src="{{ site.baseimgurl }}grokcode-screenshot.png" alt="GrokCode Screenshot" width="362" height="211" class="left" />
-</div>
+## Odds & Ends {#odds-n-ends}
 
-**When:** 2007-{{ 'now' | date: "%Y" }}
+**Django Template Field:** An open source Django app for storing templates in the database and rendering them via a database manager. Check out the [docs](https://django-template-field.readthedocs.io/), download from [PyPI](https://pypi.python.org/pypi/django-template-field/), or [browse the source code](https://github.com/orcasgit/django-template-field).
 
-**Contribution:** Writer
+**Django Email Analytics:** An open source Django app that seamlessly adds Google Analytics tracking codes to emails sent with Django. It provides a wrapper for Django&#8217;s standard email backends. Download the app from [PyPI](https://pypi.python.org/pypi/django-email-analytics) or [browse the source](https://github.com/grokcode/django-email-analytics) on Github.
 
-**Description:** GrokCode has been alive in one form or another since 2007. It was previously the home of the GrokCode Development Shop and blog, but now that I have moved away from consulting, it serves as an archive of articles on software development. It is a space for publishing tutorials, long form articles, and opinion pieces covering the various facets of building things on the internet. 
+**Joke generator:** The joke generator is programmatically seeded with knowledge about different nouns and modifiers, then uses that vocabulary to make jokes. All of the jokes are of the form: “What do you get when you cross X with Y?” This code was written as a final project for a graduate level AI class at UC Berkeley. _Q:_ What do you get when you cross a port with Frosted Flakes? _A:_ I don't know but it's serial! [Lisp Source code.](https://github.com/grokcode/Joke-Generator)
 
-**More info:** You&#8217;re already here, but you can look at the [GrokCode homepage](http://grokcode.com) or find out more [about me](http://grokcode.com/about).
-
-## Ravatars {#ravatars}
-
-<ul class="skillList">
-  <li>
-    PHP
-  </li>
-  <li>
-    HTML
-  </li>
-  <li>
-    CSS
-  </li>
-  <li>
-    WordPress
-  </li>
-</ul>
-
-**When:** 2008-2009
-
-**Contribution:** Solo Developer
-
-**Description:** Ravatars is an open source WordPress plugin for generating custom avatars for blog comments. It has a 4.8 star rating and has been downloaded nearly 5,000 times.
-
-**More info:** Visit the download page to [get the Ravatars plugin](http://wordpress.org/extend/plugins/ravatar/).
-
-## Joke Generator {#joke-generator}
-
-<ul class="skillList">
-  <li>
-    Lisp
-  </li>
-  <li>
-    Artificial Intelligence
-  </li>
-</ul>
-
-<div>
-  <img class="left" src="{{ site.baseimgurl }}2008/07/joke-generator.png" alt="Joke Generator" />
-</div>
-
-**When:** 2004
-
-**Contribution:** Solo Developer
-
-**Description:** The joke generator is programmatically seeded with knowledge about different nouns and modifiers, then uses that vocabulary to make jokes. The generator searches every possible combination of <modifier> <noun>, <modifier> <noun> in its vocabulary, and tries to create a punchline based on different transformations. All of the jokes are of the form: “What do you get when you cross X with Y?” This code was written as a final project for a graduate level AI class at UC Berkeley.
-
-_Q:_ What do you get when you cross a port with Frosted Flakes? _A:_ I don&#8217;t know but it&#8217;s serial!
-
-_More info:_ The code is [available on GitHub](https://github.com/grokcode/Joke-Generator).
+[Even more odds & ends on GitHub](https://github.com/grokcode)
