@@ -13,7 +13,7 @@ description: >
   <div id="recent" class="extraBox">
     <h3 class="accent-header">Recent Articles</h3>
     <ul class="post-list">
-      {% for post in site.posts | limit: 2 %}
+      {% for post in site.posts limit:2 %}
         {% include post_summary.html post=post %}
       {% endfor %}
     </ul>

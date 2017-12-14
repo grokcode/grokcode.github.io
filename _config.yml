@@ -37,7 +37,7 @@ exclude:
   - Gemfile
 
 # Build settings
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-feed
 
