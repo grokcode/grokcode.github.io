@@ -2,7 +2,8 @@
 title: Why Move From WordPress to Jekyll?
 author: Jess Johnson
 layout: post
-description:
+description: >
+  Why move from WordPress to a static Jekyll site hosted on GitHub Pages? Better performance, cost, and uptime, plus a more natural workflow for developers.
 categories:
   - 'Extras'
 ---
