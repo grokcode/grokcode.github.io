@@ -18,7 +18,7 @@ layout: default
 
   {% assign comments = site.data.comments[page.slug] %}
   <p class="post-meta bottom">
-    <span><a class="permalink" href="{{ site.url }}{{ page.permalink }}">#</a></span>
+    <span><a class="permalink" href="{{ site.url }}{{ page.url }}">#</a></span>
     <span class="date">{{ page.date | date: "%B %-d, %Y" }}</span>
     <span class="comment-count"><a href="{{ page.permalink }}?comments=y">{{ comments | size }} Comments</a></span>
   </p>
