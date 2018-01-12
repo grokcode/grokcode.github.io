@@ -46,7 +46,7 @@ Another drawback specific to GitHub Pages with custom domains is that it require
 
 The next big missing piece is a comment system. The most common solution is a JavaScript commenting system like Disqus, but the appearance and functionality isn't customizable to the level I was looking for, and the import of existing comments was painful. Also having the site comments live on, and be controlled by, a third-party service didn't sit right with me.
 
-<img class="alignleft" src="{{ site.baseimgurl }}staticman-logo.png" alt="staticman"/>
+<img class="alignleft" src="{{ absolute_url }}{{ site.baseimgurl }}staticman-logo.png" alt="staticman"/>
 
 Enter [Staticman](https://staticman.net/). The comment form is set up to POST to the Staticman service, which will then open a pull request on GitHub with the content of the comment in a format that the template can display. This is very cool! But...I'm currently looking at **_293 PRs for spam comments_** that I need to clean out. I tend to get a few of these a day, so it really needs a more robust solution. Staticman does have support for [akismet](https://en.wikipedia.org/wiki/Akismet), but unfortunately at the moment it requires running your own Staticman instance.
 
