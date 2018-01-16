@@ -129,10 +129,10 @@ Stats tracking, conversion analysis, and lifecycle emails have been built into t
 
 <ul class="skillList">
   <li>
-   GitHub Pages
+    Jekyll
   </li>
   <li>
-    HTML
+    Liquid Templates
   </li>
   <li>
     Sass
@@ -148,11 +148,13 @@ Stats tracking, conversion analysis, and lifecycle emails have been built into t
 
 **When:** 2007-{{ 'now' | date: "%Y" }}
 
-**Contribution:** Writer
+**Contribution:** Writer, Theme Porter
 
 **Description:** GrokCode has been alive in one form or another since 2007. It was previously the home of the GrokCode Development Shop and blog, but now that I have moved away from consulting, it serves as an archive of articles on software development. It is a space for publishing tutorials, long form articles, and opinion pieces covering the various facets of building things on the internet. 
 
-**More info:** You&#8217;re already here, but you can look at the [GrokCode homepage](http://grokcode.com) or find out more [about me](http://grokcode.com/about).
+GrokCode is a Jekyll static site running on GitHub pages, with comments provided by Staticman.
+
+**More info:** You're already here, but you can look at the [GrokCode homepage](http://grokcode.com) or find out more [about me](http://grokcode.com/about).
 
 
 ## PPC Reporting System {#ppc-reporting-system}
