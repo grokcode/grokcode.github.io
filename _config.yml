@@ -10,13 +10,13 @@ about: > # Sidebar about section
   for new ways to hone my full-stack development chops.
 intro: > # Main page top text
   Hi, I’m Jess, a developer building delightfully awesome things. You can find
-  out more [about me](https://www.grokcode.com/about/), have a look at some [things
-  I’ve built](https://www.grokcode.com/programmer-portfolio/), scroll down for my
+  out more [about me](http://grokcode.com/about/), have a look at some [things
+  I’ve built](http://grokcode.com/programmer-portfolio/), scroll down for my
   latest writing on software development, or browse the [article
-  archives](https://www.grokcode.com/category/archives/).
+  archives](http://grokcode.com/category/archives/).
 baseurl: "" # the subpath of your site, e.g. /blog/
 baseimgurl: "/assets/img/"
-url: "https://www.grokcode.com" # the base hostname & protocol for your site
+url: "http://grokcode.com" # the base hostname & protocol for your site
 permalink: ':title/'
 twitter_username: grokcode
 github_username:  grokcode
