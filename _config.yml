@@ -13,7 +13,9 @@ intro: > # Main page top text
   out more [about me](http://grokcode.com/about/), have a look at some [things
   I’ve built](http://grokcode.com/programmer-portfolio/), scroll down for my
   latest writing on software development, or browse the [article
-  archives](http://grokcode.com/category/archives/).
+  archives](http://grokcode.com/category/archives/).<br><br>
+  If you are looking for a Full Stack Developer, we should chat. I'm currently
+  [looking for my next big thing](http://www.grokcode.com/hire/).
 baseurl: "" # the subpath of your site, e.g. /blog/
 baseimgurl: "/assets/img/"
 url: "http://grokcode.com" # the base hostname & protocol for your site
