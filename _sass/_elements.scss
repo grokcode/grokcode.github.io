@@ -86,18 +86,18 @@
   }
   .post-meta.bottom {
     float: right;
-    margin: 30px 0 8px 0;
+    margin: 10px 0 16px 0;
     span {
       margin: 0 5px;
     }
   }
 }
 
-#content > .flare {
+.sharethis-inline-share-buttons {
   float: left;
-  top: -40px;
-  padding-top: 0;
-  z-index: -5;
+  .st-btn {
+    display: inline-block !important;
+  }
 }
 
 .post-portfolio {
