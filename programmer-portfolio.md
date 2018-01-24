@@ -5,6 +5,7 @@ menu_title: Portfolio
 date: 2010-08-28T12:19:00+00:00
 author: Jess Johnson
 layout: page
+img: authoralcove-screenshot1-e1376434691158.png
 description: >
   Science-backed apps for changing your life, Data-crunching SaaS products, open source Django apps, Stripe payment integration, Joke Generation... Built with love and Python.
 keywords: portfolio, programming, developer, grokcode, python, django, full stack engineer, senior python developer

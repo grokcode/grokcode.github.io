@@ -16,7 +16,9 @@
     {% endif %}
   {% endcapture %}
   <meta name="description" content="{{ description | strip }}">
-
+  {% if page.img %}
+    <meta property='og:image' content="{{ site.url }}{{ site.baseimgurl }}{{ page.img }}" />
+  {% endif %}
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Droid+Sans:regular,italic,bold,bolditalic" />
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Droid+Serif:regular,italic,bold,bolditalic" />
