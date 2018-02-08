@@ -107,7 +107,6 @@ h3 {
   .post-meta.top {
     text-align: center;
   }
-
 }
 
 
@@ -134,7 +133,14 @@ blockquote {
   padding: $spacing-unit / 2 $spacing-unit / 2 1px $spacing-unit / 2;
 }
 
+small {
+  font-size: $small-font-size;
+}
 
+p.img-attr {
+  font-size: $small-font-size;
+  margin-top: -1em;
+}
 
 /**
  * Code formatting
