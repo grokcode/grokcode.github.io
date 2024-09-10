@@ -1,5 +1,12 @@
 GitHub Pages site, built by GitHub, using [Jekyll](https://jekyllrb.com/docs/quickstart/)
 
+Setup Local Env
+---------------
+
+`brew install rbenv`
+`rbenv install` (From the repo base directory which contains `.ruby-version`)
+
+
 
 View Locally
 ------------
