@@ -14,15 +14,14 @@ intro: > # Main page top text
   I’ve built](http://www.grokcode.com/programmer-portfolio/), scroll down for my
   latest writing on software development, or browse the [article
   archives](http://www.grokcode.com/category/archives/).<br><br>
-  If you are looking for a Full Stack Developer, we should chat. I'm currently
+  If you are looking for a Backend Developer, we should chat. I'm currently
   [looking for my next big thing](http://www.grokcode.com/hire/).
 baseurl: "" # the subpath of your site, e.g. /blog/
 baseimgurl: "/assets/img/"
 url: "http://www.grokcode.com" # the base hostname & protocol for your site
 permalink: ':title/'
-twitter_username: grokcode
 github_username:  grokcode
-gplus_id: 104959372961388172986
+linkedin_username: grokcode
 
 category_slugs:
   Books &amp; Tools: books-tools
